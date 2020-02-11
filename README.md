@@ -7,8 +7,8 @@ Jekyll-Seite, benutzt [okf-pub-theme](https://github.com/okfde/okf-pub) als Them
 Das Repo clonen, hinein gehen, Abhängigkeiten installieren, Jekyll starten.
 
 ``` bash
-$ git clone git@github.com:okfde/taetigkeitsbericht.okfn.de.git \
-  && cd taetigkeitsbericht.okfn.de \
+$ git clone git@github.com:okfde/2019.okfn.de.git \
+  && cd 2019.okfn.de \
   && bundle install \
   && bundle exec jekyll serve
 ```
