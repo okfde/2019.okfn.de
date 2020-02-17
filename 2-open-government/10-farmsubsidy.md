@@ -1,12 +1,12 @@
 ---
 layout: page
 chapter: 2.10
-title: Farmsubsidy
+title: Farm Subsidy
 website: https://farmsubsidy.org/
 permalink: /open-government/farmsubsidy/
 visual:
     img: /assets/images/opengovernment/farmsubsidy.png
-    alt: Eine Beschreibung des Textes
+    alt: Farm Subsidy logo
 ---
 
 
@@ -18,18 +18,18 @@ FarmSubsidy erleichtert den Zugang zu Informationen darüber, wie die EU ihre Su
 
 2017 haben wir das Projekt auf ehrenamtlicher Basis von journalismfund.eu übernommen, um dessen Fortbestand zu garantieren. Wir übernehmen die Bereinigung, Zusammenstellung und Präsentation der erhaltenen Daten. Zudem geben wir Schulungen und stellen Analysen zu den Daten zur Verfügung.
 
-Die Archivierung und der Zugang zu den Daten hilft Journalist\*innen und NGOs, diesen großen Anteil des EU-Haushalts besser zu verstehen.
+Die Archivierung und der Zugang zu den Daten hilft Journalist\*innen, NGOs und Politiker\*innen, diesen großen Anteil des EU-Haushalts besser zu verstehen.
 
-### Leistungen 2018 
-* Daten-Archivierung für CAP-Subventionen 2017 vorangetrieben
-* 2000-3000 Unique Visitors im Monat seit Übernahme im April
-* Basis-Support für Journalist\*innen und NGOs, die mit den Daten arbeiten wollen
+### Leistungen 2019
+* Daten-Archivierung für CAP-Subventionen 2018 vorangetrieben
+* 78.000 Besucher im Jahr 2019
+* Daten-Support für Journalist\*innen, NGOs und Jurist\*innen
 
 ### Highlight
-Der Deutsche Umweltmedienpreis 2018 wurde an eine Recherche verliehen, die die FarmSubsidy.org-Daten intensiv genutzt hatte.
+Die New York Times veröffentlicht eine [Recherche auf Basis von Agrarsubventionen](https://www.nytimes.com/2019/11/03/world/europe/eu-farm-subsidy-hungary.html). Das Projekt hatte früher im Jahr eine Datenberatung mit einer Autorin durchgeführt.
 
 ### Ausblick
-Für 2018 ist angesetzt, dass mehr Daten wieder in die Suchmaschine integriert werden.
+Für 2019 ist angesetzt, dass mehr Daten wieder in die Suchmaschine integriert werden.
 
 ### Ressourcen
 Ehrenamtliche Arbeitszeit: ~120 Stunden im Jahr
