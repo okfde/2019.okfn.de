@@ -1,7 +1,7 @@
 ---
 layout: page
 chapter: 3.4
-title: Bits und Bäume
+title: Bits & Bäume
 website: https://bits-und-baeume.org/de
 permalink: /civic-und-public-interest-tech/bitsundbaeume/
 visual:
