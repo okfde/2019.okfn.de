@@ -6,7 +6,7 @@ website: https://turing-bus.de
 permalink: /offene-und-politische-bildung/turing-bus/
 visual:
   img: /assets/images/bildung/turingbus.png
-  alt: Eine Beschreibung des Textes
+  alt: Turing-Bus Logo
 problem:
 - text: Der ländliche Raum leidet unter einem Mangel an Aktionsräumen im Bereich der digitalen Bildung.
 causes:
@@ -50,19 +50,17 @@ resources: >
 
   **Laufzeit** <br>
 
-  Das Projekt begann im Februar 2018 ​und läuft voraussichtlich bis Dezember 2019.
+  Das Projekt begann im März 2019 ​und lief bis Dezember 2019 (ein vorangegangenes Projekt des Turing-Busses lief von Februar 2018 bis Dezember 2018).
   <br><br>
-  ![ganzjährige Laufzeit](/assets/images/laufzeit/turingbus.svg "Laufzeit Turing-Bus")
-  <br><br><br>
+
 
   **Finanzierung** <br>
 
-  Das Projekt ist zu 100% finanziert und wird im Jahr 2018 durch das Bundesministerium für Familie, Senioren, Frauen und Jugend (2017/18) und die Bundeszentrale für politische Bildung (2018/19) gefördert.
+  Das Projekt war zu 100% finanziert und wurde im Jahr 2019 durch das Bundesministerium für Bildung und Forschung gefördert.
 
-  Das Budget für 2018 beträgt 824.910,36 Euro.
+  Das Budget für 2018 betrug 48.982,00 €, davon 47.882,00 € Personalmittel und 1.100,00 € Sachkosten. 
   <br><br>
 
-  ![100% Finanzierung, 149.894,26€ Sachekosten, ca. 6000h ehrenamtliche Arbeit durch Mentorinnen](/assets/images/finanzierung/turingbus.svg "Finanzierung Turing-Bus")<br><br>
 
 
   **Personal** <br>
@@ -73,18 +71,21 @@ resources: >
 
   Gesellschaft für Informatik e. V.<br><br>
 achievements: >
-    * mehr als zwölf Stationen in Brandenburg, Mecklenburg-Vorpommern, Sachsen-Anhalt, Thüringen, Sachsen, Niedersachsen und Nordrhein-Westfalen mit jeweils zwischen 10 bis 120 Teilnehmenden, vorwiegend Schülerinnen und Schüler zwischen 15 und 19 Jahren
+    * 18 Stationen an Schulen, Offenen Werkstätten und Kulturinstitutionen in Brandenburg, Sachsen-Anhalt, Rheinland-Pfalz, Sachsen, Niedersachsen und Nordrhein-Westfalen mit jeweils zwischen 10 bis 120 Teilnehmenden, vorwiegend Schülerinnen und Schüler zwischen 15 und 19 Jahren
 
-    * dort Hands-on-Workshops, Diskussionsveranstaltungen, Vorträge, Spiele sowohl als kurze 90-min-Workshops im regulären Unterrichtsablauf (Bonn, Pfiffelbach) als auch als eigener Projekttag für eine oder mehrere Klassenstufen und klassen- und jahrgangsübergreifend (Bernau, Landsberg, Tessin) oder als Teil eines Schulprojekttags (Templin) sowie als außerschulische Veranstaltung (Uelzen)
+    * dort Hands-on-Workshops, Diskussionsveranstaltungen, Vorträge, Spiele sowohl als kurze 90-min-Workshops im regulären Unterrichtsablauf als auch als eigener Projekttag für eine oder mehrere Klassenstufen und klassen- und jahrgangsübergreifend oder als Teil eines Schulprojekttags (Templin) sowie als außerschulische Veranstaltung.
+
+    * Präsenzen auf Fachtagungen und Veranstaltungen
 
 
 outputs: >
-    * 13 Stationen
+    * 18 Stationen
 
-    * 450 Teilnehmende
+    * 703 Teilnehmende und ca. 400 Gäste
 
-    * 45+ Workshops & Diskussionsformate
+    * 54+ Workshops & Diskussionsformate
 
+    * ca. 200.000 Online-Impressionen; [Presseberichte](https://turing-bus.de/presse/) in Print und Digital
 outcome: >
     * Durch Veranstaltungen in Schulen und Jugendzentren, Präsenz auf der Webseite und in den sozialen Medien wird ein Beitrag zur Verbreitung digitaler Bildungsangebote geleistet.
 
@@ -101,9 +102,9 @@ evaluation:  >
 
 
 outlook:  >
-    * Tour mit Themenschwerpunkt Künstliche Intelligenz im Jahr 2019
+    * Gegenwärtig wird an verschiedenen Fortführungen des Turing-Bus-Konzeptes gearbeitet
 
-    * Risiken/Herausforderung: Finanzierung aufrechterhalten
+    * Risiken/Herausforderung: Finanzierung finden
 
 
 
@@ -112,14 +113,11 @@ outlook:  >
 
 # Mobiles Bildungsprojekt für den ländlichen Raum
 
-Während die Digitalisierung kontinuierlich voranschreitet, Technologiekonzerne immer mächtiger werden und Lehrpläne keine ausreichende Vorbereitung auf Zukunft und Gegenwart mehr darstellen, entwickeln zivilgesellschaftliche Akteure großartige Formate, um alternative Bildungsräume zu schaffen. Meist sind diese Angebote jedoch in Großstädten und Ballungszentren vertreten – 42% der Bevölkerung aber wohnen in Deutschland in Städten mit weniger als 25.000 Einwohner\*innen.
 
-Der Turing-Bus (benannt nach Alan Turing) ist ein Gemeinschaftsprojekt der Gesellschaft für Informatik und der Open Knowledge Foundation Deutschland. Als mobiles Bildungsangebot fährt der Bus mit seinen Stationen Städte in Deutschland ab, die abseits großer und etablierter Ballungszentren liegen, um Grundlagen der Informatik und gesellschaftliche Konsequenzen der Digitalisierung zu vermitteln und zu diskutieren.
+Der Turing-Bus (benannt nach Alan Turing) ist ein Gemeinschaftsprojekt der Gesellschaft für Informatik und der Open Knowledge Foundation Deutschland. Als mobiles Bildungsangebot fährt der Bus mit seinen Stationen Städte in Deutschland ab, die abseits großer und etablierter Ballungszentren liegen, um Grundlagen der Informatik und gesellschaftliche Konsequenzen der Digitalisierung zu vermitteln und zu diskutieren. Die Stationen finden an Schulen und in Offenen Werkstätten statt, um letztere bekannter zu machen und in ihrer Funktion als alternative Bildungsorte zu ergründen.  
 
-Die Zielgruppe des Projektes sind vor allem junge Menschen zwischen 15 und 19 Jahren. Der Turing-Bus besucht nach Absprache Schulen, Jugendclubs, lokale Labs oder passende Veranstaltungen. In kostenlosen Workshops, Diskussionsveranstaltungen und Vorträgen geben fachkundige Expert\*innen, Aktivist\*innen und Wissenschaftler\*innen – sogenannte Infonauten – Jugendlichen vor Ort spannende Einblicke in die Welt der Informatik. Das breite Spektrum an Methoden, Hardware und Know-How verknüpft praxisnahe IT-Kompetenz mit gesellschaftlichen Fragen der Digitalisierung. Die Angebote, Projekte und Fähigkeiten, die auf den Stationen vermittelt werden, stammen aus dem weiteren Feld der Informatik und werden von ausgewiesenen Expert\*innen in den jeweiligen Gebieten vermittelt.
+Der Turing-Bus fuhr 2019 zum zweiten Mal im Rahmen des Wissenschaftsjahress des Bundesministieriums für Bildung und Forschung, diesmal mit Fokus auf das Thema Künstliche Intelligenz (KI). Letztere ist aktuell in aller Munde. Es ist jedoch nicht der erste Hype um die schon viele Jahrzehnte alte Teildisziplin der Informatik. Wir möchten KI in Mitmach-Workshops und Diskussionen entzaubern. 15- bis 19-jährige Schüler*innen im ländlichen Raum lernen dabei, kritisch mit den Begriffen KI und Maschinenlernen umzugehen. 
 
-Der Turing-Bus fuhr 2018 zum ersten Mal im Rahmen des Wissenschaftsjahress 2018 – Arbeitswelten der Zukunft.
+Schüler\*innen sollen durch das Angebot des Turing-Busses lernen, relevante Technologien der Gegenwart zu verstehen und zu kontrollieren, um als digital mündige Mitglieder der Gesellschaft eine aktive und aufgeklärte Rolle einzunehmen. Existierende Projekte und Initiativen aus dem digitalen Bildungsbereich werden als Worskhopgeber involviert und erfahren so einen höheren Bekanntheitsgrad. Zeitgemäße Bildungsangebote werden so in den ländlichen Raum gebracht und existierende Initiativen werden bekannter. Junge Menschen werdend dadurch mit alternativen Bildungsräumen in Kontakt gebracht und können selbstbestimmt lernen.
 
-Schüler\*innen sollen durch das Angebot des Turing-Busses lernen, relevante Technologien der Gegenwart zu verstehen und zu kontrollieren, um als digital mündige Mitglieder der Gesellschaft eine aktive und aufgeklärte Rolle einzunehmen. Existierende Projekte und Initiativen aus dem digitalen Bildungsbereich werden als Worskhopgeber involviert und erfahren so einen höheren Bekanntheitsgrad.
-
-Zeitgemäße Bildungsangebote werden so in den ländlichen Raum gebracht und existierende Initiativen werden bekannter. Junge Menschen werdend dadurch mit alternativen Bildungsräumen in Kontakt gebracht und können selbstbestimmt lernen.
+Ausführliche Berichte zu den Stationen des Turing-Busses gibt es auf dem [Blog des Projektes](https://turing-bus.de/blog/).
