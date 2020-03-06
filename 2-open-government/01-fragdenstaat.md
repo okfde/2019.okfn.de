@@ -74,37 +74,49 @@ resources: >
 
   **Personal** <br>
 
-  1 Projektleitung (75%) | 1 Entwickler (100%)<br><br>
+  1 Projektleitung (75%) | 1 Entwickler (100%)| 1 Studentische Hilfskraft (50%)| 1 Projektmanagerin (90%)<br><br>
 
 
 
 
 achievements: > 
 
-    * Re-Design von FragDenStaat, umfangreiche journalistische Recherchen und Scoops
+    * Umfangreiche journalistische Recherchen und Scoops
 
-    + 30 laufende Klagen im Bereich Informationsfreiheit
+    * 55 laufende Klagen im Bereich Informationsfreiheit
 
-    * neue Kampagnenfunktionen und Batch-Anfragen für Journalist*innen
+    * Integration von EU-Behörden
+    
+    * Neues Crowdfunding-Modul für Widersprüche, Gebühren, Klagen unserer User\*innen
+    
+    * politische Beteiligung durch laufenden Volksentscheid Transparenz
 
     * aktive Kooperationen und Kampagnen mit verschiedenen gesellschaftlichen Gruppen
 
 outputs: >
-    * Anfragen gesamt: 33.218
+    * Anfragen gesamt: 145.965
 
-    * Nutzer*innen gesamt: 11.833
+    * Nutzer*innen gesamt: 89.285
 
-    * gewonnene Klagen: 9
+    * gewonnene Klagen: 11
 
-    * großer Erfolg: Alle Bundesministerien öffnen Gesetzentwürfe und Lobby-Stellungnahmen nach der FragDenStaat-Kampagne „Gläserne Gesetze“.
+    * großer Erfolg: Knapp 33.000 Unterschriften für unseren Volksentscheid, rd. 40.000 Anfragen im Rahmen der „Topf Secret“-Kampagne, 45.000 Mitstreiter\*innen im Urheberrechtsstreit um das Glyphosat Gutachten des Bundesinstituts für Risikoforschung, erfolgreiche Klage gegen BND.
 
 
 outcome: >
-    * durch „Gläserne Gesetze“ stärkeres Bewusstsein für Informationsfreiheit in gesamter Bundesregierung und Verankerung im investigativen Journalismus
+    * Durch „Topf Secret“ neue Zielgruppe für das Thema Informationsfreiheit sensibilisiert
+    
+    * Mithilfe des Crowdfunding-Moduls können User\*innen ihre Anfragen weiter verfolgen und müssen nicht mehr aufgrund von Kosten aufgeben
 
-    * gewonnene Klagen haben zu Grundsatzurteilen geführt
+    * Gewonnene Klagen haben zu Grundsatzurteilen geführt
 
 impact:  >
+    * Der BND muss zumindest im Bereich der Umweltinformationen transparenter werden
+    
+    * Neuer Transparenz Gesetzentwurf durch Volksentscheid angeschoben
+    
+    * Zunehmende Berichterstattung über missbräuchlichen Gebrauch des Urheberrechts zur Verheimlichung
+    
     * Ein transparenter Staat durch Informationsfreiheit führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
 
 evaluation:  >
@@ -117,11 +129,14 @@ evaluation:  >
     * finanzielle Risiken: FragDenStaat ist nicht dauerthaft finanziert. 
 
 outlook:  >
-    * Es ist geplant, weitere Features für NGOs und Journalist*innen zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen die Klagemöglichkeiten ausgebaut werden.
-
+    * Es ist geplant, die Usability der Plattform weiter zu verbessern. Außerdem sollen die Klagemöglichkeiten ausgebaut und Widersprüche automatisiert werden. 
+    * Die Darstellung der befreiten Dokumente wird verbessert, so dass sie gut zugänglich sind und sinnvoll miteinander verknüpft werden können. 
+    
     * Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden.
+    
+    *Es ist geplant, weitere Features für NGOs und Journalist*innen zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen die Klagemöglichkeiten ausgebaut werden.
 
-
+    
 ---
 
 
