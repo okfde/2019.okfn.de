@@ -134,7 +134,7 @@ outlook:  >
     
     * Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden.
     
-    *Es ist geplant, weitere Features für NGOs und Journalist\*innen zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen die Klagemöglichkeiten ausgebaut werden.
+    * Es ist geplant, weitere Features für NGOs und Journalist\*innen zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen die Klagemöglichkeiten ausgebaut werden.
 
     
 ---
