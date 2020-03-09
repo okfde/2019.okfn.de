@@ -10,7 +10,7 @@ visual:
 
 ---
 
-Das Open Government Netzwerk koordiniert Deutschlands Beitritt zur Open Government Partnership. 
+Das Open Government Netzwerk koordiniert zivilgesellschaftliche Beteiligung im Rahmen der Open Government Partnership.
 
 ### Hintergrund
 
@@ -18,19 +18,19 @@ Das Open Government Netzwerk wurde 2011 mit dem Ziel der aktiven Mitwirkung Deut
 
 ### Highlights
 
-Nachdem 2017 der 1. Nationale Aktionsplan verabschiedet wurde, betätigte sich das Netzwerk 2018 sowohl an der internen Planung als auch an der externen Repräsentation. Im Mai 2018 haben wir die neue Version unserer Webseite veröffentlicht. Dort gibt es neben ausführlichen Informationen zum Netzwerk und einer Ressourcensammlung auch das Monitoring der Implementierung des Nationalen Aktionsplans. Nach der Wahl der Strategiegruppe des Netzwerks, hat auch die Vorbereitung für den 2. Nationalen Aktionsplan bereits begonnen. Im September und Oktober wurden in Nordrhein-Westfalen und Baden-Württemberg erste Konsultationen durchgeführt. Zudem war das Netzwerk 2018 mit zahlreichen Workshops auf Konferenzen präsent, um die Open-Government-Ideen zu verbreiten, u. a. auf der re:publica, dem Creative Bureaucracy Festival und dem internationalen Open Government Summit in Georgien.
-
+Das Jahr 2019 stand ganz im Zeichen des zweiten nationalen Aktionsplans den [Kanzlerin Merkel per Videobotschaft](https://www.youtube.com/watch?v=WHivfTYL2SU&t=6s) angekündigte und die Bundesregierung im September 2019 verabschiedete. Das Netzwerk begleitete diesen Prozess aktiv mit mehreren Veranstaltungen und Treffen mit dem zuständigen Bundeskanzleramt. In der Vorbereitung des zweiten Aktionsplans startete die Bundesregierung erstmals eine [Online-Konsultation](https://opengovpartnership.de/start-online-konsultation-zum-2-nationalen-aktionsplan-open-government/) (März-April), die das Netzwerk bewarb und mit Inhalten füllte. Netzwerkmitglieder trafen sich im Mai zur [Konsolidierung](https://opengovpartnership.de/redaktions-sprint-ogp-prozess/) der Konsultationsvorschläge und übergaben diese beim Open Government Partnership Global Summit in Ottawa an die 
+[Staatsministerin für Digitalisierung Dorothee Bär](https://twitter.com/OpenGovGermany/status/1133858468174225409). Seit Oktober 2019 ist die Bundesregierung Teil des Lenkungsausschusses der OGP, dies signalisiert eine langfristige Verpflichtung zu Open Government. Das Netzwerk nutze die Gelegenheit u.a. für Netzwerkveranstaltungen im [Bundestag](https://twitter.com/okfde/status/1184488056012845057).
 
 ### Ausblick
 
-Der 1. Nationale Aktionsplan für Open Government beschränkte sich nur auf den Bund. Ziel des Netzwerks ist es, Open Government auch in den Ländern und Kommunen zu verankern. Dabei möchte das Netzwerk seine Mitgliederstrukturen auf regionaler Ebene weiter ausbauen, um auch lokal Veranstaltungen durchzuführen. Gemeinsames Lobbying auf nationaler Ebene für Open Government ist weiterhin ein zentraler Fokus, damit im 2. Nationalen Aktionsplan noch ambitionierte Reformen umgesetzt werden.
+Positiv am zweiten nationalen Aktionsplan ist vor allem, dass er erstmalig die Bundesländer mit einbezieht und somit Open Government in Deutschland in die Fläche bringt. Die Verpflichtungen der Bundesregierung lassen hingegen die Ambition vermissen Open Government großflächig umzusetzen. So kritisieren sowohl das [Netzwerk](https://opengovpartnership.de/zweiter-nationale-aktionsplan/) als auch [Presseberichte](https://www.sueddeutsche.de/digital/open-government-bundesregierung-transparenz-1.4586224), dass der Plan keine Gesetzesänderungen enthält. Hier braucht es 2020 mehr politische Führung zum Thema und mehr Druck aus der Zivilgesellschaft. Wir werden an beidem arbeiten und dafür sowohl die deutsche EU-Ratspräsidentschaft als auch die Vorbereitungen auf den Bundestagswahlkampf 2021 nutzen. 
 
 ### Ressourcen
 
-* OKF Budget: 0,00 € Laufzeit: Januar-Dezember 2018 / Querfinanzierung
+* OKF Budget: 0,00 € Laufzeit: Januar-Dezember 2019 / Querfinanzierung
 * Partner: [Liste der Netzwerk Mitglieder](https://opengovpartnership.de/open-gov-netzwerk/)
 * Projektleitung: Michael Peters
-* Policy-Unterstützung: Arne Semsrott, Walter Palmetshofer
+* Policy-Unterstützung: Adriana Groh, Arne Semsrott, Walter Palmetshofer
 
 
 ### Website
