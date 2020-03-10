@@ -80,23 +80,13 @@ resources: >
 
   **Finanzierung** <br>
 
-  31.000€ + Querfinanzierung durch die OKF.
+  31.000€ (Körber-Stiftung) + Querfinanzierung durch die OKF.
   <br><br>
 
   ![0% Finanzierung](/assets/images/finanzierung/codefor.svg "Laufzeit FDS")<br><br>
 
-**Förderer** <br>
-
-  Körber-Stiftung
-  <br><br>
-
   **Personal** <br>
   1 Community Manager und ca. 500 Ehrenamtliche mit 10.000 Stunden ehrenamtlicher Arbeit
-  
-  **Partner** <br>
-
-  Körber-Stiftung, Wikimedia Deutschland
-  <br><br>
 
 achievements: >
   * OK Labs: regelmäßige Meetings, öffentliche Events, Workshops für Anfänger\*innen, Hackdays
