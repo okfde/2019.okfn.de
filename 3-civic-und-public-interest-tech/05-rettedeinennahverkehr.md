@@ -14,30 +14,32 @@ Rette deinen Nahverkehr will Verkehrsverbünde dazu bewegen, mehr Fahrplandaten 
 
 ### Hintergrund
 
-Eine Fahrplanauskunft gehört zu den Grundaufgaben eines Verkehrsverbundes. In Zeiten von Internet und Smartphones sind Papierfahrpläne oder PDFs nicht mehr zeitgemäß. Mit dem öffentlichen Bereitstellen von maschinenlesbaren Fahrplandaten können sich kleine Verkehrsverbünde die teure Entwicklung eigener Apps ersparen. Aber auch Verkehrsverbünde, die bereits eigene Apps haben, müssen so nicht selbst auf jede neue Technologie aufspringen (wie z. B. sprachgesteuerte Auskünfte auf dem Amazon Echo), weil sich durch das Bereitstellen der Daten private Software-Entwickler\*innen oder Firmen finden werden, die innovative Anwendungen entwickeln oder die Fahrpläne des Verkehrsverbundes in schon bestehende Anwendungen integrieren können.
+Obwohl sie [seit dem 1. Dezember 2019 durch EU-Verordnung dazu verpflichtet sind](https://eur-lex.europa.eu/eli/reg_del/2017/1926/oj), bieten noch lange nicht alle Verkehrsverbünde und -unternehmen ihre Fahrpläne als [Open Data gemäß der Open Definition](http://opendefinition.org/od/2.1/de/) an. Viele Verbünde sind immer noch der Ansicht, den Routenplaner für die Zukunft ganz alleine stemmen zu können, und [investieren gemeinsam viele Millionen Euro aus Steuergeldern](https://fragdenstaat.de/anfrage/finanzielle-forderung-des-delfi-projekts/) für nicht sonderlich innovative Großprojekte.
 
-Bislang bieten nur ausgewählte Vorreiterverbünde und -unternehmen ihre Fahrpläne im GTFS-Format an. Viele Verbünde sind immer noch der Ansicht, den Routenplaner für die Zukunft ganz alleine stemmen zu können und investieren dafür insgesamt viele Millionen Euro aus Steuergeldern in nicht sonderlich innovative Großprojekte. 
+Mit dem öffentlichen Bereitstellen von maschinenlesbaren Fahrplandaten dagegen können sich kleine Verkehrsverbünde die teure Entwicklung eigener Apps ersparen. Aber auch Verkehrsverbünde, die bereits eigene Apps haben, müssen so nicht selbst auf jede neue Technologie aufspringen (wie z. B. sprachgesteuerte Auskünfte auf dem Amazon Echo), weil sich durch das Bereitstellen der Daten private Software-Entwickler\*innen oder Firmen finden werden, die innovative Anwendungen entwickeln oder die Fahrpläne des Verkehrsverbundes in schon bestehende Anwendungen integrieren können.
 
-Gerade für Fahrgäste, die in verschiedenen Regionen mit dem ÖPNV unterwegs sind, oder Tourist\*innen können offene Fahrplandaten eine große Hilfe sein, weil sie nicht für jede Region oder Stadt eine eigene App herunterladen müssen oder sich die Adressen der verschiedenen Fahrplanauskunftsseiten merken müssen. Sind die Fahrplandaten offen, können Entwickler\*innen viele Verbünde in einer App vereinen. Beispiele für solche Anwendungen sind z. B. TransitApp oder Citymapper.
+Als Rettedeinennahverkehr 2017 – kurz vor Verabschiedung der oben genannten Delegierten Verordnung – entstand, boten nur wenige Vorreiterverbünde und -unternehmen ihre Fahrpläne als Open Data im GTFS-Format an. Viele Verbünde sind immer noch der Ansicht, den Routenplaner für die Zukunft ganz alleine stemmen zu können und investieren dafür insgesamt viele Millionen Euro aus Steuergeldern in nicht sonderlich innovative Großprojekte. Sie setzen hierbei auf zentralisierte Auskünfte, anstatt auf die in der Delegierten Verordnung vorgeschriebene und [in den skandinavischen Ländern vorgelebte](https://nordicopenmobilitydata.eu/position_paper/) Architektur auf Basis eines statischen Soll-Fahrplans und Echtzeit-Abweichungen von diesem Fahrplan.
 
+Rettedeinennahverkehr ist das Werkzeug, diese Problematik an die Entscheider\*innen heranzutragen, die politisch für Abhilfe sorgen können: Die Landrät\*innen und Oberbürgermeister\*innen als Gesellschafter der vielen Verkehrsverbünde in Deutschland. Über die Seite lassen sich die Verantwortlichen der Gebietskörperschaft direkt per Formbrief anschreiben.
 
-### Leistungen 2018
+### Leistungen 2019
 
-* In den letzten 12 Monaten gab es es zusätzliche Nahverkehrsdaten vom VRS Verkehrsverbund Rhein-Sieg, dem HVV Hamburger Verkehrsverbund, dem KVV Karlsruher Verkehrsverbund, dem VGN Verkehrsverbund Großraum Nürnberg und den LVB Leipziger Verkehrsbetrieben.
-* 6 Veranstaltungen mit produktiven Ergebnissen
-* Entwickeln einer Städtemobiltiätsstrategie
+* Im Jahr 2020 veröffentlichten 23(!) weitere Verkehrsverbünde und -unternehmen erstmals ihre Fahrpläne im GTFS-Format
+* 9 Veranstaltungen mit produktiven Ergebnissen
+* Aufbau eines Netzwerks von Datennutzenden, inklusive Feedbackschleifen zu den Datenbereitstellern
+* Parallel Entwicklung einer Datenstrategie für Mikromobilität in Überschneidung mit [radforschung](https://radforschung.org)
 
 ### Ausblick
 
 * aktive, konsequente Überzeugungsarbeit bei Kommunen und Verwaltungen
-* Unterstützung bei der Umsetzung der Delegierten Verordnung 2017/1926
-* Projektüberführung
+* Unterstützung bei der Umsetzung der Delegierten Verordnung (EU) 1926/2017, sowie kritische Begleitung des Datenbereitstellungsprozess über den National Access Point
+* weiterer Austausch mit den vielen Briefeschreiber\*innen
 
 ### Ressourcen
 
 * Finanzierung: keine (ehrenamtliches Community-Projekt)
-* Partner: Verschwörhaus Ulm, Community, DB, BMVI
-* Beteiligte: Maximilian Richt, Stefan Kaufmann, Walter Palmetshofer
+* Partner: Verschwörhaus Ulm, Community, DB, BMVI, VM Baden-Württemberg
+* Beteiligte: Maximilian Richt, Constantin Müller, Stefan Kaufmann, Walter Palmetshofer
 
 
 ### Website
