@@ -90,7 +90,7 @@ resources: >
   1 Community Manager und ca. 500 Ehrenamtliche
 
 achievements: >
-  * OK Labs: regelmäßige Meetings, öffentliche Events, Workshops für Anfänger*\innen, Hackdays
+  * OK Labs: regelmäßige Meetings, öffentliche Events, Workshops für Anfänger\*innen, Hackdays
 
   * Kommunikation: Community Manager trägt Aktivitäten der OK Labs nach außen, unterstützt bei der Pressearbeit
 
@@ -110,7 +110,7 @@ achievements: >
 
 
 outputs: >
-  * über 5800 ehrenamtliche Programmierer\*innen, die sich regelmäßig treffen
+  * über 500 ehrenamtliche Programmierer\*innen, die sich regelmäßig treffen
 
   * 26 aktive OK Labs in Deutschland, die sich mit ihren Gemeinden vernetzen
 
@@ -121,7 +121,7 @@ outputs: >
 outcome: >
   * es bildet sich eine starke Civic-Tech-Community in Deutschland
 
-  * offene Daten werden von Bürger*\innen genutzt
+  * offene Daten werden von Bürger\*innen genutzt
 
   * durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen
 
