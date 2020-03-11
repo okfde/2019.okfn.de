@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.07
+chapter: 2.06
 title: Offene Gesetze
 website: https://offenegesetze.de/
 permalink: /open-government/offene-gesetze/

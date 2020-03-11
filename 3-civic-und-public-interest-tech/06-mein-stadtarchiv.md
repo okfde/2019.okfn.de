@@ -1,9 +1,9 @@
 ---
 layout: page
-chapter: 2.12
+chapter: 3.6
 title: Mein Stadtarchiv
 website: https://mein-stadtarchiv.de/
-permalink: /open-government/mein-stadtarchiv/
+permalink: /civic-und-public-interest-tech/mein-stadtarchiv/
 visual:
     img: /assets/images/opengovernment/stadtarchiv.png
     alt: Eine Beschreibung des Textes
