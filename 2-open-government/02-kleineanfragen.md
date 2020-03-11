@@ -117,8 +117,26 @@ outlook: >
 
 # Datenbank der Kleinen Anfragen und Antworten aus den Parlamenten
 
-In den Landtagen und im Bundestag haben Abgeordnete ein parlamentarisches Fragerecht. Die Antworten darauf sind aber wenig bekannt, obwohl sie viele interessante Details enthalten. Die Dokumentenmanagementsysteme der Parlamente (hier: Parlamentsdokumentationssysteme) sind nicht nutzer\*innenfreundlich, sodass selbst Verwaltungsmitarbeitende diese ungern benutzen. Bei manchen Parlamenten lassen sich Dokumente nicht verlinken, ein Teilen in Sozialen Netzwerken ist also nicht möglich. Man muss jedes Parlamentssystem einzeln durchsuchen; eine Suche über alle Parlamente funktioniert nur auf Stichwortbasis.
+Das Fragerecht ist ein wichtiges Recht der Abgeordneten – und ein häufig genutztes parlamentarisches Kontrollinstrument. Allein im Bundestag werden pro Wahlperiode tausende **kleine Anfragen** gestellt, die von der Regierung schriftlich beantwortet werden müssen. Nimmt man die Anfragen in den Länderparlamenten hinzu, ist dies ein riesiger Fundus nützlicher Informationen, der wichtige Einblicke in demokratische Prozesse enthält. 
 
-Durch den besseren Zugang zu den Anfragen und Antworten mit Volltextsuche aus allen Parlamenten auf einer Seite sowie eine Benachrichtungsfunktion bei neuen Anfragen oder Antworten, die auf einen Suchbegriff zutreffen, nutzen Verwaltungsmitarbeitende der Parlamente kleineAnfragen.de öfter als ihre eigenen Tools. Journalist\*innen und interessierte Bürger\*innen finden interessante Anfragen und Antworten, Anfragen tauchen in Suchmaschinen öfter auf und Parlamentsdokumentationssysteme und Metadaten in den Dokumenten werden verbessert.
+Von Seiten der Parlamente werden diese Dokumente zwar veröffentlicht, dies geschieht aber auf verschiedenen Onlinearchiven verstreut und mit mangelhafter Qualität. Unter anderem sind die Dokumente nicht im Volltext durchsuchbar, wodurch sie anhand der großen Menge von Anfragen in großen Teilen faktisch unzugänglich sind. Viele Funktionen, die  
 
-Regierungshandeln wird dadurch transparenter und Parlamentsarbeit besser nachvollziehbar, da mehr Menschen die Möglichkeit haben, sich darüber zu informieren. Das führt zu besseren Möglichkeiten für Partizipation.
+Um die in den Dokumenten enthaltenen Informationen zugänglich zu machen, wurden sie auf kleineAnfragen.de fünf Jahre lang ehrenamtlich in einer Datenbank gesammelt, aufbereitet und – als Beitrag zu Transparenz und Partizipation – kostenfrei für die Öffentlichkeit zugänglich gemacht. Dadurch sollte demonstriert werden, **welche Chancen eine sinnvolle Digitalisierung kleiner Anfragen **bietet, um die [Parlamente](https://kleineanfragen.de/info) dazu bewegen, die gegenwärtig mangelhafte Bereitstellung zu überdenken und sie aktuellen technischen Standards anzupassen.
+
+Dabei wurden auf technischer Ebene die folgenden Features implementiert: 
+
+* eine Volltextsuche (nicht nur von redaktionell vergebenen Stichwörtern)
+
+* Saubere, stabile und verlinkbare Links zu den Dokumenten (URLs)
+
+* maschinenlesbare [Metadaten](https://de.wikipedia.org/wiki/Metadaten)
+
+* E-Mail-Abonnement für neue Antworten
+
+* Erkennung von Tabellen und eingestuften Dokumenten
+
+* Feeds um selbst auf den neuesten Stand bleiben zu können und z.B. daraus automatisiert Twitter-Bots zu betreiben
+
+Die Plattform erfreute sich großer Beliebtheit, insbesondere bei Abgeordneten, aber um so mehr von den Mitarbeiter*innen in den Parlamentsverwaltungen selbst (dies war anhand der IP-Adressen zu erkennen). Was jedoch nicht geschah, waren Änderungen in der Bereitstellung der Dokumente durch die Parlamente selbst. Im Gegenteil haben Umstellungen der einzelnen Parlamente dazu geführt, dass für jedes einzelne der 17 Parlamente immer wieder umfangreiche Änderungen an der Software von kleineAnfragen notwendig waren, um die veröffentlichten Anfragen importieren zu können. Würden die Parlamente ihre Dokumentensammlung auch maschinenlesbar als **[offene Daten](https://okfn.de/themen/open_data/)** veröffentlichen, wäre dies nicht notwendig.
+
+Es muss eine moderne, stabile und offene Möglichkeit geschaffen werden, Anfragen und Antworten, aber auch alle anderen parlamentarische Dokumente besser für Menschen zugänglich und maschinenlesbar zu machen. kleineAnfragen.de konnte diese Bereitstellung als ehrenamtliches Projekt nur exemplarisch leisten. **Nun ist es wieder die Aufgabe der Parlamente und insbesondere die des [Parlamentsspiegels](https://www.parlamentsspiegel.de/), der die Dokumente aller Parlamente aggregieren soll, die Situation zu verbessern.**

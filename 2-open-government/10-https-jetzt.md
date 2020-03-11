@@ -18,23 +18,14 @@ https.jetzt! ist ein Projekt, das zeigt, wie viele Behördenwebseiten HTTPS unte
 
 Aber auch bei der Übertragung von normalen Webinhalten ist eine Verschlüsselung sinnvoll. Die Verschlüsselung stellt sicher, dass wir nur die Daten bekommen, die wir angefordert haben. Das ist wichtig, weil sich nicht nur unverschlüsselt übertragene Daten manipulieren lassen, sondern es kann z. B. in öffentlichen W-LANs Schadsoftware in die Daten eingefügt werden. Und nicht zuletzt erschwert andererseits die Verschlüsselung generell das Ausspionieren von Userverhalten.
 
-### Leistungen 2018 
+### Leistungen 2019 
 
-* Idee und Beginn zum Open Data Day 2016 – Entwicklung OK-Lab-übergreifend in München und NRW. Seither evaluiert das Projekt regelmäßig, wie es um die Verbindungssicherheit zu Behörden- und Kommunenwebsites steht.
-* Dafür werden möglichst vielen Domains und Webseiten von Bundesbehörden und Kommunen gesammelt und auf der Plattform bereitgestellt.
-
-### Highlights
-
-* [BSI empfiehlt anderen Ministerien eine Ablehnung der Herausgabe der Domains an uns aufgrund Bedenken zur inneren Sicherheit](https://fragdenstaat.de/anfrage/offenlegung-domainlisten/)
-* [Klage gegen das Gesundheitsministerium auf Herausgabe der Domains](https://netzpolitik.org/2016/geheimniskraemerei-um-unsichere-domains-klage-gegen-intransparenz-der-bundesministerien/)
-* [Erste Kleine Anfrage im Bundestag, die sich auf https.jetzt beruft](https://kleineanfragen.de/bundestag/19/681-nutzung-von-verschluesselung-tsl-ssl-bzw-https-auf-internetseiten-von-bundesbehoerden)
-* [Das Problemfeld wird im Tätigkeitsbericht des LfDI BaWü erwähnt](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2019/02/LfDI-34.-Datenschutz-T%C3%A4tigkeitsbericht-Internet.pdf#page=84)
+* Das Projekt wurde weiter fortgeführt
 
 
 ### Ausblick
 
-* Für 2019 ist geplant, dass die Aktualisierung der Evaluation weiterhin monatlich stattfindet.
-
+* Für 2020 ist geplant, dass die Aktualisierung der Evaluation weiterhin monatlich stattfindet.
 
 ### Resosourcen
 
