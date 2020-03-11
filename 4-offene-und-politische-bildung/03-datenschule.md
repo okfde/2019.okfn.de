@@ -44,26 +44,32 @@ effect:
       faktenbasiert geführt. Digitale Fähigkeiten stärken die Mitsprache und Teilhabe der Gesellschaft an politischen Entscheidungen und damit die politischen Partizipation insgesamt.
 resources: >
 
-  **Laufzeit** <br>
-
-  Das Projekt begann im August 2016 und läuft über das gesamte Jahr 2018.
-  <br><br>
-  ![ganzjährige Laufzeit](/assets/images/laufzeit/demokratielabore.svg "Laufzeit Datenschule")
-  <br><br><br>
-
-  **Finanzierung** <br>
-
-  Das Projekt ist zu 100% finanziert und war Jahr 2018 in das Programm der Demokratielabore eingebettet. Das Projekt wird damit durch das Bundesministerium für Familie, Senioren, Frauen und Jugend gefördert.
-
-  Das Budget für 2018 beträgt ca. 194.000 Euro.
+  Das Projekt begann im August 2016 und läuft seitdem durchgehend.
   <br><br>
 
-  ![100% Finanzierung, 149.894,26€ Sachkosten, ca. 6000h ehrenamtliche Arbeit durch Mentorinnen](/assets/images/finanzierung/datenschule.svg "Finanzierung Datenschule")<br><br>
+  **Budget** <br>
+  Im Jahr 2019 betrug das Gesamtbudget XXX €, davon XXX € Personalmittel und XXX € Sachkosten. Das Projekt war zu 100% finanziert.
+  <br><br>
 
+  **Förderer** <br>
+  Förderer 1, Förderer 2.
+  <br><br>
 
   **Personal** <br>
-
   1 Projektleitung (80%) | 1 technische Leitung (50%) |  1 Workshopkonzeption (50%) | 1 Kommunikationsstelle (50%)
+  <br><br>
+
+  **Ehrenamtliche Arbeit** <br>
+  ca. 100h
+  <br><br>
+
+  **Partner** <br>
+  Kooperationspartner im Jahr 2019 waren X und Y.
+  <br><br>
+
+  **Weitere Unterstützer** <br>
+  Unterstützer 1,2,3
+  <br><br>
 
   <br><br>
 achievements: >

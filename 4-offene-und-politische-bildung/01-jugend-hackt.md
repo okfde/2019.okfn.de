@@ -67,7 +67,7 @@ resources: >
   <br><br>
 
   **Partner** <br>
-  PProgrammpartner ist mediale pfade.org – Verein für Medienbildung e.V. Zudem gibt es viele weitere lokale Partnerorganisationen.
+  Programmpartner ist mediale pfade.org – Verein für Medienbildung e.V. Zudem gibt es viele weitere lokale Partnerorganisationen.
   <br><br>
 
   **Weitere Unterstützer** <br>
