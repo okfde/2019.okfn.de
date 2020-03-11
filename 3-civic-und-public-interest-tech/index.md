@@ -16,15 +16,20 @@ Ehrenamtliche Entwickler\*innen, Designer\*innen und Daten-Enthusiast\*innen nut
 
 Im Sinne des [Open-Source-Ansatzes](https://en.wikipedia.org/wiki/Open-source_software) werden diese Tools nicht nur von der Zivilgesellschaft gebaut, sondern auch der Öffentlichkeit frei zur Verfügung gestellt. Andere können sie nachnutzen und entsprechend ihren spezifischen Bedürfnissen weiterentwickeln, ohne dass dabei Auflagen oder Einschränkungen von Regierungen oder Unternehmen berücksichtigt werden müssen.
 
-Public Interest Tech ist ein Konzept, das auf ähnlichen Prinzipien basiert: Technisch versierte Akteur*\innen setzen ihr Können und ihre Kompetenzen im Sinne des Gemeinwohls ein und nehmen aktiv, d. h. systemisch, interdisziplinär und vor allem „bottom up“ an Innovationsprozessen teil, um hieraus entstehende Technologien in den Dienst der Gesellschaft zu stellen.
+Public Interest Tech basiert auf ähnlichen Prinzipien wie Civic Tech: Auch hier setzen technisch versierte Akteur*innen ihre Fähigkeiten mit dem Ziel ein, Innovationsprozesse im Sinne des Gemeinwohls anzustoßen und aktiv mitzugestalten. In “bottom up”-Prozessen werden Technologien entwickelt und in den Dienst der Gesellschaft gestellt. Darüber hinaus wird technische Infrastruktur eingerichtet und gepflegt.
 
-Hinzu kommen die Einrichtung und Pflege von technischer Infrastruktur.
+Thematisch geht Public Interest Tech über den Fokus von Civic Tech hinaus: Zwar geht es auch hier darum, zivilgesellschaftliche Interessen zu vertreten. Public Interest Tech beinhaltet jedoch ganz allgemein Community-Technologien und Infrastrukturen mit einem Verständnis für die ethischen, rechtlichen, politischen und gesellschaftlichen Herausforderungen des technologischen Wandels. Die Bandbreite der Bereiche, in denen diese Technologien Anwendung finden, reicht dabei von Umweltschutz  über Menschenrechte und Gesundheit bis zu Datensouveränität.
 
-Thematisch erweitert Public Interest Tech den Fokus des Civic Tech: Der Augenmerk liegt weiter darauf, zivilgesellschaftliche Interessen zu realisieren. Statt in einer Reformierung der Interaktionen zwischen Bürger\*in und Staat wird jedoch viel größer gedacht: Community-Technologien und Infrastrukturen werden entworfen, aufgesetzt und zur Verfügung gestellt mit einem Verständnis für die ethischen, rechtlichen, politischen und gesellschaftlichen Herausforderungen des technologischen Wandels.
 
 <br>
 
-# Rückblick
+# Rückblick 
+
+Im Jahr 2019 hat der Prototype Fund mit den Förderschwerpunkten Künstliche Intelligenz und Maschinelles Lernen sowie Nachhaltigkeit zwei Themen ausgewählt, die auch den gesamtgesellschaftlichen Diskurs in Deutschland und darüber hinaus maßgeblich bestimmen. In der Runde “Maschinen lernen lassen” erprobten die Projekte, welche Chancen emergente technologische Entwicklungen für die Gesellschaft bieten. Bis 2020 dachten 16 Projekte in der Runde “Commit - Syste, erneuern” über Digitalisierung sowie ihre Folgen für die Umwelt nach und entwickelten Prototypen, die zeigen, auf welch vielfältige Weise Technologien zu einer nachhaltigen Entwicklung beitragen können.
+
+Darüber hinaus wurde in der Schweiz die Gründung eines neuen Mitglieds der Prototype Fund Familie vorbereitet. Und der Ausblick ins Jahr 2020 verspricht viel Gutes: Mit Teamverstärkung und einem Podcast wird der Prototype Fund weiterhin mit voller Kraft daran arbeiten, Public Interest Tech im Diskurs zu verankern und einer breiteren Zielgruppe bekannt zu machen.
+
+Mehr in unseren Blogs
 
 * [Zahlen, bitte! Die Runde 7 des Prototypefund am Rechenschieber visualisiert](https://prototypefund.de/zahlen-bitte-runde-7/)
 
