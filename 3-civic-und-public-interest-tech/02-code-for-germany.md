@@ -73,20 +73,25 @@ effect:
 resources: >
 
   **Laufzeit** <br>
-
-  ganzjährig <br><br>
-  ![ganzjährige Laufzeit](/assets/images/laufzeit/ptf.svg "Laufzeit PTF")
-  <br><br><br>
-
-  **Finanzierung** <br>
-
-  31.000€ (Körber-Stiftung) + Querfinanzierung durch die OKF.
+  Das Projekt läuft seit April 2014 durchgehend.
   <br><br>
 
-  ![0% Finanzierung](/assets/images/finanzierung/codefor.svg "Laufzeit FDS")<br><br>
+  **Budget** <br>
+  Im Jahr 2019 betrug das Gesamtbudget 31.000€.
+  <br><br>
+
+  **Förderer** <br>
+  Körber Stiftung, Querfinanzierung OKF DE
+  <br><br>
 
   **Personal** <br>
-  1 Community Manager und ca. 500 Ehrenamtliche mit 10.000 Stunden ehrenamtlicher Arbeit
+  1 Community Manager
+  <br><br>
+
+  **Ehrenamtliche Arbeit** <br>
+  ca. 500 Ehrenamtliche mit 10.000 Stunden ehrenamtlicher Arbeit
+  <br><br>
+
 
 achievements: >
   * OK Labs: regelmäßige Meetings, öffentliche Events, Workshops für Anfänger\*innen, Hackdays
