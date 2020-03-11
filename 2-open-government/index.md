@@ -19,16 +19,42 @@ Hinter dem Konzept steht das Ziel, die Arbeit von Politik, Regierung, Verwaltung
 Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen Entscheidungen und einer aktiven Beteiligung profitieren: Auch der öffentliche Sektor selbst kann die Expertise und das Wissen der Bürger*innen nutzen, um bessere Lösungen für Probleme und Vorhaben zu finden.	
 <br>	
 
-### Rückblick
+### Rückblick in unseren Blogs
 
-Im internationalen Vergleich ist Deutschland nach wie vor kein Vorreiter in Bezug auf offenes Regierungshandeln, dem Zugang zu Verwaltungsdaten und der Nutzung digitaler Technologien. So erreichte Deutschland zuletzt beim [Open Budget Index](https://www.internationalbudget.org/open-budget-survey/results-by-country/country-info/?country=de) (Anmerkung: der Open Budget Index wird zweijährlich erfasst, daher bezieht sich die angegebene Punktzahl auf den Zeitraum 2015-2017) 69 und beim [Open Data Index](https://index.okfn.org/place/de/) 51 von 100 Punkten (Anmerkung: der Open Data Index wurde zuletzt 2017 erfasst). Auch die Verbreitung von digitalen Technologien in der Verwaltung oder der Zugang zu schnellem Internet sind im internationalen Vergleich verbesserungswürdig. 2013 hat die Bundesregierung die [Open Data Charta der G8](https://opendatacharter.net/resource/g8-open-data-charter/) unterzeichnet und nimmt seit 2016 an der [Open Government Partnership](https://www.opengovpartnership.org/countries/germany) teil. Der erste Nationale Aktionsplan Open Government wurde im August 2017 verabschiedet. Von den 15 Vorhaben waren 8 Aktivitäten ohnehin vorgesehen. Immerhin werden laut Zwischenbericht fast alle Meilensteine des 1. Nationalen Aktionsplans erreicht. Der 2. Aktionsplan wird aktuell unter zivilgesellschaftlicher Beteiligung ausgearbeitet und soll im Sommer 2019 veröffentlicht werden. Hier hoffen wir auf ambitionierte Verpflichtungen von der Bundesregierung sowie die Beteiligung der Bundesländer. 
+* [Volksentscheid Transparenz Berlin: 33.000 Unterschriften für mehr Transparenz](https://okfn.de/blog/2019/12/volksentscheid-33000-unterschriften-eingereicht/)
 
-Nach wie vor hat sich die Bereitstellung von Daten in offenen Formaten nicht in allen Ministerien und staatlichen Behörden durchgesetzt. In Bund und Ländern gibt es einige positive Beispiele, wie das [Modellkommunen-Projekt](http://open-government-kommunen.de/) des Bundes oder das des [Landes NRW](https://www.land.nrw/de/pressemitteilung/land-investiert-91-millionen-euro-modellkommunen-um-digitale-angebote-fuer-buerger), doch sie stellen eher die Ausnahme dar. 
+* [Is Germany ready for the OGP Steering Committee?](https://okfn.de/blog/2019/11/is-germany-ready-for-the-ogp-steering-committee/)
 
-Auch in Bezug auf die Informationsfreiheit besteht in Deutschland noch deutlicher Handlungsbedarf. So erreicht Deutschland im [Global Right to Information Rating nur 54 von 150](https://www.rti-rating.org/country-detail/?country=Germany) möglichen Punkten. In drei Bundesländern gibt es beispielsweise keine gesetzliche Grundlage für den Zugang zu amtlichen Informationen. Auch gibt es im Unterschied zu anderen Ländern in Deutschland kein Lobbyregister oder ein öffentlich zugängliches Unternehmensregister.
+* [Endspurt: Jetzt noch fürs Transparenzgesetz unterschreiben!](https://okfn.de/blog/2019/10/volksentscheid-endspurt/)
 
-Konkret hat die neue Bundesregierung angekündigt, der Digitalisierung höhere Priorität einzuräumen und sie hat eine Staatsministerin für Digitales berufen, um dieses Thema ressortübergreifend zu koordinieren. Im Koalitionsvertrag werden auch regionale Open-Government-Labore, eine zentrale Digitalagentur, ein zweites Open-Data-Gesetz und eine Beteiligungsplattform für Gesetze angekündigt. Bisher hat sich hier wenig getan. Die Überarbeitung des Open-Data-Gesetzes wurde verschoben und auch die Umsetzung der regionalen Open-Government-Labore lässt auf sich warten. Hier bleibt die Veröffentlichung des 2. Nationalen Aktionsplans Open Government abzuwarten, um festzustellen, welche Aspekte des Koalitionsvertrags wirklich umgesetzt werden. 
+* [Parlamentarisches Frühstück zu Open Government](https://okfn.de/blog/2019/09/parlamentarisches-fruehstueck-open-gov/)
 
-Aus Sicht der OKF DE ist es vor allem wichtig, dass die einzelnen Maßnahmen digitaler Politik nicht isoliert angegangen werden. Eine umfassende Politik für das digitale Zeitalter und offenes Regierungshandeln muss Gesetze, Normen und Praktiken etablieren, die eine offene und gerechte Gesellschaft ermöglichen.
+* [Tag der Informationsfreiheit: Geschwärzte Kunst](https://okfn.de/blog/2019/09/tag-der-informationsfreiheit-kunst/)
 
-# Im Folgenden werden die Projekte der OKF DE vorgestellt, die dem Bereich Open Government zuzuordnen sind.
+* [Veranstaltungsbericht: Mit Open Data Geldwäsche bekämpfen](https://okfn.de/blog/2019/05/veranstaltungsbericht-transparenzregister/)
+
+* [Transparenzregister: Mit Open Data Geldwäsche bekämpfen](https://okfn.de/blog/2019/05/transparenzregister-mit-open-data-geldwaesche-bekaempfen/)
+
+* [Ein Transparenzgesetz für Berlin: Volksbegehren startet im Juli](https://okfn.de/blog/2019/05/transparenzgesetz-berlin-startet/)
+
+* [PSI public sector information](https://okfn.de/blog/2019/04/psi-open-data-richtlinie/)
+
+* [Zensurheberrecht: Landgericht Köln zwingt FragDenStaat, staatliches Glyphosat-Gutachten zu löschen](https://okfn.de/blog/2019/04/zensurheberrecht-einstweilige-verfuegung/)
+
+* [Beteiligt euch jetzt: Online Konsultation Open Government](https://okfn.de/blog/2019/04/beteiligt-euch-jetzt-open-government/)
+
+* [Zensurheberrecht: Bundesregierung mahnt uns ab, wir wehren uns](https://okfn.de/blog/2019/03/zensurheberrecht/)
+
+* [Open Government in Deutschland: mehr zivilgesellschaftliche Beteiligung](https://okfn.de/blog/2019/02/open-government-mehr-beteiligung/)
+
+* [Offene Daten für Alle](https://okfn.de/blog/2019/02/offene-daten-fuer-alle/)
+
+* [Das Handelsregister: Endlich offene Daten!](https://okfn.de/blog/2019/02/handelsregister/)
+
+* [Finally: Open Company Data!](https://okfn.de/blog/2019/02/finally-open-company-data/)
+
+* [Open Data directive, the directive formerly known as PSI public sector information](https://okfn.de/blog/2019/01/open-data-directive/)
+
+* [Pot Secret - Freeing thousands of Food Safety Reports](https://okfn.de/blog/2019/01/pot-secret/)
+
+* [Jetzt mitmachen: Topf Secret!](https://okfn.de/blog/2019/01/topf-secret/)

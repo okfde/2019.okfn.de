@@ -50,19 +50,14 @@ resources: >
 
   **Laufzeit** <br>
 
-  Das Projekt begann im Juni 2017 und läuft bis April 2019. Es handelt sich damit für 2018 um eine ganzjährige Laufzeit.
-  <br><br>
-  ![ganzjährige Laufzeit](/assets/images/laufzeit/demokratielabore.svg "Laufzeit Demokratielabore")
-  <br><br><br>
+  Das Projekt begann im Juni 2017 und lief bis April 2019. 
 
   **Finanzierung** <br>
 
-  Das Projekt ist zu 100% finanziert und wird im Jahr 2018 durch das Bundesministerium für Familie, Senioren, Frauen und Jugend (2017/18) und die Bundeszentrale für politische Bildung (2018/19) gefördert.
+  Das Projekt ist zu 100% finanziert und wurde im Jahr 2019 durch die Bundeszentrale für politische Bildung (2018/19) gefördert.
 
-  Das Budget für 2018 beträgt 824.910,36 Euro.
+  Das Budget für 2019 beträgt XXX Euro.
   <br><br>
-
-  ![100% Finanzierung, 149.894,26€ Sachekosten, ca. 6000h ehrenamtliche Arbeit durch Mentorinnen](/assets/images/finanzierung/demokratielabore.svg "Finanzierung Demokratielabore")<br><br>
 
 
   **Personal** <br>

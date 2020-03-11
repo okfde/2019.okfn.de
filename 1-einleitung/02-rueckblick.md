@@ -8,18 +8,40 @@ visual:
     alt: Eine Beschreibung des Textes
 ---
 
-Global betrachtet setzten sich auch 2018 einige negative Trends vergangener Jahre fort: Populismus, Nationalismus und Rassismus stellen das demokratische Grundgerüst vieler Nationen in Europa und im Rest der Welt auf die Probe. Technologiekonzerne mit immer größerem Marktanteil zeigen einen unstillbaren Durst nach persönlichen Daten und dringen mit Hilfe neuer Verfahren und Algorithmen immer tiefer in das Leben der Nutzer*innen ihrer Produkte ein. Unternehmen nutzen weiter [Schlupflöcher im Steuersystem](https://netzwerksteuergerechtigkeit.files.wordpress.com/2018/01/6_fsi-ranking_incl-_eu-tax-havens.pdf), um Milliarden unversteuert zu belassen. Techno-optimistische Forderungen nach smarten Städten und Künstlicher Intelligenz sowie ein scheinbar unendlicher Strom an digitalen Konsumangeboten stehen in starkem Kontrast zu einer gemeinwohlorientierten Nutzung moderner Technologien und offener Daten im Sinne der Zivilgesellschaft. Das föderale Bildungssystem in Deutschland hat große Probleme, der Nachfrage nach zeitgemäßen Bildungsformaten gerecht zu werden, obwohl der Bedarf an kompetenten kritischen Geistern, die die Werkzeuge der Digitalisierung für das Gemeinwohl einsetzen, wohl selten größer war.
+Das Jahr 2019 war mit Blick auf unsere Organisation von Professionalisierung, Veränderung und Konsolidierung geprägt. 
 
-Auf europäischer und nationaler Ebene wurde im letzten Jahr an vielen Stellen an Verbesserungen gearbeitet, wenn auch mit gemischtem Erfolg. Das aufgrund von Nutzungseinschränkungen [leider intransparente](https://www.sueddeutsche.de/politik/gegen-geldwaesche-einblick-unter-vorbehalt-1.3387385) Transparenzregister wurde mit einer neuen [Anti-Geldwäsche-Richtlinie](https://eur-lex.europa.eu/legal-content/DE/TXT/?qid=1529999596017&uri=CELEX:32018L0843) überarbeitet, die PSI-Richtlinie bzw. [Open-Data-Verordnung](https://okfn.de/blog/2019/02/offene-daten-fuer-alle/) ging in eine richtige Richtung und die Datenschutz-Grundverordnung (DSGVO) stärkte die Rechte von Verbraucherinnen und Verbrauchern gegenüber datenhungrigen Diensten. Versuche der Regulierung des Internets (wie der mittlerweile beschlossene Uploadfilter aus ehem. Artikel 13 des EU-Urheberrechtsgesetzes) demonstrieren das Gewicht lobbyistischer Interessen im politischen Prozess sowie die Probleme unserer Volksvertreter*innen, sich in einer zunehmend technisierten Gegenwart zu orientieren. Im Bildungsbereich verabschiedet die Bundesregierung aktuell den [Digitalpakt](https://www.bmbf.de/de/wissenswertes-zum-digitalpakt-schule-6496.html) mit 5,5 Milliarden Euro. Es bleibt abzuwarten, ob die Gelder in ihrer Gänze in smarten Tafeln versinken oder auch qualifizierende Maßnahmen finanziert werden, die einen aufgeklärten Umgang ermöglichen. Überhaupt versucht die Bundesregierung an [(zu)](https://netzpolitik.org/2018/zwischen-digitalrat-und-digitalkabinett-das-ringen-um-die-richtige-netzpolitik/) vielen Stellen (Digitalkabinett, Digitalrat, Digitalgipfel, Digitalklausur, Digitalagenda, Digitalministerin ...), die digitale Zukunft zu formen, nicht zuletzt mit dem im [Koalitionsvertrag](https://okfn.de/blog/2018/03/open-gov-koalitionsvertrag/) versprochenen Open-Data-Gesetz (wir warten!).
+* Unsere [Webseite](https://okfn.de) wurde technisch, inhaltlich und gestalterisch generalüberholt. Dabei haben wir unsere [Themensektion](https://okfn.de/themen/) geschärft, Unterseiten zu unserem [Profil](https://okfn.de/profil/) und unserer [Finanzierung](https://okfn.de/finanzierung/) aufgesetzt und die [englischsprachige Übersetzung](https://okfn.de/en/) der Webseite auf den neuesten Stand gebracht. 
 
-<br>
+* Nadine Evers wurde von Henriette Litta als neue Geschäftsführung abgelöst. 
 
-**Die Zivilgesellschaft ist (immer noch) gefragt**
+* Die Projekte FragdenStaat, Prototypefund und Jugend hackt konnten ihre Arbeit weiter verstetigen und haben sich auch personell vergrößert. Unser Projekt Demokratielabore ist zum April 2019 ausgelaufen. 
 
-Viele zivilgesellschaftliche Organisationen (und damit auch wir) arbeiten derweil weiter unermüdlich an einer transparenteren, gerechteren und offeneren Zukunft und entwickeln offene Bildungsformate und -materialien für die digital mündige Gesellschaft von morgen. Getragen von der Überzeugung, das demokratische Potenzial verschiedener technischer Verfahren zu zeigen, hielten im letzten Jahr dabei eine Reihe neuer Projekte, Kooperationen und Veranstaltungen bei uns Einzug: Mit [OffeneGesetze](https://offenegesetze.de/) ist ein kostenloser, digitaler und offener Zugang zum Bundesgesetzblatt entstanden. [OpenSchufa](https://openschufa.de/) (Gemeinschaftsprojekt mit Algorithmwatch) versucht, die lebensbestimmenden Algorithmen der Schufa einsehbar zu machen. [Politik bei Uns 2](https://politik-bei-uns.de/) stellt Informationen und Vorgänge aus Rat und Verwaltung benutzerfreundlich dar, damit Bürger*innen politische Entscheidungen nachvollziehen und frühzeitig mitbestimmen können. Der [Turing-Bus](https://turing-bus.de/) (Projekt mit der Gesellschaft für Informatik) bringt zeitgemäße Bildungsangebote und digitale Mündigkeit in den ländlichen Raum. Das [Forum Open Education](https://education.forum-open.de/) (mit Wikimedia) förderte den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien; [Bits&Bäume](https://bits-und-baeume.org/de) (OKF DE als eine von zehn Organisationen) fand zum ersten Mal als Konferenz für Digitalisierung und Nachhaltigkeit in Berlin statt.
+* Unser Vorstand hat unter dem Vorsitz von Andreas Pawelke wichtige Prozesse für die organisationsinterne Entwicklung angestoßen (Entwicklung des Governance Modells.. was noch?) 
 
-Auf Organisationsebene haben wir an der Weiterentwicklung unserer strategischen Ausrichtung gearbeitet. Der OKF-DE-[Vorstand](https://okfn.de/vorstand/) hat mit Andreas Pawelke einen neuen Vorstandsvorsitzenden und mit Jana Wichmann ein neues Mitglied bekommen. Zugleich haben Christian Heise, Friedrich Lindenberg, Sören Auer und Claudia Schwegmann nach einer langen und aktiven Zeit in unserem Vorstand neue Wege eingeschlagen – wir bedanken uns für den langjährigen und kontinuierlichen Einsatz!
+Unsere Arbeit wäre ohne den ehrenamtlichen Einsatz und die Unterstützung durch unsere Community nicht möglich. Ein großer Dank geht deswegen an die Entwickler\*innen, Designer\*innen, Journalist\*innen, Mentor\*innen und alle anderen, die im Jahr 2019 mit uns an einer gerechteren und offeneren Gesellschaft gearbeitet haben.
 
-Zum Jahreswechsel haben wir außerdem unsere [Webseite](https://okfn.de/) inhaltlich, strukturell und visuell überarbeitet. Mit der internen Umstellung auf Bilanzierung und intensiven Strukturierungsmaßnahmen sowie dank einer Förderung durch SKala konnten wir signifikante Verbesserungen in der Organisationsstruktur umsetzen und haben besonderes Augenmerk auf die Internationalisierung unseres Internetauftritts gelegt.
+Weitere Perspektiven auf unsere Tätigkeiten im Jahr 2019 gibt es in den Sektionen zu [Offenem Regierungshandeln](/opengovernment/), [Civic  / Public Interest Tech](civicandpublicinteresttech) und [Offener Bildung](offeneundpolitischebildung).
 
-Unsere Arbeit wäre ohne den ehrenamtlichen Einsatz und die Unterstützung durch unsere Community nicht möglich. Ein großer Dank geht daher an die Entwickler\*innen, Designer\*innen, Journalist\*innen, Mentor\*innen und alle anderen, die im Jahr 2018 mit uns an einer gerechteren und offeneren Gesellschaft gearbeitet haben.
+# Rückblick in unseren Blogs
+
+* [In eigener Sache: Henriette Litta übernimmt Geschäftsführung bei Open Knowledge Foundation Deutschland e.V.](https://okfn.de/blog/2019/12/willkommen-henriette/)
+
+* [Das ABC der Offenheit](https://okfn.de/blog/2019/11/abc-der-offenheit/)
+
+* [Einladung: Berlin Open Data Day am 5. November](https://okfn.de/blog/2019/10/berlin-open-data-day-2019-boddy/)
+
+* [Bundesregierung macht kleine Fortschritte auf großer Baustelle](https://okfn.de/blog/2019/09/bundesregierung-macht-kleine-fortschritte-auf-gro%C3%9Fer-baustelle/)
+
+* [Öffentliche Daten nützen – Umwelt schützen und Zivilgesellschaft stützen](https://okfn.de/blog/2019/07/bits-und-baeume-publikation/)
+
+* [Öffentliche Daten und Künstliche Intelligenz – Unsere Kernthesen für die Enquete-Kommission](https://okfn.de/blog/2019/07/offene-daten-ki/)
+
+* [In eigener Sache: Wechsel der Geschäftsführung bei der Open Knowledge Foundation Deutschland](https://okfn.de/blog/2019/05/wechsel-gf/)
+
+* [Privatsphäre oder öffentliches Interesse?](https://okfn.de/blog/2019/06/privatsphaere-oder-oeffentliches-interesse/)
+
+* [Der Open Data Day 2019](https://okfn.de/blog/2019/02/open-data-day/)
+
+* [Daten für alle - aber wie?](https://okfn.de/blog/2019/04/daten-f%C3%BCr-alle-aber-wie/)
+
+* [OKFDE auf der re:publica 2019](https://okfn.de/blog/2019/05/okfde-auf-der-rp19/)

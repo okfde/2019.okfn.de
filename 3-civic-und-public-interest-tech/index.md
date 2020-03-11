@@ -22,18 +22,31 @@ Hinzu kommen die Einrichtung und Pflege von technischer Infrastruktur.
 
 Thematisch erweitert Public Interest Tech den Fokus des Civic Tech: Der Augenmerk liegt weiter darauf, zivilgesellschaftliche Interessen zu realisieren. Statt in einer Reformierung der Interaktionen zwischen Bürger\*in und Staat wird jedoch viel größer gedacht: Community-Technologien und Infrastrukturen werden entworfen, aufgesetzt und zur Verfügung gestellt mit einem Verständnis für die ethischen, rechtlichen, politischen und gesellschaftlichen Herausforderungen des technologischen Wandels.
 
-Diese Herangehensweise kann konkrete Themen wie Umweltschutz, Menschenrechten, Gesundheit oder emergenten Technologien bearbeiten.
-
 <br>
 
 # Rückblick
 
-Im Jahr 2018 haben wir das Konzept für ein [citylab.berlin](https://okfn.de/blog/2018/06/make-city-citylab-berlin/) mitenwickelt. Außerdem war der Energyhack 2 ein wichtiger Schritt zur weiteren Verzahnung von Nachhaltigkeits- und Tech– Communities.
+* [Zahlen, bitte! Die Runde 7 des Prototypefund am Rechenschieber visualisiert](https://prototypefund.de/zahlen-bitte-runde-7/)
 
-Der Prototype Fund konnte 2018 die maximale Fördersumme je Team und Einzelentwickler auf 47.500 Euro erhöhen und den geforderten Eigenanteil der Projekte auf 5% reduzieren (von vorher 40%). Das ist ein Ergebnis der iterativen Anpassung an die realen Bedürfnisse von Selbstständigen als neuer Zielgruppe der Innovationsförderung, senkt die Zugangsschwelle und ermöglicht es weiteren Teilen der Zivilgesellschaft, Community-Technologien zu entwickeln und nutzbar zu machen.
+* [Rückblick Demo Day Runde 5: Und jedem Ende wohnt ein Zauber inne (Prototypefund).](https://prototypefund.de/rueckblick-demo-day-runde-5-und-jedem-ende-wohnt-ein-zauber-inne/)
 
-Zudem haben wir einen wichtigen zivilgesellschaftlichen Beitrag zur öffentlichen Diskussion um die Anwendungen des maschinellen Lernens geleistet: Parallel zur Einrichtung der KI-Enquete durch die Bundesregierung (ohne nennenswerte zivilgesellschaftliche Beteiligung) haben wir mit der Förderrunde 5 „Maschinen lernen lassen“ Software-Ideen gesammelt, die die Potenziale und Herausforderungen von Künstlicher Intelligenz für die Gesellschaft erproben. Diese Anwendungsfälle erlauben, anhand von konkreten Umsetzungen den Diskurs anzureichern, zu kommentieren und Regulierungsbedarfe mitzuentwickeln.
+* [Prototype-Metriken: Wann ist Förderung erfolgreich?](https://prototypefund.de/prototype-metriken-wann-ist-foerderung-erfolgreich/)
 
+* [Unser Themenschwerpunkt für Runde 7: Engineering Trust – Vertrauen bauen (Prototypefund).](https://prototypefund.de/unser-themenschwerpunkt-fuer-runde-7-engineering-trust-vertrauen-bauen/)
+
+* [Networking for Impact – Prototype Fund meets Social Entrepreneurship](https://prototypefund.de/networking-for-impact-send/)
+
+* [Same, same, but different – das Zahlenorakel zu Runde 6 (Prototypefund)](https://prototypefund.de/same-same-but-different-das-zahlenorakel-zu-runde-6/)
+
+* [PTF goes FOSS, Teil 2 – Wir haben einen Plan (Prototypefund).](https://prototypefund.de/ptf-goes-foss-teil-2-wir-haben-einen-plan/)
+
+* [Unser Themenschwerpunkt für Runde 6: Commit – System erneuern (Prototypefund)](https://prototypefund.de/unser-themenschwerpunkt-fuer-runde-6-commit-system-erneuern/)
+
+* [Gute Vorsätze: Wir gehen Open Source (Prototypefund)](https://prototypefund.de/gute-vorsaetze-wir-gehen-open-source/)
+
+* [FORUM Offene Stadt & Code for Germany Summit](https://okfn.de/blog/2019/10/forum-offene-stadt-code-for-germany-summit/)
+
+* [Ökostrom in DE - Verbraucher* haben es schwer](https://okfn.de/blog/2019/11/umweltdatenschule-oekostrom-in-deutschland/)
 
 <br>
 

@@ -53,23 +53,29 @@ resources: >
   Das Projekt begann im März 2019 ​und lief bis Dezember 2019 (ein vorangegangenes Projekt des Turing-Busses lief von Februar 2018 bis Dezember 2018).
   <br><br>
 
-
-  **Finanzierung** <br>
-
-  Das Projekt war zu 100% finanziert und wurde im Jahr 2019 durch das Bundesministerium für Bildung und Forschung gefördert.
-
-  Das Budget für 2018 betrug 48.982,00 €, davon 47.882,00 € Personalmittel und 1.100,00 € Sachkosten. 
+  **Budget** <br>
+  Im Jahr 2019 betrug das Gesamtbudget 48.982,00 €, davon 47.882,00 € Personalmittel und 1.100,00 € Sachkosten. Das Projekt war zu 100% finanziert.
   <br><br>
 
-
+  **Förderer** <br>
+  Bundesministerium für Bildung und Forschung
+  <br><br>
 
   **Personal** <br>
+  1 Projektleitung (65%) | 1 Projektassistenz (25%)
+  <br><br>
 
-  1 Projektleitung | 1 Projektassistenz <br><br>
+  **Ehrenamtliche Arbeit** <br>
+  ca. 50h
+  <br><br>
 
   **Partner** <br>
+  Projektpartner: Gesellschaft für Informatik e. V.
+  <br><br>
 
-  Gesellschaft für Informatik e. V.<br><br>
+  **Weitere Unterstützer** <br>
+  Fablab Cottbus, sense:Box, Verstehbahnhof Fürstenberg, machBar (Kulturzentrum Freiland), Technikschule clever.inside Lübbenau, Pestalozzi-Fröbel-Haus in Berlin-Schöneberg, Otto-Hahn-Gymnasium in Gifhorn (NDS), Wilhelm-Busch-Gymnasium in Stadthagen (NDS), Ratsgymnasium Minden (NRW), Gymnasium Hermeskeil (RLP), Siebenpfeiffer-Gymnasium Kusel (RLP), Hans-Purrmann-Gymnasium in Speyer (RLP), Deutsches Museum Bonn (NRW), Kino Babylon in Berlin, John-Lennon-Gymnasium in Berlin, KI und wir*, Festung Mark in Magdeburg
+
 achievements: >
     * 18 Stationen an Schulen, Offenen Werkstätten und Kulturinstitutionen in Brandenburg, Sachsen-Anhalt, Rheinland-Pfalz, Sachsen, Niedersachsen und Nordrhein-Westfalen mit jeweils zwischen 10 bis 120 Teilnehmenden, vorwiegend Schülerinnen und Schüler zwischen 15 und 19 Jahren
 

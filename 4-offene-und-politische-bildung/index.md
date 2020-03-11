@@ -17,21 +17,34 @@ Ein weiterer wichtiger Aspekt hierbei ist die politische Bildung: Offene Bildung
 Digitale Mündigkeit beschreibt hierbei die Fähigkeit, konstruktiv, kritisch und souverän mit digitalen Räumen umzugehen, um sich zivilgesellschaftlich und politisch in diesen engagieren zu können. Nur so können wir unsere zunehmend digitalisierte Gesellschaft hinterfragen und mitgestalten. Fähigkeiten im Umgang mit digitalen Technologien (Digital Literacy), z. B. um online bürgerliche Rechte und Pflichten wahrzunehmen, sind hierbei kein Selbstzweck, sondern Mittel für gesellschaftliche Teilhabe. Es geht um ein Verständnis dafür, wie notwendig es ist, sich am gesellschaftlichen und politischen Leben in digitalen Räumen zu beteiligen, um zivilgesellschaftliche Interessen zu wahren und die Gesellschaft mitzugestalten.
 <br>
 
-# Rückblick
+# Rückblick in unseren Blogs
+		
 
-Der Digitalpakt der Bundesregierung über insgesamt 5,5 Milliarden Euro ist nun endgültig [auf dem Weg](https://www.tagesschau.de/inland/digitalpakt-einigung-101.html). Auch wenn Investitionen in oftmals mangelhafte digitale Infrastrukturen an Schulen notwendig und wichtig sind, ist damit lediglich ein Schritt von vielen getan. Smartboards machen sich zwar gut auf Fotos, sind aber nur ein Medium, dessen Einsatz erst dann sinnvoll wird, wenn es von geschultem Fachpersonal bedient und in den Unterricht eingebettet werden kann. Ähnliches gilt für Tablets: Werden diese nur genutzt, um bestehende Lerninhalte von Papier auf Bildschirme zu übertragen, ist keine digitale Mündigkeit gewonnen. Wichtige Posten wie Intra- und Internet, Wartung und Systemadministration werden darüber hinaus tendenziell vernachlässigt. Die Kapazität einzelner Schulen, die zur Verfügung stehenden Mittel sinnvoll und nachhaltig einzusetzen, wird sich noch zeigen. Insgesamt müsste Deutschland ohnehin laut [Schätzungen der OECD](https://www.oecd-ilibrary.org/docserver/6001821lw.pdf?expires=1556549898&id=id&accname=guest&checksum=4D06FBF5E2AABC8229F5762E77BF7938) jährlich rund [30 Milliarden Euro mehr](https://www.deutschlandfunk.de/oecd-bildungsbericht-2017-deutschland-ist-mint.680.de.html?dram:article_id=395694) in Bildung investieren, um gemessen am Bruttoinlandsprodukt auf einem Level mit anderen Industrienationen zu sein. 
+* [Die Geschichte von Jugend hackt](https://jugendhackt.org/blog/die-geschichte-von-jugend-hackt/)
 
-Die große Frage, die nicht zuletzt aufgrund des Bildungsföderalismus selten diskutiert wird, ist die nach Sinn und Zweck digitaler Offensiven im Bildungssektor. Zeitgemäße Bildung und die Entwicklung digitaler Mündigkeit erfordert (wie oben beschrieben) die Inbezugnahme politischer, ethischer und gesellschaftlicher Fragen im Umgang mit Digitaltechnik. Offene Bildungsformate fördern eine kritische Einstellung gegenüber den omnipräsenten digitalen Konsumangeboten und stellen die Frage, wie Technik für die Gesellschaft eingesetzt werden kann. Um dies umzusetzen, sind Rahmenbedingungen notwendig, die ein freies und selbstbestimmtes Arbeiten erlauben und von kompetenten Expertinnen und Experten begleitet werden. Traditionelle Unterrichtsformate und Klassenräume sind damit in ihrer aktuellen Form nur bedingt vereinbar.
+* [Offener Brief an NRW nach fragwürdigem Auftrag an FDP-Großspenderin](https://okfn.de/blog/2019/06/offener-brief-zum-vergabefall-haba-digital/)
 
-Unsere Projekte im Bereich Offener Bildung haben im letzten Jahr gezeigt, wie Bildung auch anders geht: Jugend hackt veranstaltete 2018 beispielsweise im deutschsprachigen Raum 8 Hackathons mit mehr als 400 Jugendlichen sowie einen deutsch-türkischen Jugendaustausch. Möglich gemacht wurde dies durch über 5000 Freiwilligenstunden seitens der begleitenden Mentor\*innen. 
+* [Das Jugend hackt Jahr 2019 im Rückblick](https://jugendhackt.org/blog/das-jugend-hackt-jahr-2019-im-rueckblick/)
 
-Die Demokratielabore führten ihre 12 verschiedenen, eigens entwickelten Workshopformate insgesamt 73 mal in außerschulischen Jugendeinrichtungen deutschlandweit durch und erreichten dabei über 680 Jugendliche und 300 pädagogische Fachkräfte. Auf der Selbstlernplattform finden Interessierte nun zahlreiche Materialien, Ideen und Tools für digitale Jugendprojekte, die zur Gestaltung der Gesellschaft von morgen beitragen. Zudem bleibt jede Menge Raum, die Plattform mit eigenen Ideen und Themen anzureichern.
+* [Wie finanziert sich Jugend hackt?](https://jugendhackt.org/blog/wie-finanziert-sich-jugend-hackt/)
 
-In den deutschlandweit verteilten edulabs hat sich eine nachhaltige Community von über 150 digital kompetenten Bildungsreformern und -reformerinnen gegründet, die an zeitgemäßen Formaten und Tools arbeiten, die unsere Bildungsprozesse erneuern und frei lizenziert sind. Durch zahlreiche Kommunikationsmaßnahmen und das erste Forum Open Education wurden ihre Positionen und Projekte einer breiten Öffentlichkeit sowie politischen Entscheidungstragenden zugänglich gemacht.
+* [Paula (Jugend hackt) über das Engagement von Jugendlichen](https://jugendhackt.org/blog/paula-ueber-engagement-von-jugendlichen-im-digitalen-zeitalter/)
 
-Der Turing-Bus fuhr erstmals durch den in vielerlei Hinsicht vernachlässigten ländlichen Raum, um über 450 Teilnehmende bei Digitalworkshops mit regionalen Hackspaces zusammenzubringen. Vor allem dank der aktiven Unterstützung von Expert\*innen digitaler Disziplinen und Vertreter\*innen regionaler Initiativen (Offene Werkstätten, Hackspaces, OK-Labs) entstanden 13 spannende Stationen mit Hands-on-Workshops, Screenings und Diskussionsformaten mit Regionalpolitiker\*innen.
+* [Vorstellung des Verschwoerhaus in Ulm (Jugend hackt Lab)](https://jugendhackt.org/blog/lab-vorstellung-das-verschwoerhaus-in-ulm/)
 
-Insgesamt haben wir in den Workshops und Veranstaltungen von Jugend hackt, Demokratielabore, Turing-Bus und edulabs 2018 über 1.500 Kinder, Jugendliche, Eltern und Lehrkräfte in der Anwendung digitaler Tools für gesellschaftliche Fragestellungen geschult.	
+* [Rückblick Teil 1 der Stationen 2019 des Turing-Busses](https://turing-bus.de/blog/2019/07/das-waren-die-ersten-stationen/)
+
+* [Rückblick Teil 2 der Stationen 2019 des Turing-Busses](https://turing-bus.de/blog/2019/09/gifhorn-stadthagen-minden/)
+
+* [Rückblick Teil 3 der Stationen 2019 des Turing-Busses](https://turing-bus.de/blog/2019/10/hermeskeil-kusel-speyer/)
+
+* [Die Demokratielabore verabschieden sich](https://demokratielabore.de/blog/Demokratielabore-verabschiedet-sich)
+
+* [Engagement von Jugendlichen im digitalen Zeitalter](https://okfn.de/blog/2019/05/engagement-von-jugendlichen-im-digitalen-zeitalter/)
+
+* [Offene Daten für die digitale Jugendbeteiligung (Demokratielabore)](https://okfn.de/blog/2019/04/offene-daten-fuer-die-digitale-jugendbeteiligung/)
+
+* [Digitalisierung in der Jugendarbeit - unsere Erfahrungen mit den Demokratielaboren](https://okfn.de/blog/2019/04/digitalisierung-jugendarbeit-erfahrungen-demokratielabore/)
 <br>
 
 # Im Folgenden werden die Projekte der OKF DE vorgestellt, die dem Bereich Offene und politische Bildung zuzuordnen sind.

@@ -22,7 +22,7 @@ Der vorliegende Jahresbericht ist nach dem Social Reporting Standard (SRS) struk
 
 
 ### Berichtszeitraum und Berichtszyklus
-Die Finanzberichterstattung bezieht sich auf das Geschäftsjahr 2018. Alle anderen Fakten reichen bis zur Gründung im Februar 2011 zurück. Es ist weiterhin geplant, im jährlichen Turnus zu berichten.
+Die Finanzberichterstattung bezieht sich auf das Geschäftsjahr 2019. Alle anderen Fakten reichen bis zur Gründung im Februar 2011 zurück. Es ist weiterhin geplant, im jährlichen Turnus zu berichten.
 
 
 ### Ansprechpartner
