@@ -121,7 +121,7 @@ Das Fragerecht ist ein wichtiges Recht der Abgeordneten – und ein häufig genu
 
 Von Seiten der Parlamente werden diese Dokumente zwar veröffentlicht, dies geschieht aber auf verschiedenen Onlinearchiven verstreut und mit mangelhafter Qualität. Unter anderem sind die Dokumente nicht im Volltext durchsuchbar, wodurch sie anhand der großen Menge von Anfragen in großen Teilen faktisch unzugänglich sind. Viele Funktionen, die  
 
-Um die in den Dokumenten enthaltenen Informationen zugänglich zu machen, wurden sie auf kleineAnfragen.de fünf Jahre lang ehrenamtlich in einer Datenbank gesammelt, aufbereitet und – als Beitrag zu Transparenz und Partizipation – kostenfrei für die Öffentlichkeit zugänglich gemacht. Dadurch sollte demonstriert werden, **welche Chancen eine sinnvolle Digitalisierung kleiner Anfragen **bietet, um die [Parlamente](https://kleineanfragen.de/info) dazu bewegen, die gegenwärtig mangelhafte Bereitstellung zu überdenken und sie aktuellen technischen Standards anzupassen.
+Um die in den Dokumenten enthaltenen Informationen zugänglich zu machen, wurden sie auf kleineAnfragen.de fünf Jahre lang ehrenamtlich in einer Datenbank gesammelt, aufbereitet und – als Beitrag zu Transparenz und Partizipation – kostenfrei für die Öffentlichkeit zugänglich gemacht. Dadurch sollte demonstriert werden, **welche Chancen eine sinnvolle Digitalisierung kleiner Anfragen** bietet, um die [Parlamente](https://kleineanfragen.de/info) dazu bewegen, die gegenwärtig mangelhafte Bereitstellung zu überdenken und sie aktuellen technischen Standards anzupassen.
 
 Dabei wurden auf technischer Ebene die folgenden Features implementiert: 
 
