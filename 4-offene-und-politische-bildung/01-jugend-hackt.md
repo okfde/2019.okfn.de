@@ -47,24 +47,33 @@ resources: >
 
   **Laufzeit** <br>
 
-  ganzjährig<br><br>
-  ![ganzjährige Laufzeit](/assets/images/laufzeit/ptf.svg "Laufzeit Jugend hackt")
-  <br><br><br>
-
-  **Finanzierung** <br>
-
-  Das Projekt ist zu 100% finanziert und wird unter anderem durch die SKala-Initiative, das Auswärtiges Amt, Google, Adesso und viele weitere Geldgeber gefördert. 
+  Das Projekt begann im September 2013 und läuft seitdem durchgehend.
   <br><br>
 
-  ![100% Finanzierung, 149.894,26€ Sachekosten, ca. 6000h ehrenamtliche Arbeit durch Mentorinnen](/assets/images/finanzierung/jugendhackt.svg "Finanzierung Jugend hackt")<br><br>
+  **Budget** <br>
+  Im Jahr 2019 betrug das Gesamtbudget XXX €, davon XXX € Personalmittel und XXX € Sachkosten. Das Projekt war zu 100% finanziert.
+  <br><br>
 
+  **Förderer** <br>
+  Das Projekt wird unter anderem durch die SKala-Initiative, das Auswärtiges Amt, Google, Adesso und viele weitere Geldgeber gefördert.
+  <br><br>
 
   **Personal** <br>
+  2 Projektleiterinnen | 1 Projektmanagerin | 1 Community Manager | 1 Design-Lead | 1 Tech-Lead | 1 stud. Hilfskraft | BFDler
+  <br><br>
 
-  2 Projektleiterinnen | 1 Projektmanagerin | 1 Community Manager | 1 Design-Lead | 1 Tech-Lead | 1 stud. Hilfskraft | BFDler<br><br>
+  **Ehrenamtliche Arbeit** <br>
+  ca. 6000h
+  <br><br>
 
   **Partner** <br>
-  Programmpartner ist mediale pfade.org – Verein für Medienbildung e.V. Zudem gibt es viele weitere lokale Partnerorganisationen.
+  PProgrammpartner ist mediale pfade.org – Verein für Medienbildung e.V. Zudem gibt es viele weitere lokale Partnerorganisationen.
+  <br><br>
+
+  **Weitere Unterstützer** <br>
+  Unterstützer 1,2,3
+  <br><br>
+
 
 achievements: >
     * verschiedene Veranstaltungsformate für Jugendliche
