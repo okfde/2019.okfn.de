@@ -56,21 +56,30 @@ resources: >
 
   **Laufzeit** <br>
 
-  Das Projekt begann im Mai 2016 ​und läuft voraussichtlich bis ​April 2021. Es handelt sich damit für 2018 um eine ganzjährige Laufzeit.<br><br>
-  ![ganzjährige Laufzeit](/assets/images/laufzeit/ptf.svg "Laufzeit PTF")
-  <br><br><br>
-
-  **Finanzierung** <br>
-
-  Das Projekt ist zu 100% vom Bundesministerium für Bildung und Forschung finanziert. Das Budget für 2018 beträgt 2.342.284€.
+  Das Projekt begann im März 2019 ​und lief bis Dezember 2019.
   <br><br>
 
-  ![](/assets/images/finanzierung/ptf.svg "Laufzeit FDS")<br><br>
+  **Budget** <br>
+  Im Jahr 2019 betrug das Gesamtbudget 48.982,00 €, davon 47.882,00 € Personalmittel und 1.100,00 € Sachkosten. Das Projekt war zu 100% finanziert.
+  <br><br>
 
+  **Förderer** <br>
+  Bundesministerium für Bildung und Forschung
+  <br><br>
 
   **Personal** <br>
+  1 Projektleitung (65%) | 1 Projektassistenz (25%) | etc....
+  <br><br>
 
-  Projektleitung: ​Elisa Lindinger, Julia Kloiber | Kommunikation: Jessica Binsch, Katharina Meyer | Projekt-Management: Adriana Groh, Fiona Krakenbürger, Michael Peters | Controlling: Nadine Evers | technische Administration: Gregor Gilka
+  **Ehrenamtliche Arbeit** <br>
+  ca. 50h
+  <br><br>
+
+  **Partner** <br>
+  Projektpartner: Gesellschaft für Informatik e.V.
+  <br><br>
+
+
 
 
 achievements: >

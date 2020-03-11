@@ -48,24 +48,32 @@ effect:
   claim: Jugendliche verschaffen sich durch den Einsatz digitaler Tools Sichtbarkeit und gestalten ihre Gesellschaft aktiv mit.
 resources: >
 
+
   **Laufzeit** <br>
 
-  Das Projekt begann im Juni 2017 und lief bis April 2019. 
-
-  **Finanzierung** <br>
-
-  Das Projekt ist zu 100% finanziert und wurde im Jahr 2019 durch die Bundeszentrale für politische Bildung (2018/19) gefördert.
-
-  Das Budget für 2019 beträgt XXX Euro.
+  Das Projekt begann im Juni 2017 ​und lief bis April 2019.
   <br><br>
 
+  **Budget** <br>
+  Im Jahr 2019 betrug das Gesamtbudget  €, davon  € Personalmittel und  € Sachkosten. Das Projekt war zu 100% finanziert.
+  <br><br>
+
+  **Förderer** <br>
+  Das Projekt ist zu 100% finanziert und wurde im Jahr 2019 durch die Bundeszentrale für politische Bildung (2018/19) gefördert. 
+  <br><br>
 
   **Personal** <br>
+  1 Projektleitung | 1 Modulleitung | 1 Projektkoordination | 7 Projekt- und Juniorprojektmanager\*innen | 1 Tech Lead | 1 Design Lead | 1 Modulmanagement | 2 Softwareentwicklerinnen | 2 studentische Mitarbeiter\*innen | 1 Bundesfreiwilligendienstleistende\*r | 1 Supervision & Intervision
+  <br><br>
 
-  1 Projektleitung | 1 Modulleitung | 1 Projektkoordination | 7 Projekt- und Juniorprojektmanager\*innen | 1 Tech Lead | 1 Design Lead | 1 Modulmanagement | 2 Softwareentwicklerinnen | 2 studentische Mitarbeiter\*innen | 1 Bundesfreiwilligendienstleistende\*r | 1 Supervision & Intervision<br><br>
+  **Ehrenamtliche Arbeit** <br>
+  ca. 50h
+  <br><br>
 
   **Partner** <br>
   mediale pfade e. V. | youthpolicy lab | creative gaming e. V. | stuhlkreis_revolte
+  <br><br>
+
 
 achievements: >
 

@@ -29,7 +29,7 @@ Die Archivierung und der Zugang zu den Daten hilft Journalist\*innen, NGOs und P
 Die New York Times veröffentlicht eine [Recherche auf Basis von Agrarsubventionen](https://www.nytimes.com/2019/11/03/world/europe/eu-farm-subsidy-hungary.html). Das Projekt hatte früher im Jahr eine Datenberatung mit einer Autorin durchgeführt.
 
 ### Ausblick
-Für 2019 ist angesetzt, dass mehr Daten wieder in die Suchmaschine integriert werden.
+Für 2020 ist angesetzt, dass mehr Daten wieder in die Suchmaschine integriert werden.
 
 ### Ressourcen
 Ehrenamtliche Arbeitszeit: ~120 Stunden im Jahr
