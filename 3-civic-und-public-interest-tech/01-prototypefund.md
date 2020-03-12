@@ -38,7 +38,7 @@ effect:
 
 
     Die Bereitschaft, prototypische Projekte mit kleineren Summen zu fördern, steigt.
-- title: auf Entwickler\*innen,
+- title: auf Entwickler*innen,
   text: >
     Förderungen werden als realistische Möglichkeit angesehen, Projekte umzusetzen.
 
@@ -146,7 +146,7 @@ outlook:  >
 
 # Förderprogramm für die Entwicklung von innovativer Open-Source-Software im Bereich Public Interest Tech
 
-Die stetig wachsende Bedeutung von Technologien, Algorithmen und Daten verlangt einen aufgeklärten und selbstbestimmten Umgang der Nutzer*\innen mit diesen. Darüber hinaus ist es essenziell, innovative Technologien nicht (nur) im Interesse der Wirtschaftlichkeit zu entwickeln sondern sie (auch) in den Dienst der Gesellschaft und des Gemeinwohls zu stellen. Deswegen braucht es mehr als gute, anwendungsfreundliche Werkzeuge - es fehlt z. B. auch an nachhaltigen technischen und kommunikativen Infrastrukturen, die dazu beitragen Bürger- und Freiheitsrechte zu wahren. Kurzum: Es braucht mehr Technologien im öffentlichen Interesse - das ist Public Interest Tech. 
+Die stetig wachsende Bedeutung von Technologien, Algorithmen und Daten verlangt einen aufgeklärten und selbstbestimmten Umgang der Nutzer\*innen mit diesen. Darüber hinaus ist es essenziell, innovative Technologien nicht (nur) im Interesse der Wirtschaftlichkeit zu entwickeln sondern sie (auch) in den Dienst der Gesellschaft und des Gemeinwohls zu stellen. Deswegen braucht es mehr als gute, anwendungsfreundliche Werkzeuge - es fehlt z. B. auch an nachhaltigen technischen und kommunikativen Infrastrukturen, die dazu beitragen Bürger- und Freiheitsrechte zu wahren. Kurzum: Es braucht mehr Technologien im öffentlichen Interesse - das ist Public Interest Tech. 
 
 Häufig forschen und arbeiten Menschen in diesem Bereich ehrenamtlich und/oder in ihrer Freizeit. Sie sind somit nicht dieselben, die von klassischen öffentlichen Fördermaßnahmen abgedeckt werden, denn diese richten sich in der Regel an Unternehmen und etablierte Forschungseinrichtungen. Ein großer Teil des digitalen Ehrenamts wird jedoch von Einzelpersonen und kleinen interdisziplinären Teams geleistet. Weil diese aufgrund unpassender Fördermechanismen ihre Projekte nicht konzentriert verfolgen können, kommt ein enormes Innovationspotenzial nicht zum Tragen. Damit überlassen wir als Gesellschaft digitale Angebote den großen Konzernen und profitorientierter Forschung, fördern das Sammeln von Daten und proprietäre statt offene Lösungen. Der Bedarf an Alternativen ist groß.
 
