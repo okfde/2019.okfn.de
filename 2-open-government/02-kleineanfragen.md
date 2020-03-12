@@ -25,7 +25,7 @@ solution:
 - title: Verknüpfung mit bestehenden Tools
   text: Durch den Verweis auf Tabula und die Implementation eines offenen Standards (OParl) können die Daten in den Antworten, aber auch die Metadaten zu allen Antworten weiterverwendet werden.
 - title: Best Practice
-  text: Durch ein Best-Practice-Beispiel werden Verwaltungen und Politik von den Vorteilen offener Werkzeuge überzeugt.
+  text: Durch ein Best-Practice-Beispiel hätten Verwaltungen und Politik von den Vorteilen offener Werkzeuge überzeugt werden sollen.
 effect:
 - title: auf Verwaltung & Abgeordnete
   text: >
@@ -65,7 +65,7 @@ resources: >
 
   **Finanzierung** <br>
 
-  Das Projekt wird ehrenamtlich von Maximilian Richt realisiert. Es fallen ausschließlich Kosten für Server und Speicherplatz an. <br><br>
+  Das Projekt wurde ehrenamtlich von Maximilian Richt realisiert. Es fallen ausschließlich Kosten für Server und Speicherplatz an. <br><br>
 
   ![0% Finanzierung, 100h ehrenamtliche Arbeit](/assets/images/finanzierung/kleineanfragen.svg "Laufzeit kleineAnfragen")<br><br>
 
@@ -82,16 +82,14 @@ achievements: >
     * Metadaten der Anfragen über API und als täglicher Datenbankdump für Entwickler*innen bereitgestellt
 
 outputs: >
-    * 101.000 Anfragen und Antworten zugänglich und leicht durchsuchbar
+    * 116.000 Anfragen und Antworten zugänglich und leicht durchsuchbar
 
-    * 701 aktive E-Mail-Abonnements
+    * 760 E-Mail-Abonnements waren aktiv
 
     * Monatlich ~30.000 unique Besucher, ~147.000 Seitenaufrufe
 
 outcome: >
-    * Verwaltungsmitarbeitende der Parlamente nutzen kleineAnfragen.de öfter als ihre eigenen Tools
-
-    * politische Parteien und Verwaltungen interessieren sich für die Plattform und wollen eigene Arbeit verbessern
+    * Verwaltungsmitarbeitende der Parlamente nutzten kleineAnfragen.de öfter als ihre eigenen Tools
 
 impact: >
     * Regierungshandeln wird transparenter und Parlamentsarbeit besser nachvollziehbar, da mehr Menschen die Möglichkeit haben, sich zu informieren. Das ermöglicht mehr Partizipation.
@@ -104,10 +102,11 @@ evaluation:  >
 
     * technischer Aufbau nicht stabil, Nichtverfügbarkeit einzelner Komponenten (Suche, Scraper, Dokumentenbereitstellung) sorgt für Ausfall der ganzen Plattform
 
+    * Parlamente nahmen kleineAnfragen nicht zum Anlass, den eigenen Parlamentsspiegel zu überarbeiten und selbst offene Daten bereitzustellen.
 
 
 outlook: >
-    * Risiken: Parlamente updaten oder tauschen die Dokumentationssoftware, sodass der Import von Anfragen und Antworten von diesem Parlament erstmal nicht mehr funktionieren bis eine neue Anbindung geschrieben wurde.
+    * Risiken: Parlamente updaten oder tauschen die Dokumentationssoftware, sodass der Import von Anfragen und Antworten von diesem Parlament nicht mehr funktioniert bis eine neue Anbindung geschrieben wurde.
 
     * Die Finanzierung des Projekts ist nicht gesichert. Daher ist eine langfristige Planung nicht möglich.
 
