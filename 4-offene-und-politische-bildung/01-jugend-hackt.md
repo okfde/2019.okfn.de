@@ -54,11 +54,11 @@ resources: >
   <br><br>
 
   **Förderer** <br>
-  Fördergeber*innen sind die SKala-Initiative und die Deutsche Bahn Stiftung. Zusätzliche Einnahmequellen sind Sponsorings und Spenden von Unternehmen sowie Spenden von Privatpersonen.
+  Fördergeber\*innen sind die SKala-Initiative und die Deutsche Bahn Stiftung. Zusätzliche Einnahmequellen sind Sponsorings und Spenden von Unternehmen sowie Spenden von Privatpersonen.
   <br><br>
 
   **Personal** <br>
-  Projektleiterinnen: Paula Grünwald und Sonja Fischbauer | Projektmanagerin Koordination Events: Saadya Windauer | Community Manager: Philip Steffan | Design-Lead: Nadine Stammen | Tech-Lead: Lisa Passing |  studentische Mitarbeiter*innen: Cin Pietschmann, Leonard Wolf | Bundesfreiwilligendienstleistende: Sebastian Schröder, Jakob Schiek
+  Projektleiterinnen: Paula Grünwald und Sonja Fischbauer | Projektmanagerin Koordination Events: Saadya Windauer | Community Manager: Philip Steffan | Design-Lead: Nadine Stammen | Tech-Lead: Lisa Passing |  studentische Mitarbeiter\*innen: Cin Pietschmann, Leonard Wolf | Bundesfreiwilligendienstleistende: Sebastian Schröder, Jakob Schiek
   <br><br>
 
   **Ehrenamtliche Arbeit** <br>
@@ -106,7 +106,7 @@ outcome: >
 
     * das Interesse an Teamwork und die selbst erlebte diesbezügliche Kompetenz erhöht sich
 
-    * die Mentor*innen werden mehrheitlich als große Hilfe und sogar als Vorbilder angesehen.
+    * die Mentor\*innen werden mehrheitlich als große Hilfe und sogar als Vorbilder angesehen.
 
     Die wissenschaftliche Evaluation der neuen Jugend hackt Labs ergab Ende 2019:
 
@@ -138,7 +138,7 @@ evaluation:  >
 
       * Anzahl der Veranstaltungen
 
-      * Resonanz der Teilnehmer*innen (wie stark werden die Veranstaltungen nachgefragt, Feedback-Fragebogen)
+      * Resonanz der Teilnehmer\*innen (wie stark werden die Veranstaltungen nachgefragt, Feedback-Fragebogen)
 
       * Wissenschaftliche Evaluation der Pilotlabs
 
@@ -164,7 +164,7 @@ outlook:  >
 
       * Start von weiteren vier Jugend-hackt-Labs
 
-      * Weiterentwicklung der pädagogischen Schulung für Mentor*innen
+      * Weiterentwicklung der pädagogischen Schulung für Mentor\*innen
 
       * nachhaltigeren und regelmäßigeren Austausch der Zielgruppe fördern
 
