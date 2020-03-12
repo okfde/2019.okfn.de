@@ -69,10 +69,6 @@ resources: >
   Programmpartner ist mediale pfade.org – Verein für Medienbildung e.V. Zudem gibt es viele weitere lokale Partnerorganisationen.
   <br><br>
 
-  **Weitere Unterstützer** <br>
-  Unterstützer 1,2,3
-  <br><br>
-
 
 achievements: >
     * verschiedene Veranstaltungsformate für Jugendliche
@@ -111,9 +107,13 @@ outcome: >
     Die wissenschaftliche Evaluation der neuen Jugend hackt Labs ergab Ende 2019:
 
     * Die Angebote und die Betreuung der Labs findet nahezu uneingeschränkten Zuspruch bei den Teilnehmenden
+
     * Die Atmosphäre in den Labs wird von weiblichen sowie männlichen Teilnehmenden als offen und freundlich empfunden
+
     * Die Labs sind bereits nach kurzer Zeit zu wichtigen sozialen Treffpunkten der Teilnehmenden geworden. Es sind Orte, an denen sie andere Jugendliche kennenlernen, sich mit neuen Freunden treffen und sich austauschen.
+
     * Die Labs bieten die Möglichkeit zur kreativen Selbstverwirklichung. Die Teilnehmenden bringen sich aktiv in die Labs ein, sie verwirklichen eigene Projekte, teilweise gemeinsam mit anderen Teilnehmenden, mit denen sie auch außerhalb der Labs weiterarbeiten.
+
     * Die Teilnehmenden lernen in den Labs. Sie erlangen neues Wissen und neue Fähigkeiten und wenden diese auch an
 
 
