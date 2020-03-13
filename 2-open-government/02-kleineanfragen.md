@@ -86,7 +86,7 @@ outputs: >
 
     * 760 E-Mail-Abonnements waren aktiv
 
-    * Monatlich ~30.000 unique Besucher, ~147.000 Seitenaufrufe
+    * Monatlich ~25.000 unique Besucher, ~119.000 Seitenaufrufe
 
 outcome: >
     * Verwaltungsmitarbeitende der Parlamente nutzten kleineAnfragen.de öfter als ihre eigenen Tools
