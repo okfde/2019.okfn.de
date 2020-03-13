@@ -48,61 +48,53 @@ resources: >
   <br><br>
 
   **Budget** <br>
-  Im Jahr 2019 betrug das Gesamtbudget XXX €, davon XXX € Personalmittel und XXX € Sachkosten. Das Projekt war zu 100% finanziert.
-  <br><br>
-
-  **Förderer** <br>
-  Förderer 1, Förderer 2.
+  Das Projekt ist zu 100% finanziert und lief im Jahr 2019 im Rahmen der Verbändeförderung des Bundesumweltministeriums und des Umweltbundesamtes unter dem Namen Umweltdatenschule. Das Budget für 2019 betrug ca. 82.000 Euro.
   <br><br>
 
   **Personal** <br>
   1 Projektleitung (80%) | 1 technische Leitung (50%) |  1 Workshopkonzeption (50%) | 1 Kommunikationsstelle (50%)
   <br><br>
 
-  **Ehrenamtliche Arbeit** <br>
-  ca. 100h
-  <br><br>
-
   **Partner** <br>
-  Kooperationspartner im Jahr 2019 waren X und Y.
-  <br><br>
-
-  **Weitere Unterstützer** <br>
-  Unterstützer 1,2,3
-  <br><br>
+  Kooperationspartner im Jahr 2019 waren RobinWood e.V. und FragDenStaat.
 
   <br><br>
 achievements: >
-    Zusammenarbeit mit dem Projekt Demokratielabore, Thema: Außerschulische Jugendarbeit
+    Im Rahmen der Umweltdatenschule fand eine Zusammenarbeit mit FragDenStaat zum Schwerpunktthema Umweltinformationsgesetz (UIG) sowie mit der Umweltorganisation RobinWood e.V. zum Thema Ökostrom in Deutschland.
 
-    * Wir haben vier [Workshops](https://demokratielabore.de/angebot/schulung) mit Fachkräften aus der Jugendarbeit zu offenen Daten, Storytelling, Citizen Science und Analyse von Twitterdebatten durchgeführt. Die [Lernmaterialien sowie die Train-the-Trainer-Konzepte](https://demokratielabore.de/publikationen) haben wir unter freier Lizenz als OER publiziert.
+    * Wir führten vier Workshops in Berlin, Cottbus und Potsdam mit dem Fokus offene Umweltdaten und UIG durch.
 
-    * Während unserer zweitägigen [Data Expedition](https://dataexpedition.demokratielabore.de/) zum Thema Demokratie und Jugendbeteiligung haben wir gemeinsam mit Fachkräften aus der Jugendarbeit, Entwickler\*innen und Designer\*innen digitale Prototypen und Projektideen entwickelt, die konkrete Herausforderungen der Jugendarbeit forcieren und Lösungen bieten.
+    * Zusammen mit RobinWood recherchierten wir zu Ökostromanbietern und veröffentlichten den [Ökostromreport 2020](https://www.robinwood.de/oekostromreport).
 
-    * Wir haben einen digital-analogen [Datenspaziergang](https://spaziergang.demokratielabore.de/intro) konzipiert, der Interessierten mit Hilfe einer Web-App zeigt, wie die digitale Welt mit realen Orten verwoben ist. Der erste Datenspaziergang führt durch Berlin Kreuzberg. Ein Creator-Tool ermöglicht es, eigene Spaziergänge online einzutragen.
+    * Unsere Recherche mit RobinWood und Arbeit mit der Umweltdatenschule stellten wir auf dem 36. Chaos Communication Congress in Leipzig und dem Hackathon der Naturfreunde Jugend in Berlin vor.
 
-    * Vermittlung digitaler Fähigkeiten & Awareness-Raising: Vorträge und Workshops, z. B. beim [3. Jugend- und Netzpolitischen Forum](http://www.politische-jugendbildung-et.de/freiraumnetz18/), [POEM der Universität Hamburg](https://www.poem.uni-hamburg.de/) und auf der [Bits&Bäume-Konferenz](https://bits-und-baeume.org).
+    * Auf dem Berliner Open Data Day (BODDy) 2019 sprachen wir über offene Umweltdaten.
+
+    Außerhalb des Themenfeldes Umweltdaten fanden noch weitere Datenschule-Workshops statt.
+
+    * In Zusammenarbeit mit Global Project Partners e.V. und dem Digital Arabia Network führten wir Workshops zu Datenanalyse und -visualiserung [in Tunis und Amman](https://datenschule.de/blog/2020/02/Die-Datenschule-auf-Tour/) durch.
+
+    * Für ein Vernetzungstreffen der Grünen führten wir einen Datenspaziergang in Berlin Moabit durch
+
+    * Für die Betterplace Academy gestalteten wir einen Abendvortrag zum Thema Data Literacy
+
+    * In Köln leiteten wir eine Fortbildung zum Umgang mit Daten in Excel
 
 outputs: >
+    * 4 Workshops zum Thema Umweltdaten und UIG konzipiert und achtmal durchgeführt
 
-    * 4 Workshops und 1 Data Expedition konzipiert, durchgeführt und dokumentiert
+    * 3 Lernmaterialien erstellt und als OER publiziert
 
-    * 2 Lernmaterialien und 4 Handreichungen erstellt und als OER publiziert
+    * 1 Datensatz zu Ökostromanbietern in Deutschland recherchiert und als Open Data veröffentlicht
 
-    * 1 Datenspaziergang inkl. Web-App und Creator-Tool entwickelt, viermal in Berlin durchgeführt
+    * über 1.200 Follower auf Twitter
 
-    * 5 Workshops mit Partner\*innen und auf Konferenzen gehalten
-
-    * über 1.000 Follower auf Twitter
-
-    * ca. 5700 Besucher\*innen auf Webseite, 145 (450 vor DSGVO) Newsletterabonnent\*innen
+    * ca. 3240 Besucher*innen auf Webseite, 207 (450 vor DSGVO) Newsletterabonnent*innen
 
 outcome: >
-  * Gemeinnützige Organisationen lernen, die Qualität von (ihren) Daten zu bewerten und zu verbessern. Sie nutzen digitale Methoden, Tools und Informationen zielgerichtet im Arbeitsalltag und beteiligen sich als Impulsgeber\*innen an öffentlichen, gesellschaftspolitischen Debatten.
+  * Gemeinnützige Organisationen und Umweltverbände lernen, die Qualität von (ihren) Daten zu bewerten und zu verbessern. Sie nutzen digitale Methoden, Tools und Informationen zielgerichtet im Arbeitsalltag und beteiligen sich als Impulsgeber*innen an öffentlichen, gesellschaftspolitischen Debatten.
 
-  * Etablieren und Stärken einer Community von gemeinnützigen Organisationen und Civic-Tech-Aktiven in Deutschland.
-
-  * Förderung von digitaler Innovation im gemeinnützigen Bereich.
+  * Förderung von digitaler Innovation im gemeinnützigen und umweltaktivistischen Bereich.
 
 impact: >
   * Eine größere digitale Mündigkeit in der Gesellschaft stärkt die Teilhabe an gesellschaftspolitischen Fragestellungen und macht soziale Innovation möglich.
