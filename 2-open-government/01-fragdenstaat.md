@@ -60,23 +60,25 @@ resources: >
 
   **Laufzeit** <br>
 
-  ganzjährige Projektlaufzeit <br><br>
-  ![ganzjährige Laufzeit](/assets/images/laufzeit/fds.svg "Laufzeit FDS")
-  <br><br><br>
+  Ganzjährige Projektlaufzeit <br><br>
+  
 
-  **Finanzierung** <br>
+  **Budget** <br>
 
-  Das Projekt ist zu 100% finanziert.
-  Die Finanzierung erfolgt durch Einzelspenden und Förderungen.<br><br>
-
-  ![Klagekosten: 28.896,54 €, Materialkosten 761,30 €](/assets/images/finanzierung/fds.svg "Laufzeit FDS")<br><br>
+  Im Jahr 2019 betrug das Gesamtbudget 216.351,73 €, davon 142.862,21 € Personalmittel, 8.177,40 € Sachkosten, 64.207,12€ für Widersprüche und Klagen sowie 1.105,00 € für Fortbildungen. Das Projekt war zu 100% finanziert. <br><br>
 
 
   **Personal** <br>
 
   1 Projektleitung (75%) | 1 Entwickler (100%)| 1 Studentische Hilfskraft (50%)| 1 Projektmanagerin (90%)<br><br>
 
+ **ehrenamtliche Arbeit** <br>
 
+  ca. 100 h <br><br> 
+  
+  **Partner** <br>
+
+foodwatch e.V., Mehr Demokratie e.V., Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordneten-watch.de<br><br>
 
 
 achievements: > 
