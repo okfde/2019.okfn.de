@@ -65,7 +65,8 @@ resources: >
 
   **Budget** <br>
 
-  Im Jahr 2019 betrug das Gesamtbudget 216.351,73 €, davon 142.862,21 € Personalmittel, 8.177,40 € Sachkosten, 64.207,12€ für Widersprüche und Klagen sowie 1.105,00 € für Fortbildungen. Das Projekt war zu 100% finanziert. <br><br>
+  Im Jahr 2019 betrug das Gesamtbudget 216.351,73 €, davon 142.862,21 € Personalmittel, 8.177,40 € Sachkosten, 
+  64.207,12€ für Widersprüche und Klagen sowie 1.105,00 € für Fortbildungen. Das Projekt war zu 100% finanziert. <br><br>
 
 
   **Personal** <br>
@@ -78,7 +79,8 @@ resources: >
   
   **Partner** <br>
 
-foodwatch e.V., Mehr Demokratie e.V., Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordneten-watch.de<br><br>
+foodwatch e.V., Mehr Demokratie e.V., Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, 
+Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordneten-watch.de<br><br>
 
 
 achievements: > 
