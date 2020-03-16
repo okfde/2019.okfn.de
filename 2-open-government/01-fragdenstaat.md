@@ -73,14 +73,14 @@ resources: >
 
   1 Projektleitung (75%) | 1 Entwickler (100%)| 1 Studentische Hilfskraft (50%)| 1 Projektmanagerin (90%)<br><br>
 
- **ehrenamtliche Arbeit** <br>
+  **ehrenamtliche Arbeit** <br>
 
   ca. 100 h <br><br> 
   
   **Partner** <br>
 
-foodwatch e.V., Mehr Demokratie e.V., Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, 
-Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordneten-watch.de<br><br>
+  foodwatch e.V., Mehr Demokratie e.V., Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, 
+  Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordneten-watch.de<br><br>
 
 
 achievements: > 
