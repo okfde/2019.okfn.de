@@ -124,7 +124,9 @@ evaluation:  >
 
     Welche Lerneffekte gab es?
 
-      * Fokus auf qualitativem Wachstum
+      * Intern: Markenstrategie, Webseite-Neugestaltung und Organisationsentwicklung gehen Hand in Hand und sind ein Prozess, der Zeit braucht
+
+      * Extern: Deutschlandweit gibt es einen großen Bedarf an lokalen, niederschwelligen Tech-Angeboten für Jugendliche; bei unserer Ausschreibung für unsere zwei ersten Labs erhielten wir über 30 qualitativ hochwertige Bewerbungen aus ganz Deutschland.
 
     Welche Hürden wurden wie gemeistert?
 
@@ -134,39 +136,43 @@ evaluation:  >
 
       * Intensivierung des Community-Managements
 
+      * Förderung eines nachhaltigeren und regelmäßigeren Austauschs der Zielgruppe
+
     Welche Indikatoren (siehe Output oben) werden wie überprüft?
 
       * Anzahl der Veranstaltungen
 
       * Resonanz der Teilnehmer\*innen (wie stark werden die Veranstaltungen nachgefragt, Feedback-Fragebogen)
 
-      * Wissenschaftliche Evaluation der Pilotlabs
+      * Wissenschaftliche Evaluation der ersten beiden Labs
 
     Gibt es Monitoring, regelmäßige Treffen, Berichte, Strategie-Meetings, Schulungen, Zielvereinbarungen?
 
-      * Netzwerktreffen jährlich mit allen Partnern
+      * Netzwerktreffen jährlich mit allen Partner\*innen
 
-      * regelmäßige Beratungstermine für Partner
+      * regelmäßige Beratungstermine für Partner\*innen
 
       * Strategie-Meeting zur Jahresplanung
 
-      * Kooperationsvereinbarungen mit Partnern
+      * Kooperationsvereinbarungen mit Partner\*innen
 
 outlook:  >
 
     Welche Risiken und Chancen sind absehbar?
 
-      * Risiken: zu schnelles Wachstum der Angebote und des Teams
+      * Risiken: Finanzierungslücke; personelle Engpässe aufgrund von personellen Wechsel
 
-      * Lösung: modularen Aufbau der Angebote stärker dezentralisieren und mehr Zeit für Teamwachstum einplanen
+      * Lösung: Fokus auf Mittelakquise; realistische Ressourcenplanung; Fokus auf Dokumentation der Arbeitsprozesse und Übergaben
+
 
     Welche Vorhaben und konkreten Meilensteine sind geplant?
 
-      * Start von weiteren vier Jugend-hackt-Labs
+      * Start von weiteren vier Jugend-hackt-Labs (dann insgesamt sechs Labs in Betrieb)
 
-      * Weiterentwicklung der pädagogischen Schulung für Mentor\*innen
+      * ein Schüler*innen-Austausch mit dem Goethe-Institut (Bangkok)
 
-      * nachhaltigeren und regelmäßigeren Austausch der Zielgruppe fördern
+      * zehn Events in Deutschland, Österreich und der Schweiz
+
 
 ---
 
