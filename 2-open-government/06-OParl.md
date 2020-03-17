@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.07
+chapter: 2.06
 title: OParl
 website: https://oparl.org/
 permalink: /open-government/oparl/

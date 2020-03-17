@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.08
+chapter: 2.07
 title: Politik bei Uns
 website: https://politik-bei-uns.de
 permalink: /open-government/politikbeiuns/
