@@ -20,13 +20,14 @@ Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 20
 * Beneficial Ownership, also das Offenlegen wirtschaftlicher Eigentümer 
 * offene Daten, Diskussion und Visualisierungen im Rohstoffsektor
 
-### Leistungen 2018
+### Leistungen 2019
 
 * internationale Vernetzung und kontinuierliche innerdeutsche Arbeit
+* Kooperation mit der Zivilgesellschaft in der Ukraine
+
 
 ### Ausblick
 
-* für 2019 Fokus auf Kooperation mit der Zivilgesellschaft in der Ukraine
 * kommende Themen: Vertragstransparenz und wirtschaftliche Eigentümer
 
 
