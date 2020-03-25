@@ -50,20 +50,20 @@ resources: >
 
 
   **Laufzeit** <br>
-
-  Das Projekt begann im Juni 2017 ​und lief bis April 2019.
+  Das Projekt begann im Juni 2017 und lief bis Mai 2019.
   <br><br>
 
   **Budget** <br>
-  Im Jahr 2019 betrug das Gesamtbudget  €, davon  € Personalmittel und  € Sachkosten. Das Projekt war zu 100% finanziert.
+  Im Jahr 2019 betrug das Gesamtbudget 158.893,18 €, davon 136.590,61 € Personalmittel und Horoare für exteren Expert\*innen und 22.302,57 € Sach- und Verwaltungskosten. Das Projekt war zu 100% finanziert.
   <br><br>
 
   **Förderer** <br>
-  Das Projekt ist zu 100% finanziert und wurde im Jahr 2019 durch die Bundeszentrale für politische Bildung (2018/19) gefördert. 
+  Das Projekt ist zu 100% finanziert und wurde im Jahr 2019 durch die Bundeszentrale für politische Bildung gefördert. 
   <br><br>
 
   **Personal** <br>
-  1 Projektleitung | 1 Modulleitung | 1 Projektkoordination | 7 Projekt- und Juniorprojektmanager\*innen | 1 Tech Lead | 1 Design Lead | 1 Modulmanagement | 2 Softwareentwicklerinnen | 2 studentische Mitarbeiter\*innen | 1 Bundesfreiwilligendienstleistende\*r | 1 Supervision & Intervision
+  bis April: 1 Projektleitung | 1 Projektkoordination | 5 Projektmanager\*innen | 1 Design Lead | 2 studentische Mitarbeiter\*innen | 1 Bundesfreiwilligendienstleistender | 1 Supervision & Intervision; 
+  <br>im Mai:  1 Projektleitung | 1 Projektmanagerin | 1 Design Lead | 1 studentische Mitarbeiterin | 1 Supervision & Intervision
   <br><br>
 
   **Partner** <br>
@@ -73,11 +73,12 @@ resources: >
 
 achievements: >
 
-    * Das Programm wurde im Jahr 2019 beendet
+    * Das Programm wurde im Jahr 2019 mit einem abschließenden Netzwerkreffen Ende März beendet. Das ursprünglich als Abschluss geplante Demokratiefestival für Jugendliche konnte leider auf Grund kurzfristiger Mittelumverteilung seitens des  Bundesministeriums für Familie, Senioren, Frauen und Jugend – Förderer bis inkl. 2018 – nicht stattfinden.
+    
+    * 2019 lag der Schwerpunkt daher auf der Evaluation und Dokumentation der Projektergebnisse und dem Fertigstellen der Selbstlernmaterialien, sodass die konzipierten Programme, Materialien und Workshops weiter von Lehrenden und Lernenden genutzt werden können. Hierfür wurde die [Website](https://demokratielabore.de/) erweitert und die Suche nach Lerninhalten verbessert. 
 
     * Für die Outputs der vergangenen Jahre empfielt sich ein Blick in den [Jahresbericht 2018](https://2018.okfn.de/open-government/demokratielabore/) und in [diesen Blogpost](https://demokratielabore.de/blog/Demokratielabore-verabschiedet-sich).
 
-    
 
 
 
