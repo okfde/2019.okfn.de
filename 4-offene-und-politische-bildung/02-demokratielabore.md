@@ -73,9 +73,9 @@ resources: >
 
 achievements: >
 
-    * Das Programm wurde im Jahr 2019 mit einem abschließenden Treffen von Partner\*innen und dem Netzwerk im April beendet. Das ursprünglich als Abschluss geplante Demokratiefestival für Jugendliche konnte leider auf Grund kurzfristiger Mittelumverteilung seitens des Bundesministerium für Familie, Senioren, Frauen und Jugend nicht stattfinden.
+    * Das Programm wurde im Jahr 2019 mit einem abschließenden Netzwerkreffen Ende März beendet. Das ursprünglich als Abschluss geplante Demokratiefestival für Jugendliche konnte leider auf Grund kurzfristiger Mittelumverteilung seitens des  Bundesministeriums für Familie, Senioren, Frauen und Jugend – Förderer bis inkl. 2018 – nicht stattfinden.
     
-    * 2019 lag der Schwerpunkt daher auf der Dokumentation und Evaluation der Projektergebnisse, sodass die konzipierten Programme, Materialien und Workshops weiter von Lehrenden und Lernenden genutzt werden können. Hierfür wurde die [Website](https://demokratielabore.de/) erweitert und die Suche nach Lerninhalten verbessert. 
+    * 2019 lag der Schwerpunkt daher auf der Evaluation und Dokumentation der Projektergebnisse und dem Fertigstellen der Selbstlernmaterialien, sodass die konzipierten Programme, Materialien und Workshops weiter von Lehrenden und Lernenden genutzt werden können. Hierfür wurde die [Website](https://demokratielabore.de/) erweitert und die Suche nach Lerninhalten verbessert. 
 
     * Für die Outputs der vergangenen Jahre empfielt sich ein Blick in den [Jahresbericht 2018](https://2018.okfn.de/open-government/demokratielabore/) und [diesen Blogpost](https://demokratielabore.de/blog/Demokratielabore-verabschiedet-sich)
 
