@@ -39,6 +39,8 @@ Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen 
 
 * [PSI public sector information](https://okfn.de/blog/2019/04/psi-open-data-richtlinie/)
 
+* [Copyright Censorship: Cologne Court orders us to take down Glyphosate Report (Update)](https://okfn.de/blog/2019/04/copyright-censorship-update/)
+
 * [Zensurheberrecht: Landgericht Köln zwingt FragDenStaat, staatliches Glyphosat-Gutachten zu löschen](https://okfn.de/blog/2019/04/zensurheberrecht-einstweilige-verfuegung/)
 
 * [Beteiligt euch jetzt: Online Konsultation Open Government](https://okfn.de/blog/2019/04/beteiligt-euch-jetzt-open-government/)
@@ -50,8 +52,6 @@ Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen 
 * [Offene Daten für Alle](https://okfn.de/blog/2019/02/offene-daten-fuer-alle/)
 
 * [Das Handelsregister: Endlich offene Daten!](https://okfn.de/blog/2019/02/handelsregister/)
-
-* [Finally: Open Company Data!](https://okfn.de/blog/2019/02/finally-open-company-data/)
 
 * [Open Data directive, the directive formerly known as PSI public sector information](https://okfn.de/blog/2019/01/open-data-directive/)
 
