@@ -3,7 +3,7 @@ layout: page
 chapter: 4.02
 title: Demokratielabore
 website: https://demokratielabore.de
-permalink: /open-government/demokratielabore/
+permalink: /offene-und-politische-bildung/demokratielabore/
 visual:
     img: /assets/images/bildung/demokratielabore.png
     alt: Eine Beschreibung des Textes
