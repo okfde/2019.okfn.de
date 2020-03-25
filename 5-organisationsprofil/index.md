@@ -33,7 +33,7 @@ E-Mail: info[at]okfn.de<br>
 Website: okfn.de
 
 **Link zur Satzung (URL)**<br>
-https://okfn.de/files/documents/01_Satzung.pdf
+[https://okfn.de/files/documents/01_Satzung.pdf](https://okfn.de/files/documents/01_Satzung.pdf)
 
 **Registereintrag**<br>
 Registergericht: Charlottenburg<br>
@@ -41,7 +41,7 @@ Registernummer: VR 30468 B<br>
 Datum der Eintragung: 11.05.2011<br>
 
 **Gemeinnützigkeit – Angaben gemäß § 52 Abgabenordnung**<br>
-Datum des letzten Feststellungsbescheids für 2017: 13.12.2018<br>
+Datum des letzten Feststellungsbescheids: 05.08.2019<br>
 Ausstellendes Finanzamt: Finanzamt für Körperschaften I Berlin<br>
 Erklärung des gemeinnützigen Zwecks: Förderung von Wissenschaft und Forschung, Förderung der Volks- und Berufsbildung sowie der Studentenhilfe
 

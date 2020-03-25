@@ -75,7 +75,7 @@ achievements: >
 
     * Das Programm wurde im Jahr 2019 beendet
 
-    * Für die Outputs der vergangenen Jahre empfielt sich ein Blick in den [Jahresbericht 2018](https://2018.okfn.de/open-government/demokratielabore/) und [diesen Blogpost](https://demokratielabore.de/blog/Demokratielabore-verabschiedet-sich)
+    * Für die Outputs der vergangenen Jahre empfielt sich ein Blick in den [Jahresbericht 2018](https://2018.okfn.de/open-government/demokratielabore/) und in [diesen Blogpost](https://demokratielabore.de/blog/Demokratielabore-verabschiedet-sich).
 
     
 

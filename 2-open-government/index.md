@@ -16,10 +16,9 @@ Bürger*innen können auf vielen Ebenen des politischen Handelns direkt einbezog
 
 Hinter dem Konzept steht das Ziel, die Arbeit von Politik, Regierung, Verwaltung und Justiz offener, transparenter, partizipativer und kooperativer zu gestalten.
 
-Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen Entscheidungen und einer aktiven Beteiligung profitieren: Auch der öffentliche Sektor selbst kann die Expertise und das Wissen der Bürger*innen nutzen, um bessere Lösungen für Probleme und Vorhaben zu finden.	
-<br>	
+Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen Entscheidungen und einer aktiven Beteiligung profitieren; auch der öffentliche Sektor selbst kann die Expertise und das Wissen der Bürger*innen nutzen, um bessere Lösungen für Probleme und Vorhaben zu finden.		
 
-### Rückblick in unseren Blogs
+### Rückblick
 
 * [Volksentscheid Transparenz Berlin: 33.000 Unterschriften für mehr Transparenz](https://okfn.de/blog/2019/12/volksentscheid-33000-unterschriften-eingereicht/)
 
@@ -39,8 +38,6 @@ Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen 
 
 * [PSI public sector information](https://okfn.de/blog/2019/04/psi-open-data-richtlinie/)
 
-* [Copyright Censorship: Cologne Court orders us to take down Glyphosate Report (Update)](https://okfn.de/blog/2019/04/copyright-censorship-update/)
-
 * [Zensurheberrecht: Landgericht Köln zwingt FragDenStaat, staatliches Glyphosat-Gutachten zu löschen](https://okfn.de/blog/2019/04/zensurheberrecht-einstweilige-verfuegung/)
 
 * [Beteiligt euch jetzt: Online Konsultation Open Government](https://okfn.de/blog/2019/04/beteiligt-euch-jetzt-open-government/)
@@ -53,8 +50,12 @@ Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen 
 
 * [Das Handelsregister: Endlich offene Daten!](https://okfn.de/blog/2019/02/handelsregister/)
 
+* [Finally: Open Company Data!](https://okfn.de/blog/2019/02/finally-open-company-data/)
+
 * [Open Data directive, the directive formerly known as PSI public sector information](https://okfn.de/blog/2019/01/open-data-directive/)
 
 * [Pot Secret - Freeing thousands of Food Safety Reports](https://okfn.de/blog/2019/01/pot-secret/)
 
 * [Jetzt mitmachen: Topf Secret!](https://okfn.de/blog/2019/01/topf-secret/)
+
+# Im Folgenden werden die Projekte der OKF DE vorgestellt, die dem Bereich Open Government zuzuordnen sind.

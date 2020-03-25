@@ -9,7 +9,7 @@ permalink: /organisation/finanzen/
 
 Alle Informationen zu Buchführung, Rechnungslegung, Vermögensrechnung sowie Einnahmen und Ausgaben finden sich in folgendem PDF zum Download. 
 
-<a href="/assets/document/Finanzen_Jahresbericht_2018.pdf" class="download-table">Download</a>
+<a href="/assets/document/Finanzen_Jahresbericht_2019.pdf" class="download-table">Download</a>
 
 <br>
 

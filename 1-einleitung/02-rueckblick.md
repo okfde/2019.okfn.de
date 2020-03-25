@@ -8,21 +8,20 @@ visual:
     alt: Eine Beschreibung des Textes
 ---
 
-Das Jahr 2019 war mit Blick auf unsere Organisation von Professionalisierung, Veränderung und Konsolidierung geprägt. 
+
+Das Jahr 2019 war mit Blick auf unsere Organisation einerseits von weiterer Professionalisierung geprägt, und andererseits von der Reflexion über die eigene Arbeit und Struktur. 
+
+* Unser Vorstand hat unter dem Vorsitz von Andreas Pawelke wichtige Prozesse für die organisationsinterne Entwicklung angestoßen *(Weiterentwicklung des Governance Modells, Überarbeitung interner Strukturen und Arbeitsweisen, Überprüfung unserer Werte und Ziele*).
+
+* In der Geschäftsführung gab es einen Wechsel. Nach dem Weggang von Nadine Evers wurde Henriette Litta als neue Geschäftsführung zum Jahreswechsel 2019/2020 angestellt. 
 
 * Unsere [Webseite](https://okfn.de) wurde technisch, inhaltlich und gestalterisch generalüberholt. Dabei haben wir unsere [Themensektion](https://okfn.de/themen/) geschärft, Unterseiten zu unserem [Profil](https://okfn.de/profil/) und unserer [Finanzierung](https://okfn.de/finanzierung/) aufgesetzt und die [englischsprachige Übersetzung](https://okfn.de/en/) der Webseite auf den neuesten Stand gebracht. 
 
-* Nadine Evers wurde von Henriette Litta als neue Geschäftsführung abgelöst. 
+* Die langjährigen Projekte FragdenStaat, Jugend hackt und Prototype Fund konnten ihre Arbeit weiter verstetigen und haben sich teilweise auch personell vergrößert. Das zeitweise größte Projekt der OKF DE, Demokratielabore, wurde im April 2019 abgeschlossen. Die Vielzahl der im Projekt entstandenen Materialien steht der Öffentlichkeit weiterhin zur Verfügung. 
 
-* Die Projekte FragdenStaat, Prototypefund und Jugend hackt konnten ihre Arbeit weiter verstetigen und haben sich auch personell vergrößert. Unser Projekt Demokratielabore ist zum April 2019 ausgelaufen. 
+Unsere Arbeit wäre ohne den ehrenamtlichen Einsatz und die Unterstützung durch unsere Community nicht möglich. Ein großer Dank geht deswegen an die Entwickler*innen, Designer*innen, Journalist*innen, Mentor*innen und alle anderen, die im Jahr 2019 mit uns an einer gerechteren und offeneren Gesellschaft gearbeitet haben.
 
-* Unser Vorstand hat unter dem Vorsitz von Andreas Pawelke wichtige Prozesse für die organisationsinterne Entwicklung angestoßen (Entwicklung des Governance Modells.. was noch?) 
-
-Unsere Arbeit wäre ohne den ehrenamtlichen Einsatz und die Unterstützung durch unsere Community nicht möglich. Ein großer Dank geht deswegen an die Entwickler\*innen, Designer\*innen, Journalist\*innen, Mentor\*innen und alle anderen, die im Jahr 2019 mit uns an einer gerechteren und offeneren Gesellschaft gearbeitet haben.
-
-Weitere Perspektiven auf unsere Tätigkeiten im Jahr 2019 gibt es in den Sektionen zu [Offenem Regierungshandeln](/opengovernment/), [Civic  / Public Interest Tech](civicandpublicinteresttech) und [Offener Bildung](offeneundpolitischebildung).
-
-# Rückblick in unseren Blogs
+Rückblick in unserem Blog:
 
 * [In eigener Sache: Henriette Litta übernimmt Geschäftsführung bei Open Knowledge Foundation Deutschland e.V.](https://okfn.de/blog/2019/12/willkommen-henriette/)
 
