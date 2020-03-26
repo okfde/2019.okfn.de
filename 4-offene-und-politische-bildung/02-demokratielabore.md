@@ -76,6 +76,10 @@ achievements: >
     * Das Programm wurde im Jahr 2019 mit einem abschließenden Netzwerkreffen Ende März beendet. Das ursprünglich als Abschluss geplante Demokratiefestival für Jugendliche konnte leider auf Grund kurzfristiger Mittelumverteilung seitens des  Bundesministeriums für Familie, Senioren, Frauen und Jugend – Förderer bis inkl. 2018 – nicht stattfinden.
     
     * 2019 lag der Schwerpunkt daher auf der Evaluation und Dokumentation der Projektergebnisse und dem Fertigstellen der Selbstlernmaterialien, sodass die konzipierten Programme, Materialien und Workshops weiter von Lehrenden und Lernenden genutzt werden können. Hierfür wurde die [Website](https://demokratielabore.de/) erweitert und die Suche nach Lerninhalten verbessert. 
+    
+    * Die dokumentierten Workshop-Anleitungen und die Selbstlernmaterialien wurden auch nach Projektende von zahlreichen Jugenbildungseinrichtungen und Schulen genutzt und selbstständig durchgeführt.
+    
+    * Zusätzlich zu der 2018 in Ulm gestarteten Digital-AG wurde im Januar 2019 eine weitere AG in Frankfurt am Main etabliert und mit zwei Workshop-Durchführungen begleitet. Beide Digital-AGs haben sich weiter entwickelt und wurden unter anderem Namen fortgeführt bzw. in die vor Ort bestehenden Strukturen aufgenommen.
 
     * Für die Outputs der vergangenen Jahre empfielt sich ein Blick in den [Jahresbericht 2018](https://2018.okfn.de/open-government/demokratielabore/) und in [diesen Blogpost](https://demokratielabore.de/blog/Demokratielabore-verabschiedet-sich).
 
