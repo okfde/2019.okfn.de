@@ -95,19 +95,32 @@
   mail: eva.holzheimer@jugendhackt.org
   twitter: verstehbahnhof
   website: https://www.verstehbahnhof.de/
-  
-- name: Dr. Henriette Litta
-  img: henriette
+
+- name: Giulia Noberti
+  img: unknown
   staff: 1
   board: 0
   advisory: 0
-  position: Geschäftsführerin
-  position_en: Managing Director
-  bio: "Henriette ist seit Januar 2020 Geschäftsführerin der OKF. Die Politikwissenschaftlerin beschäftigt sich seit 20 Jahren mit Fragen der Souveränität im demokratischen Gemeinwesen. Sie ist aktiv und vernetzt im Stiftungssektor und bringt Expertise insbesondere in den Bereichen Organisationsentwicklung, politische Wirksamkeit und Finanzierung mit."
-  bio_en: "Henriette is Managing Director of OKF Germany. She is a political scientist and has been thinking about the concept of sovereignty in a democratic society for 20 years now. She brings in fresh expertise especially in the fields of organizational development, political impact and finance architecture."
-  mail: henriette.litta@okfn.de
-  twitter:
-  website:
+  position: Buchhaltung
+  position_en: 
+  bio: "Giulia unterstützt die Geschäftsführung in Sachen Buchhaltung, Finanzen, Abrechnungen und allgemeine Chaosbewältigung."
+  bio_en: ""
+  mail: 
+  twitter: 
+  website: 
+
+- name: Gregor Gilka
+  img: unknown
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Admin
+  position_en: 
+  bio: "Gregor unterstützt uns und unsere Projekte als Administrator. Er ist Ingenieur und hat nach einer Forschungsphase an der TU Berlin und in Hong Kong an einem Projekt gearbeitet welches sich mit der numerischen Modellierung von Strömungen beschäftigt."
+  bio_en: ""
+  mail: 
+  twitter: 
+  website: 
 
 - name: Jakob Schiek
   img: jakobschiek
@@ -342,6 +355,20 @@
   mail: michael.peters@okfn.de
   twitter: miguelitoj89
   github: michaeljokf
+
+- name: Nadine Evers
+  img: nadineevers
+  staff: 0
+  board: 0
+  advisory: 0
+  board_alumni: 1
+  position: Geschäftsführerin
+  position_en: Managing Director
+  bio: "Nadine war von Juni 2017 bis Juni 2019 Geschäftsführerin bei der Open Knowledge Foundation Deutschland e.V. Davor war sie als Mitarbeiterin des Auswärtigen Amts die deutsche Stimme in der EU-Ratsarbeitsgruppe für Humanitäre Hilfe. Beim Roten Kreuz arbeitete sie im Bereich Völkerrecht und als Programmleiterin für die Auslandshilfe im Sudan und in Äthiopien. In Haiti und der Dominikanischen Republik leitete sie Projekte im nationalen Katastrophenschutz. Nadine war zuvor unter anderem Geschäftsführerin des Stiftungskollegs der Robert Bosch Stiftung, wissenschaftliche Referentin im Europäischen Parlament und Beraterin bei der Boston Consulting Group."
+  bio_en: "Nadine has been Managing Director of the Open Knowledge Foundation Deutschland e.V. from June 2017 to June 2019. Previously she was the German voice in the EU Council Working Group on Humanitarian Aid as an employee of the Federal Foreign Office. At the Red Cross she worked in international law and as a programme manager for foreign aid in Sudan and Ethiopia. In Haiti and the Dominican Republic, she led national disaster control projects. Nadine's previous posts include managing director of the Robert Bosch Stiftung's Foundation College, scientific advisor to the European Parliament and advisor at the Boston Consulting Group."
+  mail: nadine.evers@okfn.de
+  twitter:
+  website:
 
 - name: Nadine Stammen
   img: nadinestammen

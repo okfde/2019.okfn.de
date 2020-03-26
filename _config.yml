@@ -3,7 +3,7 @@ url: "https://2019.okfn.de" # the base hostname & protocol for your site, e.g. h
 
 title: Tätigkeitsbericht des Open Knowledge Foundation Deutschland e.V. 2019
 description: > # this means to ignore newlines until "show_exerpts:"
-  Unser Tätigkeitsbericht enthält detaillierte Angaben zu den Entwicklungen unserer Organisation und unserer Projekte. Seit 2017 orientiert sich unser Jahresbericht am Social Reporting Standard.
+  Unser Tätigkeitsbericht enthält detaillierte Angaben zu den Entwicklungen unserer Organisation und unserer Projekte.
 main_image: assets/images/intro/intro.png
 show_excerpts: false # set to true to show excerpts on the homepage
 
