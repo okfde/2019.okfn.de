@@ -19,7 +19,7 @@ Das Transparenzgesetz verpflichtet Senat, Behörden und öffentliche Unternehmen
 
 Das derzeit geltende Informationsfreiheitsgesetze regelt die Informationsrechte der Berliner*innen unzulänglich, da es mit langen Fristen, hohen Gebühren und weitreichenden Ausnahmen verbunden ist. Nur, wenn Bürger*innen sich umfangreich und unkompliziert informieren können, können sie die Politik kontrollieren und selbst aktiv mitbestimmen.
 
-### Leistungen 2019
+### Rückblick & Leistungen 2019
 
 * Im März haben wir unseren Gesetzentwurf zur amtlichen Kostenschätzung eingereicht.
 * In der zweiten Jahreshälfte haben wir mit großer ehrenamtlicher Unterstützung 32.827 Unterschriften für den Antrag auf ein Volksbegehren gesammelt, von denen 27.091 Unterschriften gültig sind. Der Antrag war somit erfolgreich und ging in die Zulässigkeitsprüfung.
@@ -39,6 +39,7 @@ Bei der Anhörung zu einem Entwurf für ein Transparenzgesetz der FDP-Fraktion i
 * Wenn der Senat unseren Gesetzentwurf nicht übernimmt, bereiten wir die zweite Phase der Unterschriftensammlung vor, um einen Volksentscheid einzuleiten. Dafür sind Anfang 2021 circa 170.000 Unterschriften notwendig.
 
 ### Ressourcen
+
 * Finanzierung: keine (größtenteils Ehrenamt)
 * Beteiligte: Arne Semsrott, Nadine Stammen, Alex Tarralle, Lea Pfau, Stefan Wehrmeyer, Leonard Wolf
 * Projektpartner: Mehr Demokratie e.V.
