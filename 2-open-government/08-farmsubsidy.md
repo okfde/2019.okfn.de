@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.08
+chapter: 2.06
 title: Farm Subsidy
 website: https://farmsubsidy.org/
 permalink: /open-government/farmsubsidy/

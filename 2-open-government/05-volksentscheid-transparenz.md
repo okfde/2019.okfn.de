@@ -17,7 +17,7 @@ Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berli
 
 Das Transparenzgesetz verpflichtet Senat, Behörden und öffentliche Unternehmen, für die Öffentlichkeit wichtige Informationen offenzulegen. Dazu gehören unter anderem Senatsbeschlüsse, Verträge mit Unternehmen, Gutachten, z. B. zur Wasserqualität oder Entwicklung von Grundstückspreisen, sowie Daten zu Aufträgen der öffentlichen Hand. Die Verwaltung muss nach unserem Gesetz diese Informationen zentral und kostenlos auf einer Online-Plattform zugänglich machen.
 
-Das derzeit geltende Informationsfreiheitsgesetze regelt die Informationsrechte der Berliner*innen unzulänglich, da es mit langen Fristen, hohen Gebühren und weitreichenden Ausnahmen verbunden ist. Nur, wenn Bürger*innen sich umfangreich und unkompliziert informieren können, können sie die Politik kontrollieren und selbst aktiv mitbestimmen.
+Das derzeit geltende Informationsfreiheitsgesetze regelt die Informationsrechte der Berliner\*innen unzulänglich, da es mit langen Fristen, hohen Gebühren und weitreichenden Ausnahmen verbunden ist. Nur, wenn Bürger*innen sich umfangreich und unkompliziert informieren können, können sie die Politik kontrollieren und selbst aktiv mitbestimmen.
 
 ### Rückblick & Leistungen 2019
 

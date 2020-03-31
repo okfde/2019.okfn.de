@@ -17,28 +17,28 @@ Ein weiterer wichtiger Aspekt hierbei ist die politische Bildung: Offene Bildung
 Digitale Mündigkeit beschreibt hierbei die Fähigkeit, konstruktiv, kritisch und souverän mit digitalen Räumen umzugehen, um sich zivilgesellschaftlich und politisch in diesen engagieren zu können. Nur so können wir unsere zunehmend digitalisierte Gesellschaft hinterfragen und mitgestalten. Fähigkeiten im Umgang mit digitalen Technologien (Digital Literacy), z. B. um online bürgerliche Rechte und Pflichten wahrzunehmen, sind hierbei kein Selbstzweck, sondern Mittel für gesellschaftliche Teilhabe. Vielmehr geht es um ein Verständnis dafür, wie notwendig es ist, sich am gesellschaftlichen und politischen Leben in digitalen Räumen zu beteiligen, um zivilgesellschaftliche Interessen zu wahren und die Gesellschaft mitzugestalten.
 <br>
 
-# Rückblick in unseren Blogs
+# Highlights zum nachlesen gibt es in diesen Blogeinträgen aus dem letzen Jahr:
 		
 
-* [https://jugendhackt.org/blog/die-geschichte-von-jugend-hackt/](https://jugendhackt.org/blog/die-geschichte-von-jugend-hackt/)
+* [Die Geschichte von Jugend hackt](https://jugendhackt.org/blog/die-geschichte-von-jugend-hackt/)
 
 * [Offener Brief an NRW nach fragwürdigem Auftrag an FDP-Großspenderin](https://okfn.de/blog/2019/06/offener-brief-zum-vergabefall-haba-digital/)
 
-* [https://jugendhackt.org/blog/das-jugend-hackt-jahr-2019-im-rueckblick/](https://jugendhackt.org/blog/das-jugend-hackt-jahr-2019-im-rueckblick/)
+* [Das Jugend hackt Jahr 2019 im Rückblick](https://jugendhackt.org/blog/das-jugend-hackt-jahr-2019-im-rueckblick/)
 
-* [https://jugendhackt.org/blog/wie-finanziert-sich-jugend-hackt/](https://jugendhackt.org/blog/wie-finanziert-sich-jugend-hackt/)
+* [Wie finanziert sich Jugend hackt?](https://jugendhackt.org/blog/wie-finanziert-sich-jugend-hackt/)
 
-* [https://jugendhackt.org/blog/paula-ueber-engagement-von-jugendlichen-im-digitalen-zeitalter/](https://jugendhackt.org/blog/paula-ueber-engagement-von-jugendlichen-im-digitalen-zeitalter/)
+* [Paule von Jugend hackt über Engagement von Jugendlichen im digitalen Zeitalter](https://jugendhackt.org/blog/paula-ueber-engagement-von-jugendlichen-im-digitalen-zeitalter/)
 
-* [https://jugendhackt.org/blog/lab-vorstellung-das-verschwoerhaus-in-ulm/](https://jugendhackt.org/blog/lab-vorstellung-das-verschwoerhaus-in-ulm/)
+* [Lab Vorstellung: das Verschwoerhaus in Ulm](https://jugendhackt.org/blog/lab-vorstellung-das-verschwoerhaus-in-ulm/)
 
-* [https://turing-bus.de/blog/2019/07/das-waren-die-ersten-stationen/](https://turing-bus.de/blog/2019/07/das-waren-die-ersten-stationen/)
+* [Das waren die ersten Stationen des Turing-Busses](https://turing-bus.de/blog/2019/07/das-waren-die-ersten-stationen/)
 
-* [https://turing-bus.de/blog/2019/09/gifhorn-stadthagen-minden/](https://turing-bus.de/blog/2019/09/gifhorn-stadthagen-minden/)
+* [Der Turing-Bus in Gifhorn, Stadthagen und Minden](https://turing-bus.de/blog/2019/09/gifhorn-stadthagen-minden/)
 
-* [https://turing-bus.de/blog/2019/10/hermeskeil-kusel-speyer/](https://turing-bus.de/blog/2019/10/hermeskeil-kusel-speyer/)
+* [Die Stationen in Hermeskeil, Kusel und Speyer](https://turing-bus.de/blog/2019/10/hermeskeil-kusel-speyer/)
 
-* [https://demokratielabore.de/blog/Demokratielabore-verabschiedet-sich](https://demokratielabore.de/blog/Demokratielabore-verabschiedet-sich)
+* [Das Demokratielabore Team verabschiedet sich](https://demokratielabore.de/blog/Demokratielabore-verabschiedet-sich)
 
 * [Engagement von Jugendlichen im digitalen Zeitalter](https://okfn.de/blog/2019/05/engagement-von-jugendlichen-im-digitalen-zeitalter/)
 

@@ -8,7 +8,7 @@ visual:
     alt: Eine Beschreibung des Textes
 ---
 
-An die im Jahr 2017 eingesetzte neue Bundesregierung haben wir folgende Forderungen formuliert, die in Teilen auch heute noch ihre Gültigkeit haben.
+An die im Jahr 2017 eingesetzte neue Bundesregierung haben wir folgende Forderungen formuliert, die auch heute noch ihre Gültigkeit haben.
 
 ### 1. Transparenz vorantreiben
 
@@ -39,3 +39,6 @@ An die im Jahr 2017 eingesetzte neue Bundesregierung haben wir folgende Forderun
 * Wir fordern, dass digitale Schnittstellen zwischen Verwaltung und Entwickler*innen ausgebaut werden um die Bereitstellung von Daten so effizient wie möglich zu gestalten. Zudem sollten die Daten ohne Hürden wie bspw. Logins zur Verfügung gestellt werden und möglichst über eine offene Programmierschnittstelle (so genannte API) abrufbar sein. Diese ermöglicht es, den ganzen Datensatz herunterzuladen und direkt in weitere Anwendungen einzuspeisen. 
 
 * Wir brauchen mehr personelle Ressourcen in Behörden, um die Digitalisierung der Verwaltung voranzubringen und eine offene Kultur gegenüber Entwicklerinnen und Entwicklern zu etablieren. Dabei können eigene Innovations-Einheiten (siehe [USA](https://18f.gsa.gov/) und [GB](https://gds.blog.gov.uk/)) in der Verwaltung helfen, die innerhalb der Verwaltung wirken. Davon profitieren nicht nur Bürger*innen, sondern auch die Verwaltung selbst. Offene Daten, Schnittstellen und einfache Nutzung von digitalen Dienstleistungen steigern die Effizienz und fördern Nahbarkeit und Vertrauen in die Verwaltung.
+
+
+# Im Folgenden werden die thematischen Bereiche unserer Arbeit sowie die zugehörigen Projekte vorgestellt.
