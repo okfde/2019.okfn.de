@@ -5,16 +5,16 @@ title: Forderungen
 permalink: /einleitung/forderungen/
 visual:
     img: /assets/images/einleitung/forderung.png
-    alt: Eine Beschreibung des Textes
+    alt: Illustration: Zum Aufmerken erhobener Zeigefinger
 ---
 
-An die im Jahr 2017 eingesetzte neue Bundesregierung haben wir folgende Forderungen formuliert, die in Teilen auch heute noch ihre Gültigkeit haben.
+An die im Jahr 2017 eingesetzte neue Bundesregierung haben wir folgende Forderungen formuliert, die ihre Gültigkeit zu großen Teilen bis heute nicht verloren haben und sich teilweise auch in unseren [gemeinsamen Nachhaltigkeits-Forderungen mit den Bits&Bäume-Organisationen](https://bits-und-baueme.org/forderungen/) wie dem CCC, BUND oder Germanwatch wiederfinden.
 
 ### 1. Transparenz vorantreiben
 
-* Das Handeln von Staat und Regierung soll für alle Bürger*innen transparent nachvollziehbar sein. Zugang zu Informationen muss möglichst umfassend, unmittelbar und barrierefrei sein, um die demokratische Meinungsbildung und Teilhabe zu fördern. Das ermöglicht eine bessere Kontrolle des staatlichen Handelns und stärkt das Vertrauen in staatliche Institutionen.
+* Das Handeln von Staat und Regierung soll für alle Bürger\*innen transparent nachvollziehbar sein. Zugang zu Informationen muss möglichst umfassend, unmittelbar und barrierefrei sein, um die demokratische Meinungsbildung und Teilhabe zu fördern. Das ermöglicht eine bessere Kontrolle des staatlichen Handelns und stärkt das Vertrauen in staatliche Institutionen.
 
-* Wir fordern den Ausbau des Informationsfreiheitsgesetzes zu einem Transparenzgesetz. Ausnahmeregelungen zur Verweigerung von Auskünften müssen reduziert und Gebühren gestrichen werden. Verträge für steuerlich finanzierte Aufträge müssen öffentlich einsehbar sein und als offene Daten zur Verfügung gestellt werden. Zudem muss das [Transparenzregister](https://okfn.de/blog/2017/02/transparenzregister/) für wirtschaftliche Eigentümer (Beneficial Ownership) überarbeitet und zu einem frei zugänglichen Informationsportal ausgebaut werden.
+* Wir fordern den [Ausbau des Informationsfreiheitsgesetzes zu einem Transparenzgesetz](https://volksentscheid-transparenz.de/gruende/). Ausnahmeregelungen zur Verweigerung von Auskünften müssen reduziert und Gebühren gestrichen werden. Verträge für steuerlich finanzierte Aufträge müssen öffentlich einsehbar sein und als Offene Daten zur Verfügung gestellt werden. Zudem muss das [Transparenzregister](https://okfn.de/blog/2017/02/transparenzregister/) für wirtschaftliche Eigentümer (Beneficial Ownership) überarbeitet und zu einem frei zugänglichen Informationsportal ausgebaut werden.
 
 * Das Parlament sollte mit gutem Beispiel vorangehen und Plenarprotokolle, Dokumente und Anträge im Bundestag maschinenlesbar und frei nutzbar zur Verfügung stellen. Dabei soll die Webseite Bundestag.de eine Vorbildfunktion für andere Internetseiten der Verwaltung einnehmen.
 
@@ -34,8 +34,8 @@ An die im Jahr 2017 eingesetzte neue Bundesregierung haben wir folgende Forderun
 
 ### 4. Digitalisierung der Verwaltung voranbringen
 
-* Bei der Digitalisierung der Verwaltung in Deutschland gibt es noch Luft nach oben, gerade die Internetauftritte sind oft nicht eingängig und wenig nahbar. Entschiedene Investitionen in digitale Angebote für Bürger*innen sind nötig.
+* Bei der Digitalisierung der Verwaltung in Deutschland gibt es noch Luft nach oben, gerade die Internetauftritte sind oft nicht eingängig und wenig nahbar. Entschiedene Investitionen in digitale Angebote für Bürger\*innen sind nötig.
 
-* Wir fordern, dass digitale Schnittstellen zwischen Verwaltung und Entwickler*innen ausgebaut werden um die Bereitstellung von Daten so effizient wie möglich zu gestalten. Zudem sollten die Daten ohne Hürden wie bspw. Logins zur Verfügung gestellt werden und möglichst über eine offene Programmierschnittstelle (so genannte API) abrufbar sein. Diese ermöglicht es, den ganzen Datensatz herunterzuladen und direkt in weitere Anwendungen einzuspeisen. 
+* Wir fordern, dass digitale Schnittstellen zwischen Verwaltung und Entwickler\*innen ausgebaut werden, um die Bereitstellung von Daten so effizient wie möglich zu gestalten. Zudem sollten die Daten ohne Hürden wie bspw. Logins zur Verfügung gestellt werden und möglichst über eine offene Programmierschnittstelle (so genannte API) abrufbar sein. Diese ermöglicht es, den ganzen Datensatz herunterzuladen und direkt in weitere Anwendungen einzuspeisen. 
 
-* Wir brauchen mehr personelle Ressourcen in Behörden, um die Digitalisierung der Verwaltung voranzubringen und eine offene Kultur gegenüber Entwicklerinnen und Entwicklern zu etablieren. Dabei können eigene Innovations-Einheiten (siehe [USA](https://18f.gsa.gov/) und [GB](https://gds.blog.gov.uk/)) in der Verwaltung helfen, die innerhalb der Verwaltung wirken. Davon profitieren nicht nur Bürger*innen, sondern auch die Verwaltung selbst. Offene Daten, Schnittstellen und einfache Nutzung von digitalen Dienstleistungen steigern die Effizienz und fördern Nahbarkeit und Vertrauen in die Verwaltung.
+* Wir brauchen mehr personelle Ressourcen in Behörden, um die Digitalisierung der Verwaltung voranzubringen und eine offene Kultur gegenüber Entwicklerinnen und Entwicklern zu etablieren. Dabei können eigene Innovations-Einheiten (siehe [USA](https://18f.gsa.gov/) und [GB](https://gds.blog.gov.uk/)) in der Verwaltung helfen, die innerhalb der Verwaltung wirken. Davon profitieren nicht nur Bürger\*innen, sondern auch die Verwaltung selbst. Offene Daten, Schnittstellen und eine einfache Nutzung von digitalen Dienstleistungen steigern die Effizienz und fördern Nahbarkeit und Vertrauen in die Verwaltung.

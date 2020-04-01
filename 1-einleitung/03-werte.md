@@ -5,10 +5,10 @@ title: Schwerpunkte unserer Arbeit
 permalink: /einleitung/schwerpunkte/
 visual:
     img: /assets/images/einleitung/werte.png
-    alt: Illustration zum Kapitel
+    alt: Illustration zum Kapitel: Transparenz, Zugang, Teilhabe, digitale Kompetenz, öffentliche Kontrolle
 ---
 
-Die Open Knowledge Foundation Deutschland  wurde 2011 als gemeinnütziger Verein mit Sitz in Berlin gegründet. Die Vision der OKF DE ist eine offene und gerechte Gesellschaft. Zu den Grundvoraussetzungen für eine offene und gerechte Gesellschaft gehören folgende Bausteine, die gleichermaßen die Schwerpunkte unserer Arbeit darstellen: 
+Die Open Knowledge Foundation Deutschland  wurde 2011 als gemeinnütziger Verein mit Sitz in Berlin gegründet. Die Vision der OKF DE ist eine offene und gerechte Gesellschaft. Zu den Grundvoraussetzungen dafür gehören folgende Bausteine, die gleichermaßen die Schwerpunkte unserer Arbeit darstellen: 
 <br>
 
 ### 1 Rechtsstaatlichkeit und Grundrechte
@@ -16,15 +16,15 @@ ein demokratisch verfasster Rechtsstaat, der Grundrechte wie Informations-, Mein
 
 
 ### 2 Transparenz und Rechenschaft
-öffentliche Institutionen in Politik und Verwaltung, die Transparenz herstellen indem sie die Öffentlichkeit proaktiv über ihr Handeln informieren und Rechenschaft ablegen
+öffentliche Institutionen in Politik und Verwaltung, die Transparenz herstellen, indem sie die Öffentlichkeit proaktiv über ihr Handeln informieren und Rechenschaft ablegen
 
 
 ### 3 Zugang und Teilhabe
-freier Zugang zu Bildung und Wissen für alle Menschen damit sie informierte Entscheidungen treffen und sich aktiv an sozialen und politischen Prozessen beteiligen können
+freier Zugang zu Bildung und Wissen für alle Menschen, damit sie informierte Entscheidungen treffen und sich aktiv an sozialen und politischen Prozessen beteiligen können
 
 
 ### 4 Digitale Kompetenz
-einen selbstbestimmten und aufgeklärten Umgang mit digitalen Technologien, Medien, Informationen und Wissen
+ein selbstbestimmter und aufgeklärter Umgang mit digitalen Technologien, Medien, Informationen und Wissen
 
 
 ### 5 Öffentliche Kontrolle
@@ -41,6 +41,6 @@ eine aktive Zivilgesellschaft und unabhängige Medien, die das Handeln von Polit
 * Machtmissbrauch und Korruption eindämmen,
 * einen selbstbestimmten und aufgeklärten Umgang mit digitalen Technologien, Informationen und Medien sowie die Entwicklung und Nutzung von digitalen Werkzeugen für das demokratische Gemeinwesen fördern.
 
-Vor diesem Hintergrund bedarf es aus Sicht der OKF DE starker zivilgesellschaftlicher Organisationen, die auf politischer Ebene Fortschritte im Bezug auf eine offene und gerechten Gesellschaft einfordern und durchsetzen, die relevante Erfahrungen in diesem Bereich sammeln und teilen und anhand kreativer Beispiele die Notwendigkeit und den Wert einer offenen und gerechten Gesellschaft demonstrieren können. Solch eine Organisation möchte die OKF DE sein. 
+Vor diesem Hintergrund bedarf es aus Sicht der OKF DE starker zivilgesellschaftlicher Organisationen, die auf politischer Ebene Fortschritte im Bezug auf eine offene und gerechte Gesellschaft einfordern und durchsetzen, die relevante Erfahrungen in diesem Bereich sammeln und teilen und anhand kreativer Beispiele die Notwendigkeit und den Wert einer offenen und gerechten Gesellschaft demonstrieren können. Solch eine Organisation möchte die OKF DE sein. 
 
 Das Streben nach Offenheit und Transparenz ist auch Leitlinie für die Arbeit in der OKF DE selbst. Wir arbeiten kooperativ und community-orientiert. Das bedeutet für uns, mit anderen Organisationen und engagierten Menschen langfristige und nachhaltige Partnerschaften aufzubauen. Wir können schnell agieren und besetzen tagesaktuelle Themen in den Bereichen Civic Tech, Offenes Regierungshandeln und Offene Bildung. Wir arbeiten kooperativ und gehen solidarisch, wertschätzend und vertrauensvoll miteinander um. Wir pflegen eine Arbeitskultur, in der konstruktives Feedback gegeben und angenommen werden kann. 

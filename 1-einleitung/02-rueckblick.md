@@ -5,42 +5,46 @@ title: Rückblick
 permalink: /einleitung/rueckblick/
 visual:
     img: /assets/images/einleitung/rueckblick.png
-    alt: Eine Beschreibung des Textes
+    alt: Fotocollage 2019
 ---
 
 
-Das Jahr 2019 war mit Blick auf unsere Organisation einerseits von weiterer Professionalisierung geprägt, und andererseits von der Reflexion über die eigene Arbeit und Struktur. 
+Das Jahr 2019 war mit Blick auf unsere Organisation als ganzes einerseits von weiterer Professionalisierung in den Bereichen Finanzen und Projektarbeit geprägt, andererseits von der Reflexion über die eigene Arbeit, unsere Zusammenarbeit und die Struktur der OKF DE. 
 
-* Unser Vorstand hat unter dem Vorsitz von Andreas Pawelke wichtige Prozesse für die organisationsinterne Entwicklung angestoßen *(Weiterentwicklung des Governance Modells, Überarbeitung interner Strukturen und Arbeitsweisen, Überprüfung unserer Werte und Ziele*).
+* Unser Vorstand hat unter dem Vorsitz von Andreas Pawelke wichtige Prozesse für die organisationsinterne Entwicklung angestoßen (Weiterentwicklung des Governance Modells, Überarbeitung interner Strukturen und Arbeitsweisen, Überprüfung unserer Werte und Ziele).
 
-* In der Geschäftsführung gab es einen Wechsel. Nach dem Weggang von Nadine Evers wurde Henriette Litta als neue Geschäftsführung zum Jahreswechsel 2019/2020 angestellt. 
+* In der Geschäftsführung gab es einen Wechsel. Ab Mai/Juni wurde die OKF DE kommissarisch durch unser Teammitglied Juliane Krüger mit Unterstützung unserer vormaligen Projektleitung Elisa Lindinger geleitet. Währenddessen haben wir zu neuen Entscheidungsprozessen als Team gefunden, gemeinsam Verantwortung übernommen und intensiv daran gearbeitet, auch projektübergreifende Strukturen innerhalb der OKF DE zu verbessern. Zum Jahresende wurde schließlich Henriette Litta als neue Geschäftsführung angestellt. Sie beginnt zum Januar 2020. 
 
-* Unsere [Webseite](https://okfn.de) wurde technisch, inhaltlich und gestalterisch generalüberholt. Dabei haben wir unsere [Themensektion](https://okfn.de/themen/) geschärft, Unterseiten zu unserem [Profil](https://okfn.de/profil/) und unserer [Finanzierung](https://okfn.de/finanzierung/) aufgesetzt und die [englischsprachige Übersetzung](https://okfn.de/en/) der Webseite auf den neuesten Stand gebracht. 
+* Die bereits 2018 angestoßene Überarbeitung unserer [Website](https://okfn.de) auf technischer, inhaltlicher und gestalterischer Ebene konnten wir 2019 abschließen. Im Rahmen dieser Generalüberholung haben wir unsere [Themensektion](https://okfn.de/themen/) geschärft, Unterseiten zu unserem [Profil](https://okfn.de/profil/) und unserer [Finanzierung](https://okfn.de/finanzierung/) neu aufgesetzt und die [englischsprachige Übersetzung](https://okfn.de/en/) der Website auf den neuesten Stand gebracht. 
 
-* Die langjährigen Projekte FragdenStaat, Jugend hackt und Prototype Fund konnten ihre Arbeit weiter verstetigen und haben sich teilweise auch personell vergrößert. Das zeitweise größte Projekt der OKF DE, Demokratielabore, wurde im April 2019 abgeschlossen. Die Vielzahl der im Projekt entstandenen Materialien steht der Öffentlichkeit weiterhin zur Verfügung. 
+* Die langjährigen Projekte [FragdenStaat](https:/fragdenstaat.de/), [Jugend hackt](https://jugendhackt.org/) und [Prototype Fund](https://prototypefund.de/) konnten ihre Arbeit weiter verstetigen und sind auch personell gewachsen. Das bisher größte Projekt der OKF DE, [Demokratielabore](https://demokralielabore.de/), wurde mit Mai 2019 abgeschlossen. Die Vielzahl der im Projekt entstandenen Bildungsmaterialien steht der Öffentlichkeit auf der überarbeiteten Projektwebsite zur Verfügung. 
 
-Unsere Arbeit wäre ohne den ehrenamtlichen Einsatz und die Unterstützung durch unsere Community nicht möglich. Ein großer Dank geht deswegen an die Entwickler*innen, Designer*innen, Journalist*innen, Mentor*innen und alle anderen, die im Jahr 2019 mit uns an einer gerechteren und offeneren Gesellschaft gearbeitet haben.
+* Die Konferenz [Bits&Bäume](https://bits-und-baeume.org/rueckblick) im Jahr 2018, die die OKF DE als einer der 10 Träger mitorganisiert hatte, war für mehrere unserer Projekte der Anstoß, inhaltlich an der Schnittstelle zu Nachhaltigkeit zu arbeiten. So war das Motto von jugend hackt 2019 _Mit Code die (Um)Welt verbessern_, die Datenschule hat in Kooperation mit Robin Wood einen Ökostromreport veröffentlicht, der Prototype Fund konnte in der Förderrunde _Commit – System erneuern_ spannende digitale Projekte zur Unterstützung nachhaltiger Ziele finanzieren und die Code-For-Germany-Community wird sich im Jahr 2020 verstärkt explizit mit ökologischen Fragen beschäftigen. Wir haben unser Netzwerk im Bereich Nachhaltikeit gepflegt und ausgebaut und stellen uns nicht nur hinter die [Forderungen der Bits&Bäume-Bewegung](https://bits-und-baeume.org/forderungen), sondern auch jenen von [FridaysForFuture](https://fridaysforfuture.de/forderungen/).
+
+* Im Dezember hat uns die Nachricht überrascht, dass der Zusammenschluss von YouTube-Influencern zur Spendenkampagne [Friendly Fire](https://de.wikipedia.org/wiki/Friendly_Fire_(Charity-Livestream)) uns als eine der acht Organisationen für ihren Spendenmarathon ausgewählt hat. Unsere Ehrenamtliche Joliyea war live vor Ort und hat in 23 Minuten unsere Projekte und unsere Ziele vorgestellt. Begleitet wurde sie von unserem Jugend-hackt-Maskottchen, einem bunten Plüschalpaka, das #mehrflausch vermutlich zu dem meistgenutzten Hashtag des Streams machte. Die Spendenaktion hat über 100.000 Menschen erreicht und insgesamt fast 1,2 Millionen Euro innerhalb von 12 Stunden eingebracht, wovon ein Achtel an die OKF ging. Mit diesem unerwarteten Geschenk, das zum Teil noch 2019 ausgeschüttet wurde, konnten wir unsere Finanzen stabilisieren und auch unsere projektübergreifenden Rücklagen wieder auffüllen, die wir 2019 für unsere internen Prozesse und die Übergangszeit in der Geschäftsführung eingesetzt hatten.
+
+Unsere Arbeit wäre ohne den ehrenamtlichen Einsatz und die Unterstützung durch unsere Community nicht möglich. Ein riesiger Dank geht daher an die Entwickler\*innen, Designer\*innen, Journalist\*innen, Mentor\*innen und alle anderen, die im Jahr 2019 mit uns an einer gerechteren und offeneren Gesellschaft gearbeitet haben.
 
 Rückblick in unserem Blog:
 
-* [In eigener Sache: Henriette Litta übernimmt Geschäftsführung bei Open Knowledge Foundation Deutschland e.V.](https://okfn.de/blog/2019/12/willkommen-henriette/)
-
 * [Das ABC der Offenheit](https://okfn.de/blog/2019/11/abc-der-offenheit/)
-
-* [Einladung: Berlin Open Data Day am 5. November](https://okfn.de/blog/2019/10/berlin-open-data-day-2019-boddy/)
-
-* [Bundesregierung macht kleine Fortschritte auf großer Baustelle](https://okfn.de/blog/2019/09/bundesregierung-macht-kleine-fortschritte-auf-gro%C3%9Fer-baustelle/)
 
 * [Öffentliche Daten nützen – Umwelt schützen und Zivilgesellschaft stützen](https://okfn.de/blog/2019/07/bits-und-baeume-publikation/)
 
-* [Öffentliche Daten und Künstliche Intelligenz – Unsere Kernthesen für die Enquete-Kommission](https://okfn.de/blog/2019/07/offene-daten-ki/)
-
-* [In eigener Sache: Wechsel der Geschäftsführung bei der Open Knowledge Foundation Deutschland](https://okfn.de/blog/2019/05/wechsel-gf/)
-
 * [Privatsphäre oder öffentliches Interesse?](https://okfn.de/blog/2019/06/privatsphaere-oder-oeffentliches-interesse/)
-
-* [Der Open Data Day 2019](https://okfn.de/blog/2019/02/open-data-day/)
 
 * [Daten für alle - aber wie?](https://okfn.de/blog/2019/04/daten-f%C3%BCr-alle-aber-wie/)
 
+* [Öffentliche Daten und Künstliche Intelligenz – Unsere Kernthesen für die Enquete-Kommission](https://okfn.de/blog/2019/07/offene-daten-ki/)
+
+* [Bundesregierung macht kleine Fortschritte auf großer Baustelle](https://okfn.de/blog/2019/09/bundesregierung-macht-kleine-fortschritte-auf-gro%C3%9Fer-baustelle/)
+
+* [Einladung: Berlin Open Data Day am 5. November](https://okfn.de/blog/2019/10/berlin-open-data-day-2019-boddy/)
+
+* [Der Open Data Day 2019](https://okfn.de/blog/2019/02/open-data-day/)
+
 * [OKFDE auf der re:publica 2019](https://okfn.de/blog/2019/05/okfde-auf-der-rp19/)
+
+* [In eigener Sache: Wechsel der Geschäftsführung bei der Open Knowledge Foundation Deutschland](https://okfn.de/blog/2019/05/wechsel-gf/)
+
+* [In eigener Sache: Henriette Litta übernimmt Geschäftsführung bei Open Knowledge Foundation Deutschland e.V.](https://okfn.de/blog/2019/12/willkommen-henriette/)
