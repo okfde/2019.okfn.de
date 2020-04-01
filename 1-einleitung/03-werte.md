@@ -5,7 +5,7 @@ title: Schwerpunkte unserer Arbeit
 permalink: /einleitung/schwerpunkte/
 visual:
     img: /assets/images/einleitung/werte.png
-    alt: Illustration zum Kapitel: Transparenz, Zugang, Teilhabe, digitale Kompetenz, öffentliche Kontrolle
+    alt: Illustration zum Kapitel – Transparenz, Zugang, Teilhabe, digitale Kompetenz, öffentliche Kontrolle
 ---
 
 
