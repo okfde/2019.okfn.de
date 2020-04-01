@@ -1,12 +1,12 @@
 ---
 layout: page
-chapter: 2.01
+chapter: 2.1
 title: FragDenStaat
 website: https://fragdenstaat.de
 permalink: /open-government/fragdenstaat/
 visual:
     img: /assets/images/opengovernment/fragdenstaat.png
-    alt: Eine Beschreibung des Textes
+    alt: Illustration
 problem:
 - text: Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
 causes:
@@ -25,13 +25,13 @@ causes:
 
 solution:
 - title: einfache Anfragen online
-  text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche Tools gibt es für Journalist*innen und NGOs.
+  text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche Tools gibt es für Journalist\*innen und NGOs.
 - title: transparente Darstellung
-  text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger*innen und Behörden lernen. Die öffentliche Kontrolle wird verstärkt.
+  text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger\*innen und Behörden lernen. Die öffentliche Kontrolle wird verstärkt.
 - title: laufende Berichterstattung
   text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
 effect:
-- title: auf Bürger*innen
+- title: auf Bürger\*innen
   text: >
     Mehr Menschen erkennen ihr Recht auf Informationsfreiheit.
 
@@ -49,10 +49,10 @@ effect:
 
 
     Die Akteptanz in Verwaltungen für Informationsfreiheit wird gestärkt.
-- title: auf Multiplikator*innen
+- title: auf Multiplikator\*innen
   text: >
     Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagnen und journalistische Projekte wird erhöht.
-    Es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürger*innenfreundlicher zu gestalten.
+    Der Gesetzgeber gerät unter Druck, bestehende Regelungen bürger\*innenfreundlicher zu gestalten.
 - title: gesellschaftliche Wirkung
   claim: Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt.
 
@@ -60,13 +60,12 @@ resources: >
 
   **Laufzeit** <br>
 
-  Ganzjährige Projektlaufzeit <br><br>
+  ganzjährige Projektlaufzeit <br><br>
   
 
   **Budget** <br>
 
-  Im Jahr 2019 betrug das Gesamtbudget 216.351,73 €, davon 142.862,21 € Personalmittel, 8.177,40 € Sachkosten, 
-  64.207,12€ für Widersprüche und Klagen sowie 1.105,00 € für Fortbildungen. Das Projekt war zu 100% finanziert. <br><br>
+  Im Jahr 2019 betrug das Gesamtbudget 216.351,73 €, davon 142.862,21 € Personalmittel, 8.177,40 € Sachkosten, 64.207,12€ für Widersprüche und Klagen sowie 1.105,00 € für Fortbildungen. Die Projektarbeit war über Einzelspenden und verschiedene Förderungen zu 100% finanziert. <br><br>
 
 
   **Personal** <br>
@@ -91,54 +90,55 @@ achievements: >
 
     * Integration von EU-Behörden
     
-    * Neues Crowdfunding-Modul für Widersprüche, Gebühren, Klagen unserer User\*innen
+    * neues Crowdfunding-Modul für Widersprüche, Gebühren, Klagen unserer Nutzer\*innen
     
-    * politische Beteiligung durch laufenden Volksentscheid Transparenz
+    * politische Beteiligung mit dem laufenden Volksentscheid Transparenz zum berliner Transparenzgesetz
 
     * aktive Kooperationen und Kampagnen mit verschiedenen gesellschaftlichen Gruppen
 
 outputs: >
     * Anfragen gesamt: 145.965
 
-    * Nutzer*innen gesamt: 89.285
+    * Nutzer\*innen gesamt: 89.285
 
     * gewonnene Klagen: 11
 
-    * großer Erfolg: Knapp 33.000 Unterschriften für unseren Volksentscheid, rd. 40.000 Anfragen im Rahmen der „Topf Secret“-Kampagne, 45.000 Mitstreiter\*innen im Urheberrechtsstreit um das Glyphosat Gutachten des Bundesinstituts für Risikoforschung, erfolgreiche Klage gegen BND.
+    * großer Erfolg: knapp 33.000 Unterschriften für unseren Volksentscheid, rd. 40.000 Anfragen im Rahmen der „Topf Secret“-Kampagne, 45.000 Mitstreiter\*innen im Urheberrechtsstreit um das Glyphosat-Gutachten des Bundesinstituts für Risikoforschung, erfolgreiche Klage gegen BND
 
 
 outcome: >
-    * Durch „Topf Secret“ neue Zielgruppe für das Thema Informationsfreiheit sensibilisiert
+    * Dank „Topf Secret“ wurde eine neue Zielgruppe für das Thema Informationsfreiheit sensibilisiert.
     
-    * Mithilfe des Crowdfunding-Moduls können User\*innen ihre Anfragen weiter verfolgen und müssen nicht mehr aufgrund von Kosten aufgeben
+    * Mit Hilfe des Crowdfunding-Moduls können User\*innen ihre Anfragen weiterverfolgen und müssen nicht mehr aus finanziellen Gründen aufgeben.
 
-    * Gewonnene Klagen haben zu Grundsatzurteilen geführt
+    * Gewonnene Klagen haben zu Grundsatzurteilen geführt.
 
 impact:  >
-    * Der BND muss zumindest im Bereich der Umweltinformationen transparenter werden
+    * Der BND muss zumindest im Bereich der Umweltinformationen transparenter werden.
     
-    * Neuer Transparenz Gesetzentwurf durch Volksentscheid angeschoben
+    * Durch den Volksentscheid wurde ein neuer Transparenz-Gesetzentwurf angeschoben. 
     
-    * Zunehmende Berichterstattung über missbräuchlichen Gebrauch des Urheberrechts zur Verheimlichung
+    * Über missbräuchliche Anwendung des Urheberrechts zur Verheimlichung wird zunehmend berichtet.
     
-    * Ein transparenter Staat durch Informationsfreiheit führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
+    * Ein durch Informationsfreiheit transparenter Staat führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
 
 evaluation:  >
-    * Auf dem Blog und via Mailingliste wird regelmäßig über FragDenStaat berichtet.
+    * Auf dem Blog und via Mailingliste berichtet FragDenStaat regelmäßig.
 
-    * Metriken über die Nutzung von FragDenStaat sind jederzeit über Piwik einsehbar.
+    * Die Metriken zur Nutzung von FragDenStaat.de sind jederzeit über Piwik einsehbar.
 
     * kleine politische Risiken: Schwächung der Informationsfreiheit, Erschweren der Anfragen über Internet-Plattformen
 
-    * finanzielle Risiken: FragDenStaat ist nicht dauerthaft finanziert. 
+    * finanzielle Risiken: FragDenStaat ist nicht dauerhaft finanziert. 
 
 outlook:  >
-    * Es ist geplant, die Usability der Plattform weiter zu verbessern. Außerdem sollen die Klagemöglichkeiten ausgebaut und Widersprüche automatisiert werden. 
-    * Die Darstellung der befreiten Dokumente wird verbessert, so dass sie gut zugänglich sind und sinnvoll miteinander verknüpft werden können. 
+    * Es ist geplant, die Usability der Plattform weiter zu verbessern und weitere Features für NGOs und Journalist\*innen zu entwickeln. 
+
+    * Die Möglichkeit zu klagen soll ausgebaut und Widersprüche automatisiert werden. 
+
+    * Die Darstellung der befreiten Dokumente wird verbessert, sodass sie gut zugänglich sind und sinnvoll miteinander verknüpft werden können. 
     
     * Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden.
-    
-    * Es ist geplant, weitere Features für NGOs und Journalist\*innen zu entwickeln und die Usability der Plattform zu verbessern. Außerdem sollen die Klagemöglichkeiten ausgebaut werden.
 
     
 ---
@@ -146,10 +146,10 @@ outlook:  >
 
 # Portal für Anfragen nach dem Informationsfreiheitsgesetz
 
-Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt. In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten. Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen. Das führt dazu, dass Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist und die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist.
+Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt. In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten. Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen. Das führt dazu, dass Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist und die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig.
 
-Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig. Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger*innen ebenso wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht. Das Team von FragDenStaat informiert aktuell über neue Fälle, führt strategische Klagen durch und zeigt Erfolge und Probleme der Informationsfreiheit auf.
+Mit Hilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig. Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger\*innen ebenso wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht. Das Team von FragDenStaat informiert aktuell über neue Fälle, führt strategische Klagen durch und zeigt Erfolge und Probleme der Informationsfreiheit auf.
 
-Mehr Menschen erkennen ihr Recht auf Informationsfreiheit, mehr Menschen nutzen das Recht – und die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess. Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen viel über Informationsfreiheit lernen können und Verwaltungen befolgen das Informationsfreiheitsgesetz besser. Die Akzeptanz in den Verwaltungen für Informationsfreiheit wird gestärkt. Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagnen und journalistische Projekte wird erhöht und es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürger*innenfreundlicher zu gestalten.
+Mehr Menschen erkennen so ihr Recht auf Informationsfreiheit, mehr Menschen nutzen das Recht – und die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess. Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen viel über Informationsfreiheit lernen können und Verwaltungen befolgen das Informationsfreiheitsgesetz besser. Die Akzeptanz in den Verwaltungen für Informationsfreiheit wird gestärkt. Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagnen und journalistische Projekte wird erhöht und es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürger\*innenfreundlicher zu gestalten.
 
-Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt.
+Durch die stärkere Nutzung der Informationsfreiheit wird dieses Menschenrecht gestärkt.

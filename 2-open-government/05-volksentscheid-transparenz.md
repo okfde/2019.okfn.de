@@ -1,12 +1,12 @@
 ---
 layout: page
-chapter: 2.05
+chapter: 2.5
 title: Volksentscheid Transparenz
 website: https://volksentscheid-transparenz.de/
 permalink: /open-government/volksentscheid-transparenz/
 visual:
     img: /assets/images/opengovernment/volksentscheid.png
-    alt: Eine Beschreibung des Textes
+    alt: Illustration Aktenschrank
 ---
 
 Mit der Kampagne „Volksentscheid Transparenz“ soll ein Gesetz für Berlin durchgesetzt werden, das Verwaltungen proaktiv zu Transparenz verpflichtet.
@@ -40,10 +40,11 @@ Bei der Anhörung zu einem Entwurf für ein Transparenzgesetz der FDP-Fraktion i
 
 ### Ressourcen
 
-* Finanzierung: keine (größtenteils Ehrenamt)
-* Beteiligte: Arne Semsrott, Nadine Stammen, Alex Tarralle, Lea Pfau, Stefan Wehrmeyer, Leonard Wolf
-* Projektpartner: Mehr Demokratie e.V.
 * Beginn: Sommer 2018
+* Laufzeit: ganzjährig
+* Finanzierung: 12.000€ Förderung, größtenteils Ehrenamt, außerdem Spenden und Querfinanzierung
+* Beteiligte OKF DE (z. T. hauptamtlich): Alex Tarralle, Arne Semsrott, Lea Pfau, Leonard Wolf, Nadine Stammen, Stefan Wehrmeyer sowie zahlreiche Ehrenamtliche
+* Projektpartner: Mehr Demokratie e. V.
 
 ### Website
 

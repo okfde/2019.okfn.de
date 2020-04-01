@@ -12,15 +12,15 @@ visual:
 
 Das Konzept von „Open Government" meint, das Handeln von Regierungen und Verwaltungen auf nationaler und regionaler Ebene gegenüber der Zivilgesellschaft und der Wirtschaft zu öffnen. Im deutschen Sprachraum wird daher auch der Begriff „Offenes Regierungshandeln" verwendet.
 
-Bürger*innen können auf vielen Ebenen des politischen Handelns direkt einbezogen werden. Im besten Fall kann Open Government die bisherige Kultur der politischen Teilhabe – fast ausschließlich auf Wahltermine begrenzt – zu einer Kooperationskultur zwischen Politik, Verwaltung und Zivilgesellschaft ausbauen.
+Bürger\*innen können auf vielen Ebenen des politischen Handelns direkt einbezogen werden. Im besten Fall kann Open Government die bisherige Kultur der politischen Teilhabe – fast ausschließlich auf Wahltermine begrenzt – zu einer Kooperationskultur zwischen Politik, Verwaltung und Zivilgesellschaft ausbauen.
 
 Hinter dem Konzept steht das Ziel, die Arbeit von Politik, Regierung, Verwaltung und Justiz offener, transparenter, partizipativer und kooperativer zu gestalten.
 
-Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen Entscheidungen und einer aktiven Beteiligung profitieren; auch der öffentliche Sektor selbst kann die Expertise und das Wissen der Bürger*innen nutzen, um bessere Lösungen für Probleme und Vorhaben zu finden.		
+Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen Entscheidungen und einer aktiven Beteiligung profitieren: Auch der öffentliche Sektor selbst kann die Expertise und das Wissen der Bürger\*innen nutzen, um bessere Lösungen für Probleme und Vorhaben zu finden.	
 
-# Highlights zum nachlesen gibt es in diesen Blogeinträgen aus dem letzen Jahr:
+# Unsere Highlights aus dem letzen Jahr zum Nachlesen (chronologisch):
 
-* [Volksentscheid Transparenz Berlin: 33.000 Unterschriften für mehr Transparenz](https://okfn.de/blog/2019/12/volksentscheid-33000-unterschriften-eingereicht/)
+* [Volksentscheid Transparenzgesetz in Berlin: 33.000 Unterschriften für mehr Transparenz](https://okfn.de/blog/2019/12/volksentscheid-33000-unterschriften-eingereicht/)
 
 * [Is Germany ready for the OGP Steering Committee?](https://okfn.de/blog/2019/11/is-germany-ready-for-the-ogp-steering-committee/)
 

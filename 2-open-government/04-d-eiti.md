@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.04
+chapter: 2.4
 title: D-EITI
 website: https://www.d-eiti.de/
 permalink: /open-government/d-eiti/
@@ -29,9 +29,11 @@ Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 20
 
 * kommende Themen: Vertragstransparenz und wirtschaftliche Eigentümer
 
-### Partner
+### Ressourcen
 
-* Partner: GIZ, FOES, FUE, TI
+* Laufzeit: ganzjährig
+* Budget: 149.999,15 €, davon 37.479,78 € OKF-Budget und 112.519,37 € Budget der Projektpartner FOES, FUE und TI
+* Partner: GIZ, Forum Ökologisch-Soziale Marktwirtschaft e.V., Forum Umwelt und Entwicklung, Transparency International Deutschland e.V.
 * Projektleitung: Walter Palmetshofer
 
 ### Website
