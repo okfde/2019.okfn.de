@@ -1,0 +1,41 @@
+---
+layout: page
+chapter: 4.5
+title: Forum Open Education
+website: https://education.forum-open.de/
+permalink: /offene-und-politische-bildung/forum-open-education/
+visual:
+     img: /assets/images/offene-und-politische-bildung/foe.png
+     alt: FOE Logo
+---
+
+### Hintergrund
+
+Mit dem "Forum Open:Education" möchte das Bündnis Freie Bildung die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien fördern.
+
+Mit Begegnungsständen, Workshops und Diskussionsrunden erhalten Bildungsinitiativen und Projekte eine offene Plattform, um ihr Arbeit zu präsentieren und sich über praktische Erfahrungen auszutauschen.
+
+Den zweiten Teil der Veranstaltung bildet eine Podiumsdiskussion, bei der wir mit Bildungspolitiker\*innen über die Potenziale digitaler Partizipation und die nächsten Schritte bei der digitalen Transformation der Bildung sprechen. Am 26. werfen wir einen Blick auf die aktuellen Bildungsvorhaben des Bundes sowie der Länder und ziehen Bilanz zum Stand der offenen Bildung in Deutschland.
+
+
+### Rückblick & Leistungen 2019
+
+Am 26. Juni 2019 fand das zweite Forum Open Education statt. Es wurden dabei Workshops von Ilona Stuetz (mediale pfade e.V.), Maximilian Voigt (OKF DE), Umut Tas (senseBox), Melanie Stilz und Mario Parade, Dominik Theis (Bündnis Freie Bildung), Christina Rupprecht (Wikimedia Deutschland e.V.), Luca Mollenhauer (Leibniz-Institut für Bildungsforschung und Bildungsinformation), Annett Zobel (edu-sharing.net e. V.), Bianca Ely (Forum Bildung Digitalisierung e. V.) und Nele Hirsch (eBildungslabor) angeboten. 
+
+Im Anschluss gab es eine Diskussion mit Margit Stumpp, Marja-Liisa Völlers, Dr. Jens Brandenburg & Daniel Seitz, moderiert von Maria Reimer.
+
+
+### Ausblick
+
+* Weitere Veranstaltungen sind beabsichtigt. 
+
+### Ressourcen
+
+* Finanzierung: keine (ehrenamtliches Community-Projekt)
+* Partner: Wikimedia, Bündnis Freie Bildung
+* Beteiligte: Maximilian Voigt
+
+
+### Website
+
+[https://education.forum-open.de/](https://education.forum-open.de/)
