@@ -8,6 +8,7 @@ visual:
     alt: Illustration zum Kapitel: Transparenz, Zugang, Teilhabe, digitale Kompetenz, öffentliche Kontrolle
 ---
 
+
 Die Open Knowledge Foundation Deutschland  wurde 2011 als gemeinnütziger Verein mit Sitz in Berlin gegründet. Die Vision der OKF DE ist eine offene und gerechte Gesellschaft. Zu den Grundvoraussetzungen dafür gehören folgende Bausteine, die gleichermaßen die Schwerpunkte unserer Arbeit darstellen: 
 <br>
 
@@ -43,4 +44,5 @@ eine aktive Zivilgesellschaft und unabhängige Medien, die das Handeln von Polit
 
 Vor diesem Hintergrund bedarf es aus Sicht der OKF DE starker zivilgesellschaftlicher Organisationen, die auf politischer Ebene Fortschritte im Bezug auf eine offene und gerechte Gesellschaft einfordern und durchsetzen, die relevante Erfahrungen in diesem Bereich sammeln und teilen und anhand kreativer Beispiele die Notwendigkeit und den Wert einer offenen und gerechten Gesellschaft demonstrieren können. Solch eine Organisation möchte die OKF DE sein. 
 
-Das Streben nach Offenheit und Transparenz ist auch Leitlinie für die Arbeit in der OKF DE selbst. Wir arbeiten kooperativ und community-orientiert. Das bedeutet für uns, mit anderen Organisationen und engagierten Menschen langfristige und nachhaltige Partnerschaften aufzubauen. Wir können schnell agieren und besetzen tagesaktuelle Themen in den Bereichen Civic Tech, Offenes Regierungshandeln und Offene Bildung. Wir arbeiten kooperativ und gehen solidarisch, wertschätzend und vertrauensvoll miteinander um. Wir pflegen eine Arbeitskultur, in der konstruktives Feedback gegeben und angenommen werden kann. 
+Das Streben nach Offenheit und Transparenz ist auch Leitlinie für die Arbeit in der OKF DE selbst. Wir arbeiten kooperativ und community-orientiert. Das bedeutet für uns, mit anderen Organisationen und engagierten Menschen langfristige und nachhaltige Partnerschaften aufzubauen. Wir können schnell agieren und besetzen tagesaktuelle Themen in den Bereichen Civic Tech, Offenes Regierungshandeln und Offene Bildung. Wir arbeiten kooperativ und gehen solidarisch, wertschätzend und vertrauensvoll miteinander um. Wir pflegen eine Arbeitskultur, in der konstruktives Feedback gegeben und angenommen werden kann.
+
