@@ -9,7 +9,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 license:
   holder: Open Knowledge Foundation Deutschland e.V.
-  license: License CC BY-SA 3.0
+  license: License CC BY-SA 4.0
 mainpage:
   url: https://okfn.de
   #pdf: /fake/link/to.pdf

@@ -20,18 +20,17 @@ Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 20
 * Beneficial Ownership, also das Offenlegen wirtschaftlicher Eigentümer 
 * offene Daten, Diskussion und Visualisierungen im Rohstoffsektor
 
-### Leistungen 2019
+### Rückblick & Leistungen 2019
 
 * internationale Vernetzung und kontinuierliche innerdeutsche Arbeit
 * Kooperation mit der Zivilgesellschaft in der Ukraine
-
 
 ### Ausblick
 
 * kommende Themen: Vertragstransparenz und wirtschaftliche Eigentümer
 
-
 ### Partner
+
 * Partner: GIZ, FOES, FUE, TI
 * Projektleitung: Walter Palmetshofer
 

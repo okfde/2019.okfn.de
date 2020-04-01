@@ -118,7 +118,7 @@ outlook: >
 
 Das Fragerecht ist ein wichtiges Recht der Abgeordneten – und ein häufig genutztes parlamentarisches Kontrollinstrument. Allein im Bundestag werden pro Wahlperiode tausende **kleine Anfragen** gestellt, die von der Regierung schriftlich beantwortet werden müssen. Nimmt man die Anfragen in den Länderparlamenten hinzu, ist dies ein riesiger Fundus nützlicher Informationen, der wichtige Einblicke in demokratische Prozesse enthält. 
 
-Von Seiten der Parlamente werden diese Dokumente zwar veröffentlicht, dies geschieht aber auf verschiedenen Onlinearchiven verstreut und mit mangelhafter Qualität. Unter anderem sind die Dokumente nicht im Volltext durchsuchbar, wodurch sie anhand der großen Menge von Anfragen in großen Teilen faktisch unzugänglich sind. Viele Funktionen, die  
+Von Seiten der Parlamente werden diese Dokumente zwar veröffentlicht, dies geschieht aber auf verschiedenen Onlinearchiven verstreut und mit mangelhafter Qualität. Unter anderem sind die Dokumente nicht im Volltext durchsuchbar, wodurch sie anhand der großen Menge von Anfragen in großen Teilen faktisch unzugänglich sind. 
 
 Um die in den Dokumenten enthaltenen Informationen zugänglich zu machen, wurden sie auf kleineAnfragen.de fünf Jahre lang ehrenamtlich in einer Datenbank gesammelt, aufbereitet und – als Beitrag zu Transparenz und Partizipation – kostenfrei für die Öffentlichkeit zugänglich gemacht. Dadurch sollte demonstriert werden, **welche Chancen eine sinnvolle Digitalisierung kleiner Anfragen** bietet, um die [Parlamente](https://kleineanfragen.de/info) dazu bewegen, die gegenwärtig mangelhafte Bereitstellung zu überdenken und sie aktuellen technischen Standards anzupassen.
 
@@ -135,6 +135,8 @@ Dabei wurden auf technischer Ebene die folgenden Features implementiert:
 * Erkennung von Tabellen und eingestuften Dokumenten
 
 * Feeds um selbst auf den neuesten Stand bleiben zu können und z.B. daraus automatisiert Twitter-Bots zu betreiben
+
+## kleineAnfragen stillgelegt
 
 Die Plattform erfreute sich großer Beliebtheit, insbesondere bei Abgeordneten, aber um so mehr von den Mitarbeiter*innen in den Parlamentsverwaltungen selbst (dies war anhand der IP-Adressen zu erkennen). Was jedoch nicht geschah, waren Änderungen in der Bereitstellung der Dokumente durch die Parlamente selbst. Im Gegenteil haben Umstellungen der einzelnen Parlamente dazu geführt, dass für jedes einzelne der 17 Parlamente immer wieder umfangreiche Änderungen an der Software von kleineAnfragen notwendig waren, um die veröffentlichten Anfragen importieren zu können. Würden die Parlamente ihre Dokumentensammlung auch maschinenlesbar als **[offene Daten](https://okfn.de/themen/open_data/)** veröffentlichen, wäre dies nicht notwendig.
 

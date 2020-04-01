@@ -18,7 +18,7 @@ Hinter dem Konzept steht das Ziel, die Arbeit von Politik, Regierung, Verwaltung
 
 Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen Entscheidungen und einer aktiven Beteiligung profitieren; auch der öffentliche Sektor selbst kann die Expertise und das Wissen der Bürger*innen nutzen, um bessere Lösungen für Probleme und Vorhaben zu finden.		
 
-### Rückblick
+# Highlights zum nachlesen gibt es in diesen Blogeinträgen aus dem letzen Jahr:
 
 * [Volksentscheid Transparenz Berlin: 33.000 Unterschriften für mehr Transparenz](https://okfn.de/blog/2019/12/volksentscheid-33000-unterschriften-eingereicht/)
 

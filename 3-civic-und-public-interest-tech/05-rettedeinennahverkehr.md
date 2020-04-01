@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 3.5
+chapter: 3.4
 title: Rette deinen Nahverkehr
 website: https://rettedeinennahverkehr.de/
 permalink: /civic-und-public-interest-tech/RDNV/
@@ -22,7 +22,7 @@ Als Rettedeinennahverkehr 2017 – kurz vor Verabschiedung der oben genannten De
 
 Rettedeinennahverkehr ist das Werkzeug, diese Problematik an die Entscheider\*innen heranzutragen, die politisch für Abhilfe sorgen können: Die Landrät\*innen und Oberbürgermeister\*innen als Gesellschafter der vielen Verkehrsverbünde in Deutschland. Über die Seite lassen sich die Verantwortlichen der Gebietskörperschaft direkt per Formbrief anschreiben.
 
-### Leistungen 2019
+### Rückblick & Leistungen 2019
 
 * Im Jahr 2020 veröffentlichten 23(!) weitere Verkehrsverbünde und -unternehmen erstmals ihre Fahrpläne im GTFS-Format
 * 9 Veranstaltungen mit produktiven Ergebnissen
