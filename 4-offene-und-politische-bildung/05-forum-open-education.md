@@ -5,7 +5,7 @@ title: Forum Open Education
 website: https://education.forum-open.de/
 permalink: /offene-und-politische-bildung/forum-open-education/
 visual:
-     img: /assets/images/offene-und-politische-bildung/foe.png
+     img: /assets/images/bildung/foe.png
      alt: FOE Logo
 ---
 
