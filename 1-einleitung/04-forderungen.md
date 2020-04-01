@@ -5,7 +5,7 @@ title: Forderungen
 permalink: /einleitung/forderungen/
 visual:
     img: /assets/images/einleitung/forderung.png
-    alt: Illustration – zum Aufmerken erhobener Zeigefinger
+    alt: Illustration erhobener Zeigefinger
 ---
 
 An die im Jahr 2017 eingesetzte neue Bundesregierung haben wir folgende Forderungen formuliert, die ihre Gültigkeit zu großen Teilen bis heute nicht verloren haben und sich teilweise auch in unseren [gemeinsamen Nachhaltigkeits-Forderungen mit den Bits&Bäume-Organisationen](https://bits-und-baueme.org/forderungen/) wie dem CCC, BUND oder Germanwatch wiederfinden.

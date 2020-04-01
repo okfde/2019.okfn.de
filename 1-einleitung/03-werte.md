@@ -8,7 +8,6 @@ visual:
     alt: Illustration zum Kapitel – Transparenz, Zugang, Teilhabe, digitale Kompetenz, öffentliche Kontrolle
 ---
 
-
 Die Open Knowledge Foundation Deutschland  wurde 2011 als gemeinnütziger Verein mit Sitz in Berlin gegründet. Die Vision der OKF DE ist eine offene und gerechte Gesellschaft. Zu den Grundvoraussetzungen dafür gehören folgende Bausteine, die gleichermaßen die Schwerpunkte unserer Arbeit darstellen: 
 <br>
 
