@@ -11,11 +11,11 @@ visual:
 
 ### Hintergrund
 
-Mit dem "Forum Open:Education" möchte das Bündnis Freie Bildung die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien fördern.
+Mit dem "Forum Open:Education" möchte das Bündnis Freie Bildung e.V., Wikimedia e.V. und die Open Knowledge Foundation Deutschland e.V. die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien fördern.
 
-Mit Begegnungsständen, Workshops und Diskussionsrunden erhalten Bildungsinitiativen und Projekte eine offene Plattform, um ihr Arbeit zu präsentieren und sich über praktische Erfahrungen auszutauschen.
+Mit Begegnungsständen, Workshops und Diskussionsrunden erhalten Bildungsinitiativen und Projekte eine offene Plattform, um ihr Arbeit zu präsentieren und sich über praktische Erfahrungen auszutauschen. 
 
-Den zweiten Teil der Veranstaltung bildet eine Podiumsdiskussion, bei der wir mit Bildungspolitiker\*innen über die Potenziale digitaler Partizipation und die nächsten Schritte bei der digitalen Transformation der Bildung sprechen. Am 26. werfen wir einen Blick auf die aktuellen Bildungsvorhaben des Bundes sowie der Länder und ziehen Bilanz zum Stand der offenen Bildung in Deutschland.
+In einer Podiumsdiskussion wird mit Bildungspolitiker\*innen über die Potenziale digitaler Partizipation und die nächsten Schritte bei der digitalen Transformation der Bildung gesprochen. Dabei stehen aktuelle Bildungsvorhaben des Bundes sowie der Länder sowie der Stand der offenen Bildung in Deutschland im Fokus.
 
 
 ### Rückblick & Leistungen 2019
