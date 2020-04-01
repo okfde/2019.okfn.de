@@ -8,7 +8,6 @@ visual:
     alt: Fotocollage 2019
 ---
 
-
 Das Jahr 2019 war mit Blick auf unsere Organisation als ganzes einerseits von weiterer Professionalisierung in den Bereichen Finanzen und Projektarbeit geprägt, andererseits von der Reflexion über die eigene Arbeit, unsere Zusammenarbeit und die Struktur der OKF DE. 
 
 * Unser Vorstand hat unter dem Vorsitz von Andreas Pawelke wichtige Prozesse für die organisationsinterne Entwicklung angestoßen (Weiterentwicklung des Governance Modells, Überarbeitung interner Strukturen und Arbeitsweisen, Überprüfung unserer Werte und Ziele).
