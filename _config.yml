@@ -29,6 +29,8 @@ chapter:
   outcomes:
     - label: Erbrachte Leistungen
       key: achievements
+    - label: Erbrachte Gesamtleistungen
+      key: total_achievements
     - label: Output
       key: outputs
     - label: Outcome
