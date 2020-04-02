@@ -23,7 +23,7 @@ Diese Kernfragen hat das Kernteam der Bits&Bäume-Konferenz im November 2018 beg
 
 Weil wir für diese Ziele alle zusammenarbeiten, mit anpacken und unser Wissen teilen müssen, haben wir Kernorganisationen Anfang 2019 den Namen „Bits&Bäume“ für alle Initiativen freigegeben, die im Sinne dieser Forderungen arbeiten. Wir wollen jeden und jede dadurch motivieren, [selbst regionale Treffen, Vorträge oder Bits&Bäume-Aktionen mit eigenen Schwerpunkten zu organisieren](https://bits-und-baeume.org/waechst/de). Im Laufe des Jahres haben sich seither dezentral mehrere regionale Gruppen gegründet, die sich inzwischen Dank der Initiative der Berliner Plattform auch überregional online vernetzen und austauschen. Auch auf Community-Events sind immer mehr Bits&Bäumlinge mit einer Sofaecke oder einem Stand präsent, um Wissen und Forderungen zu verbreiten. Wir sagen: Zusammen können wir es schaffen!
 
-### Rückblick & Leistungen (der OKF) 2019
+### Rückblick & Leistungen (der OKF DE) 2019
 
 * Beiträge auf [netzpolitik.org](https://netzpolitik.org/2019/bits-und-baeume-oeffentliche-daten-nuetzen-umwelt-schuetzen-und-zivilgesellschaft-stuetzen/) und in der [Publikation „Was Bits und Bäume verbindet“](https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html) zu den Bits&Bäume-Forderungen und zu Open Data für Nachhaltigkeit
 * Vorträge, Panels und Workshops in Dresden, Münster, Oldenburg und [Hamburg](https://www.youtube.com/watch?v=DF_5_uYk4dE) sowie bei Community Events wie dem Chaos Communication Camp und dem [Chaos Communication Congress](https://media.ccc.de/v/36c3-10682-das_bits_baume-sporangium)

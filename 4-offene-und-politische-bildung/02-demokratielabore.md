@@ -1,12 +1,12 @@
 ---
 layout: page
-chapter: 4.02
+chapter: 4.2
 title: Demokratielabore
-website: https://demokratielabore.de
+website: https://demokratielabore.de/
 permalink: /offene-und-politische-bildung/demokratielabore/
 visual:
     img: /assets/images/bildung/demokratielabore.png
-    alt: Eine Beschreibung des Textes
+    alt: Logo Demokratielabore
 problem:
 - text: Jugendliche Positionen werden in einer überalternden Gesellschaft nicht ausreichend wahrgenommen, was zu Politikverdrossenheit führt.
 causes:
@@ -26,24 +26,26 @@ solution:
 - title: Kompetenzen aufbauen
   text: pädagogische Fachkräfte und Mitarbeiter\*innen in Management und Verwaltung zum Einsatz und zur Kontextualisierung digitaler Werkzeuge in ihrer täglichen Arbeit qualifizieren
 - title: Vernetzung fördern
-  text: Räume für Jugendliche und Fachkräfte aufbauen, die zum regelmäßig Austausch einalden und durch eine Unterstützungsstruktur getragen werden
+  text: Räume für Jugendliche und Fachkräfte aufbauen, die zum regelmäßigen Austausch einladen und durch eine Unterstützungsstruktur getragen werden
 effect:
 - title: auf Jugendliche
   text: >
-    mehr Sichtbarkeit im unmittelbaren Umfeld
+    * mehr Sichtbarkeit im unmittelbaren Umfeld
 
 
-    Selbstwirksamkeitserfahrungen im Umfeld von Digitalität und Demokratie
+    * Selbstwirksamkeitserfahrungen im Umfeld von Digitalität und Demokratie
 - title: auf pädagogische Fachkräfte
   text: >
-    zusätzliche Qualifizierung im Umgang mit digitalen Werkzeugen in der Jugendarbeit
+    * zusätzliche Qualifizierung im Umgang mit digitalen Werkzeugen in der Jugendarbeit
 
-    Ausbau des Netzwerks in die Digitalcommunity hinein
+
+    * Ausbau des Netzwerks in die Digitalcommunity hinein
 - title: auf Fachkräfte in Management und Verwaltung
   text: >
-    nutzen Daten zur Verbesserung ihrer alltägliche Arbeit
+    * nutzen Daten zur Verbesserung ihrer alltägliche Arbeit
 
-    nutzen digitale Werkzeuge zur Umsetzung ihrer Projekte
+
+    * nutzen digitale Werkzeuge zur Umsetzung ihrer Projekte
 - title: gesellschaftliche Wirkung
   claim: Jugendliche verschaffen sich durch den Einsatz digitaler Tools Sichtbarkeit und gestalten ihre Gesellschaft aktiv mit.
 resources: >
@@ -54,11 +56,11 @@ resources: >
   <br><br>
 
   **Budget** <br>
-  Im Jahr 2019 betrug das Gesamtbudget 158.893,18 €, davon 136.590,61 € Personalmittel und Horoare für exteren Expert\*innen und 22.302,57 € Sach- und Verwaltungskosten. Das Projekt war zu 100% finanziert.
+  Im Jahr 2019 betrug das Gesamtbudget 158.893,18 €, davon 136.590,61 € Personalmittel und Horoare für externe Expert\*innen und 22.302,57 € Sach- und Verwaltungskosten. Das Projekt war zu 100% finanziert.
   <br><br>
 
   **Förderer** <br>
-  Das Projekt ist zu 100% finanziert und wurde im Jahr 2019 durch die Bundeszentrale für politische Bildung gefördert. 
+  Das Projekt wurde im Jahr 2019 zu 100% durch die Bundeszentrale für politische Bildung gefördert. 
   <br><br>
 
   **Personal** <br>
@@ -75,11 +77,11 @@ achievements: >
 
     * Das Programm wurde im Jahr 2019 mit einem abschließenden Netzwerkreffen Ende März beendet. Das ursprünglich als Abschluss geplante Demokratiefestival für Jugendliche konnte leider auf Grund kurzfristiger Mittelumverteilung seitens des  Bundesministeriums für Familie, Senioren, Frauen und Jugend – Förderer bis inkl. 2018 – nicht stattfinden.
     
-    * 2019 lag der Schwerpunkt daher auf der Evaluation und Dokumentation der Projektergebnisse und dem Fertigstellen der Selbstlernmaterialien, sodass die konzipierten Programme, Materialien und Workshops weiter von Lehrenden und Lernenden genutzt werden können. Hierfür wurde die [Website](https://demokratielabore.de/) erweitert und die Suche nach Lerninhalten verbessert. 
+    * 2019 lag der Schwerpunkt daher auf der Evaluation und Dokumentation der Projektergebnisse und dem Fertigstellen der Selbstlernmaterialien, sodass die konzipierten Programme, Materialien und Workshops weiter von Lehrenden und Lernenden genutzt werden können. Hierfür wurde die Website erweitert und die [Suche nach Lerninhalten](https://demokratielabore.de/materialsammlung/) verbessert. 
     
     * Die dokumentierten Workshop-Anleitungen und die Selbstlernmaterialien wurden auch nach Projektende von zahlreichen Jugenbildungseinrichtungen und Schulen genutzt und selbstständig durchgeführt.
     
-    * Zusätzlich zu der 2018 in Ulm gestarteten Digital-AG wurde im Januar 2019 eine weitere AG in Frankfurt am Main etabliert und mit zwei Workshop-Durchführungen begleitet. Beide Digital-AGs haben sich weiter entwickelt und wurden unter anderem Namen fortgeführt bzw. in die vor Ort bestehenden Strukturen aufgenommen.
+    * Zusätzlich zu der 2018 in Ulm gestarteten Digital-AG wurde im Januar 2019 eine weitere AG in Frankfurt am Main etabliert und mit zwei Workshop-Durchführungen begleitet. Beide Digital-AGs haben sich nach Projektende weiterentwickelt und wurden unter anderem Namen fortgeführt bzw. in die vor Ort bestehenden Strukturen aufgenommen.
 
     * Für die Outputs der vergangenen Jahre empfielt sich ein Blick in den [Jahresbericht 2018](https://2018.okfn.de/open-government/demokratielabore/) und in [diesen Blogpost](https://demokratielabore.de/blog/Demokratielabore-verabschiedet-sich).
 
@@ -94,7 +96,7 @@ achievements: >
 
 In einer langsam überalternden Gesellschaft bleiben die Stimmen Jugendlicher viel zu oft ungehört. Das Interesse Jugendlicher an Politik ist in den letzten Jahren zwar gestiegen, dennoch ist die Politikverdrossenheit hoch ([Shell-Jugendstudie 2015](https://www.shell.de/ueber-uns/die-shell-jugendstudie.html)). Es fehlt an geeigneten Möglichkeiten der demokratischen Mitsprache, die mit den Lebenswelten Jugendlicher vereinbar sind und über die sie Selbstwirksamkeitserfahrungen sammeln können.
 
-Das Nutzen igitaler Werkzeuge ist fester Bestandteil der jugendlichen Lebenswirklichkeit, die jedoch in außerschulischen Bildungseinrichtungen oft nicht hinreichend abgebildet wird. Pädagogischen Fachkräften fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung. Ein rein konsumorientierter Zugang zu Technologie führt nicht zwangsläufig zu einer wachsenden sozialen Teilhabe oder zu einer Verkleinerung der sozialen Spaltung (Nicole Zillien (2013): Digitale Spaltung – Reproduktion sozialer Ungleichheiten im Internet).
+Das Nutzen digitaler Werkzeuge ist fester Bestandteil der jugendlichen Lebenswirklichkeit, die jedoch in außerschulischen Bildungseinrichtungen oft nicht hinreichend abgebildet wird. Pädagogischen Fachkräften fehlt oft ein tiefergehendes Verständnis für die gesellschaftspolitischen Möglichkeiten und Potenziale der Digitalisierung. Ein rein konsumorientierter Zugang zu Technologie führt nicht zwangsläufig zu einer wachsenden sozialen Teilhabe oder zu einer Verkleinerung der sozialen Spaltung (Nicole Zillien (2013): Digitale Spaltung – Reproduktion sozialer Ungleichheiten im Internet).
 
 Die Demokratielabore förderten und schafften ...
 * Angebote vor Ort in außerschulischen Jugendeinrichtungen
@@ -104,6 +106,6 @@ Die Demokratielabore förderten und schafften ...
 * ein Bewusstsein für Digitalität als Werkzeug zur Gestaltung von Gesellschaft
 * niedrigschwellige Projektangebote und -ideen zum Ausprobieren digitaler Werkzeuge.
 
-Jugendliche erhielten dadurch mehr Sichtbarkeit im unmittelbaren Umfeld und sammeln Selbstwirksamkeitserfahrungen im Umgang mit Digitalität und Demokratie. Pädagogische Fachkräfte lernten neue (digitale) Ansätze der Jugendarbeit kennen und erweiterten ihr Netzwerk in die netzpolitische Community hinein. Fachkräfte im Management und der Verwaltung nutzten digitale Informationen und Tools für die Planung und Umsetzung ihrer Projekte und Anliegen.
+Jugendliche erhielten dadurch mehr Sichtbarkeit im unmittelbaren Umfeld und konnten Selbstwirksamkeitserfahrungen im Umgang mit Digitalität und Demokratie sammeln. Pädagogische Fachkräfte lernten neue (digitale) Ansätze der Jugendarbeit kennen und erweiterten ihr Netzwerk in die netzpolitische Community hinein. Fachkräfte im Management und der Verwaltung nutzten digitale Informationen und Tools für die Planung und Umsetzung ihrer Projekte und Anliegen.
 
-Durch die Erfahrung von Selbstwirksamkeit im Umgang mit digitalen Werkzeugen und Technologien in ihrer Lebenswirklichkeit wurden Jugendliche zu maßgeblichen demokratischen Akteur\*inneen und gestalteten ihre Gesellschaft aktiv mit.
+Durch die Erfahrung von Selbstwirksamkeit im Umgang mit digitalen Werkzeugen und Technologien in ihrer Lebenswirklichkeit wurden Jugendliche zu maßgeblichen demokratischen Akteur\*innen und gestalteten ihre Gesellschaft aktiv mit.
