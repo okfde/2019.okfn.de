@@ -67,7 +67,7 @@ resources: >
 
   **Personal** <br>
 
-  1 Projektleitung (75%) | 1 Entwickler (100%) | 1 Studentische Hilfskraft (50%) | 1 Projektmanagerin (90%)<br><br>
+  1 Projektleitung (75%): Arne Semsrott | 1 Entwickler (100%): Stefan Wehrmeyer | 1 Studentische Hilfskraft (50%): Lea Pfau | 1 Projektmanagerin (90%): Judith Doleschal<br><br>
 
   **ehrenamtliche Arbeit** <br>
 
