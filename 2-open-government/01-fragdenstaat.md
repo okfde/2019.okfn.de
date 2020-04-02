@@ -21,7 +21,7 @@ causes:
     * Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist.
 
 
-    * die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig ist
+    * die Durchsetzung der Informationsfreiheit aufgrund der geringen Nutzung zu schwierig ist
 
 solution:
 - title: einfache Anfragen online
@@ -31,7 +31,7 @@ solution:
 - title: laufende Berichterstattung
   text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
 effect:
-- title: auf Bürger\*innen
+- title: auf Bürger*innen
   text: >
     Mehr Menschen erkennen ihr Recht auf Informationsfreiheit.
 
@@ -42,14 +42,11 @@ effect:
     Die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess.
 - title: auf Verwaltungen
   text: >
-    Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen viel über Informationsfreiheit lernen können.
+    Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen anhand der Fälle Informationsfreiheit besser verstehen.
 
 
-    Verwaltungen befolgen das Informationsfreiheitsgesetz stärker.
-
-
-    Die Akteptanz in Verwaltungen für Informationsfreiheit wird gestärkt.
-- title: auf Multiplikator\*innen
+    Verwaltungen befolgen das Informationsfreiheitsgesetz stärker und bei den Mitarbeiter\*innen wird die Akteptanz für Informationsfreiheit gestärkt.
+- title: auf Multiplikator*innen
   text: >
     Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagnen und journalistische Projekte wird erhöht.
     Der Gesetzgeber gerät unter Druck, bestehende Regelungen bürger\*innenfreundlicher zu gestalten.
@@ -70,7 +67,7 @@ resources: >
 
   **Personal** <br>
 
-  1 Projektleitung (75%) | 1 Entwickler (100%)| 1 Studentische Hilfskraft (50%)| 1 Projektmanagerin (90%)<br><br>
+  1 Projektleitung (75%) | 1 Entwickler (100%) | 1 Studentische Hilfskraft (50%) | 1 Projektmanagerin (90%)<br><br>
 
   **ehrenamtliche Arbeit** <br>
 
@@ -78,8 +75,7 @@ resources: >
   
   **Partner** <br>
 
-  foodwatch e.V., Mehr Demokratie e.V., Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, 
-  Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordneten-watch.de<br><br>
+  foodwatch e. V., Mehr Demokratie e. V., Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordneten-watch.de<br><br>
 
 
 achievements: > 
@@ -92,7 +88,7 @@ achievements: >
     
     * neues Crowdfunding-Modul für Widersprüche, Gebühren, Klagen unserer Nutzer\*innen
     
-    * politische Beteiligung mit dem laufenden Volksentscheid Transparenz zum berliner Transparenzgesetz
+    * politische Beteiligung mit dem laufenden [Volksentscheid Transparenz](../volksentscheid-transparenz/) zum Berliner Transparenzgesetz
 
     * aktive Kooperationen und Kampagnen mit verschiedenen gesellschaftlichen Gruppen
 
@@ -103,8 +99,7 @@ outputs: >
 
     * gewonnene Klagen: 11
 
-    * großer Erfolg: knapp 33.000 Unterschriften für unseren Volksentscheid, rd. 40.000 Anfragen im Rahmen der „Topf Secret“-Kampagne, 45.000 Mitstreiter\*innen im Urheberrechtsstreit um das Glyphosat-Gutachten des Bundesinstituts für Risikoforschung, erfolgreiche Klage gegen BND
-
+    * großer Erfolg: rd. 40.000 Anfragen im Rahmen der „Topf Secret“-Kampagne, 45.000 Mitstreiter\*innen im Urheberrechtsstreit um das Glyphosat-Gutachten des Bundesinstituts für Risikoforschung, erfolgreiche Klage gegen BND
 
 outcome: >
     * Dank „Topf Secret“ wurde eine neue Zielgruppe für das Thema Informationsfreiheit sensibilisiert.
@@ -116,7 +111,7 @@ outcome: >
 impact:  >
     * Der BND muss zumindest im Bereich der Umweltinformationen transparenter werden.
     
-    * Durch den Volksentscheid wurde ein neuer Transparenz-Gesetzentwurf angeschoben. 
+    * Durch den Volksentscheid wurde ein neuer Transparenzgesetzentwurf angeschoben. 
     
     * Über missbräuchliche Anwendung des Urheberrechts zur Verheimlichung wird zunehmend berichtet.
     
@@ -127,14 +122,14 @@ evaluation:  >
 
     * Die Metriken zur Nutzung von FragDenStaat.de sind jederzeit über Piwik einsehbar.
 
-    * kleine politische Risiken: Schwächung der Informationsfreiheit, Erschweren der Anfragen über Internet-Plattformen
-
+    * kleine politische Risiken: Erschweren der Anfragen über Internet-Plattformen, generelle politische Schwächung der Informationsfreiheit
+ 
     * finanzielle Risiken: FragDenStaat ist nicht dauerhaft finanziert. 
 
 outlook:  >
     * Es ist geplant, die Usability der Plattform weiter zu verbessern und weitere Features für NGOs und Journalist\*innen zu entwickeln. 
 
-    * Die Möglichkeit zu klagen soll ausgebaut und Widersprüche automatisiert werden. 
+    * Die Möglichkeiten zu klagen sollen ausgebaut und Widersprüche automatisiert werden. 
 
     * Die Darstellung der befreiten Dokumente wird verbessert, sodass sie gut zugänglich sind und sinnvoll miteinander verknüpft werden können. 
     

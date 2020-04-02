@@ -33,7 +33,7 @@ Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 20
 
 * Laufzeit: ganzjährig
 * Budget: 149.999,15 €, davon 37.479,78 € OKF-Budget und 112.519,37 € Budget der Projektpartner FOES, FUE und TI
-* Partner: GIZ, Forum Ökologisch-Soziale Marktwirtschaft e.V., Forum Umwelt und Entwicklung, Transparency International Deutschland e.V.
+* Partner: GIZ, Forum Ökologisch-Soziale Marktwirtschaft e. V., Forum Umwelt und Entwicklung, Transparency International Deutschland e. V.
 * Projektleitung: Walter Palmetshofer
 
 ### Website

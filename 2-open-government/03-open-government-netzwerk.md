@@ -28,7 +28,7 @@ Positiv am zweiten Nationalen Aktionsplan ist vor allem, dass er erstmalig die B
 ### Ressourcen
 
 * Laufzeit: Januar-Dezember 2019
-* OKF-Budget: 15729,05 € Drittmittel sowie Querfinanzierung
+* OKF-Budget: 15.729,05 € Drittmittel sowie Querfinanzierung
 * Partner: [Liste der Netzwerk Mitglieder](https://opengovpartnership.de/netzwerk/)
 * Projektleitung: Michael Peters
 * Policy-Unterstützung: Adriana Groh, Arne Semsrott, Walter Palmetshofer

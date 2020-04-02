@@ -35,11 +35,11 @@ effect:
     Der Regierungsprozess wird transparenter und politische Beteiligung wird vereinfacht.
 - title: auf interessierte Menschen
   text: >
-    Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen viel über Informationsfreiheit lernen können.
+    Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen anhand der Einzelfälle viel über Informationsfreiheit lernen können.
 
 
     NGOs, Bürgerinitativen und andere Interessens&shy;vereinigungen erfahren schneller, wenn ihre Themen im Parlament angefragt werden.
-- title: auf Journalist\*innen / Medien
+- title: auf Journalist*innen / Medien
   text: >
     Der Einstieg in das Thema aus journalistischer Sicht wird vereinfacht
 
@@ -63,7 +63,7 @@ resources: >
   **Personal** <br>
   1 Entwickler: Maximilian Richt
 
-achievements: >
+total_achievements: >
     * stabile, menschenlesbare URLs für Anfragen und Antworten, sodass diese auch per Mail oder in Sozialen Medien geteilt werden können
 
     * Anfragen und Antworten im Volltext durchsuchbar
@@ -86,17 +86,16 @@ impact: >
     * Regierungshandeln wird transparenter und Parlamentsarbeit besser nachvollziehbar, da mehr Menschen die Möglichkeit haben, sich zu informieren. Das ermöglicht mehr Partizipation.
 
 evaluation:  >
-    * Die ursprüngliche Zielgruppe (Journalist\*innen) hat sich mehr in Richtung interessierte Bürger\*innen und interessanterweise Verwaltungsmitarbeiter\*innen bewegt.
+    * Die ursprüngliche Zielgruppe (Journalist\*innen) hat sich mehr hin zu interessierten Bürger\*innen und interessanterweise Verwaltungsmitarbeiter\*innen bewegt.
 
-    * Parlamente updaten/tauschen Dokumentationssoftware, sodass Import von Anfragen und Antworten ohne Anpassung nicht mehr möglich ist – zeitliche Ressourcen hierfür nicht ausreichend, sodass längere Zeit keine neuen Dokumente mehr erscheinen
+    * Parlamente updaten oder tauschen oft die Dokumentations&shy;software, sodass der Import von Anfragen und Antworten von diesem Parlament ohne Anpassung nicht mehr funktionierte bis eine neue Anbindung geschrieben wurde. Die zeitlichen Ressourcen waren hierfür nicht ausreichend, sodass längere Zeit keine neuen Dokumente mehr erscheinen.
 
-    * technischer Aufbau nicht stabil, Nichtverfügbarkeit einzelner Komponenten (Suche, Scraper, Dokumentenbereitstellung) sorgt für Ausfall der ganzen Plattform
+    * Der technische Aufbau ist nicht stabil; die Nichtverfügbarkeit einzelner Komponenten (Suche, Scraper, Dokumentenbereitstellung) sorgte für den Ausfall der ganzen Plattform.
 
-    * Parlamente nahmen kleineAnfragen nicht zum Anlass, den eigenen Parlamentsspiegel zu überarbeiten und selbst offene Daten bereitzustellen.
+    * Die Parlamente nahmen kleineAnfragen nicht zum Anlass, den eigenen Parlamentsspiegel zu überarbeiten und selbst offene Daten bereitzustellen.
 
 
 outlook: >
-    * Risiken: Parlamente updaten oder tauschen die Dokumentationssoftware, sodass der Import von Anfragen und Antworten von diesem Parlament nicht mehr funktioniert bis eine neue Anbindung geschrieben wurde. 
     * kleineAnfragen wird darum zum 31.12.2020 abgeschaltet. Etwa auftretende Fehler beim Import von Anfragen und Antworten werden nicht mehr korrigiert. Es werden auch keine E-Mail-Benachrichtigungen mehr verschickt und ab diesem Zeitpunkt wird auch keine Volltextsuche mehr möglich sein.
 
 

@@ -36,7 +36,9 @@ Für 2020 ist angesetzt, dass mehr Daten wieder in die Suchmaschine integriert w
 
 ### Ressourcen
 
-ehrenamtliche Arbeitszeit: ~120 Stunden im Jahr
+* Laufzeit: ganzjährig
+* ehrenamtliche Arbeitszeit: ~120 Stunden im Jahr
+* Betreuung: Stefan Wehrmeyer
 
 ### Website
 
