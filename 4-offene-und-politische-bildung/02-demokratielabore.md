@@ -42,7 +42,7 @@ effect:
     * Ausbau des Netzwerks in die Digitalcommunity hinein
 - title: auf Fachkräfte in Management und Verwaltung
   text: >
-    * nutzen Daten zur Verbesserung ihrer alltägliche Arbeit
+    * nutzen Daten zur Verbesserung ihrer alltäglichen Arbeit
 
 
     * nutzen digitale Werkzeuge zur Umsetzung ihrer Projekte
@@ -56,15 +56,15 @@ resources: >
   <br><br>
 
   **Budget** <br>
-  Im Jahr 2019 betrug das Gesamtbudget 158.893,18 €, davon 136.590,61 € Personalmittel und Horoare für externe Expert\*innen und 22.302,57 € Sach- und Verwaltungskosten. Das Projekt war zu 100% finanziert.
+  Im Jahr 2019 betrug das Gesamtbudget 158.893,18 €, davon 136.590,61 € Personalmittel und Honorare für externe Expert\*innen sowie 22.302,57 € Sach- und Verwaltungskosten. Das Projekt war inkl. dem vorgesehenen Eigenanteil von 13.000€ zu 100% finanziert.
   <br><br>
 
   **Förderer** <br>
-  Das Projekt wurde im Jahr 2019 zu 100% durch die Bundeszentrale für politische Bildung gefördert. 
+  Das Projekt wurde im Jahr 2019 durch die Bundeszentrale für politische Bildung gefördert. 
   <br><br>
 
   **Personal** <br>
-  bis April: 1 Projektleitung | 1 Projektkoordination | 5 Projektmanager\*innen | 1 Design Lead | 2 studentische Mitarbeiter\*innen | 1 Bundesfreiwilligendienstleistender | 1 Supervision & Intervision; 
+  bis April: 1 Projektleitung: Lydia Böttcher | 1 Projektkoordination: Paula Grünwald | 5 Projektmanager\*innen: Jasmin Helm (Kommunikation), Juliane Krüger (Organisation, Finanzen), Matthias Löwe (Workshops), Maximilian Voigt (Digital-AGs), Sonja Fischbauer (allround) | 1 Design Lead: Nadine Stammen | 2 studentische Mitarbeiter\*innen: Lea Pfau, Leonard Wolf | 1 Bundesfreiwilligendienstleistender: Sebastian Schröder | 1 Supervision & Intervision: Nadine Evers 
   <br>im Mai:  1 Projektleitung | 1 Projektmanagerin | 1 Design Lead | 1 studentische Mitarbeiterin | 1 Supervision & Intervision
   <br><br>
 
@@ -100,7 +100,7 @@ Das Nutzen digitaler Werkzeuge ist fester Bestandteil der jugendlichen Lebenswir
 
 Die Demokratielabore förderten und schafften ...
 * Angebote vor Ort in außerschulischen Jugendeinrichtungen
-* Wissenstransfer und Verankerung
+* Wissenstransfer und Verankerung:
   * in den Jugendeinrichtungen vor Ort
   * im Management und der Verwaltung der Trägerorganisationen
 * ein Bewusstsein für Digitalität als Werkzeug zur Gestaltung von Gesellschaft

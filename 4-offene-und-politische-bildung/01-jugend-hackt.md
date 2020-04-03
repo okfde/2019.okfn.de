@@ -16,7 +16,9 @@ causes:
   text:
 - title: fehlende offene Lernräume mit passenden Angeboten in ihrer Nähe sowie
   text:
-- title: der oft noch fehlende Blick für die gesellschaftlichen Chancen der Digitalisierung führen dazu, dass
+- title: der oft noch fehlende Blick für die gesellschaftlichen Chancen der Digitalisierung
+  text:
+- title: führen dazu, dass
   claim: >
 
     Jugendliche, die gern programmieren, sich unter Gleichaltrigen oft isoliert fühlen, wenig Anschlussmöglichkeiten in ihrer Umgebung haben und seitens der Erwachsenen viel Skepsis und Kritik erleben.
@@ -57,7 +59,7 @@ resources: >
   <br><br>
 
   **Personal** <br>
-  Projektleiterinnen: Paula Grünwald und Sonja Fischbauer | Projektmanagerin Koordination Events: Saadya Windauer | Community Manager: Philip Steffan | Design-Lead: Nadine Stammen | Tech-Lead: Lisa Passing |  studentische Mitarbeiter\*innen: Cin Pietschmann, Leonard Wolf | Bundesfreiwilligendienstleistende: Sebastian Schröder/Jakob Schiek
+  2 Projektleiterinnen: Paula Grünwald und Sonja Fischbauer | 1 Projektmanagerin Koordination Events: Saadya Windauer | 1 Community Manager: Philip Steffan | 1 Design-Lead: Nadine Stammen | 1 Tech-Lead: Lisa Passing |  2 studentische Mitarbeiter\*innen: Cin Pietschmann, Leonard Wolf | 1 Bundesfreiwilligendienstleistender: Sebastian Schröder/Jakob Schiek
   <br><br>
 
   **Ehrenamtliche Arbeit** <br>
@@ -156,20 +158,19 @@ evaluation:  >
 
 outlook:  >
 
-    Welche Risiken und Chancen sind absehbar?
+    Vorhaben und konkrete Meilensteine:
+
+      * Start von weiteren 4 Jugend-hackt-Labs (=insgesamt 6 laufende Labs)
+
+      * 1 Schüler\*innen-Austausch mit dem Goethe-Institut (Bangkok)
+
+      * 10 Events in Deutschland, Österreich und der Schweiz
 
       * Risiken: Finanzierungslücke; personelle Engpässe aufgrund von personellen Wechsel
 
       * Lösung: Fokus auf Mittelakquise; realistische Ressourcenplanung; Fokus auf Dokumentation der Arbeitsprozesse und Übergaben
 
 
-    Welche Vorhaben und konkreten Meilensteine sind geplant?
-
-      * Start von weiteren 4 Jugend-hackt-Labs (dann insgesamt 6 Labs in Betrieb)
-
-      * 1 Schüler\*innen-Austausch mit dem Goethe-Institut (Bangkok)
-
-      * 10 Events in Deutschland, Österreich und der Schweiz
 
 
 ---
