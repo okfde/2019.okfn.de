@@ -3,7 +3,7 @@ layout: page
 chapter: 2.3
 title: Open Government Netzwerk
 website: https://opengovpartnership.de/
-permalink: /open-government/open-government-netzwerk/
+permalink: /opengovernment/open-government-netzwerk/
 visual:
     img: /assets/images/opengovernment/ogp.png
     alt: Veranstaltungsfotos
