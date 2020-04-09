@@ -3,7 +3,7 @@ layout: page
 chapter: 2.7
 title: DatDigMob
 website: 
-permalink: /opengovernment/datdigmob/
+permalink: /open-government/datdigmob/
 visual:
     img: /assets/images/opengovernment/datdigmob.png
     alt: Kreisdiagramm Datengovernance Digitalmobilität

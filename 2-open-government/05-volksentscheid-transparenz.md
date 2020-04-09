@@ -3,7 +3,7 @@ layout: page
 chapter: 2.5
 title: Volksentscheid Transparenz
 website: https://volksentscheid-transparenz.de/
-permalink: /opengovernment/volksentscheid-transparenz/
+permalink: /open-government/volksentscheid-transparenz/
 visual:
     img: /assets/images/opengovernment/volksentscheid.png
     alt: Illustration Aktenschrank

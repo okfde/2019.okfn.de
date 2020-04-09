@@ -3,7 +3,7 @@ layout: page
 chapter: 2.2
 title: kleineAnfragen (†)
 website: https://kleineanfragen.de/
-permalink: /opengovernment/kleineanfragen/
+permalink: /open-government/kleineanfragen/
 visual:
     img: /assets/images/opengovernment/kleineanfragen.png
     alt: Illustration – Anfragedokument
