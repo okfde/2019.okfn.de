@@ -8,7 +8,7 @@ visual:
     img: /assets/images/bildung/datenschule.png
     alt: Logo der Datenschule
 problem:
-- text: Ohne den Zugang zu digitalen Fähigkeiten bleibt einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert – dies behindert soziale Innovation und die Wahrnehmung von Menschenrechten.
+- text: Ohne den Zugang zu digitalen Fähigkeiten bleibt einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert – dies verhindert nicht zuletzt auch die Wahrnehmung von Menschenrechten.
 causes:
 - title: Mangelnde Ressourcen,
   text: Digitale Informationen und Technologien sind eine weitestgehend ungenutzte Ressource in zivilgesellschaftlichen Organisationen.
@@ -18,7 +18,7 @@ causes:
   text: Es gibt wenige Angebote zur Förderung von digitalen Kompetenzen bei Erwachsenen im gemeinnützigen Bereich, die die Diversität und Organisationsstrukturen berücksichtigen.
 - title: führen dazu, dass
   claim: >
-      soziale Innovation im gemeinnützigen Bereich nur schleppend stattfindet. Zivilgesellschaftliche Organisationen können die Potenziale der Digitalisierung nicht ausreichend nutzen und sind mit den neuen Veränderungsprozessen oft überfordert.
+      digitale Transformation im gemeinnützigen Bereich nur schleppend stattfindet. Zivilgesellschaftliche Organisationen können die Potenziale der Digitalisierung nicht ausreichend nutzen und sind mit den neuen Veränderungsprozessen oft überfordert.
 
 solution:
 - title: gesellschaftlichen Wandel positiv gestalten
@@ -32,7 +32,7 @@ effect:
   text: Organisationen vertiefen ihre digitalen Fähigkeiten und nutzen digitale Informationen und Tools selbstbewusst bei der Planung und Umsetzung ihrer Projekte und Anliegen.
 - title: auf die Civic-Tech-Community
   text: >
-    Durch interdisziplinäres Arbeiten werden soziale Projekte gestärkt.
+    Interdisziplinäres Arbeiten ermöglicht neue Projekte mit zivilgesellschaftlichen Fragestellungen und Themen.
 
 
     Mehr Einzelpersonen arbeiten an gesellschaftspolitischen Ansätzen.
@@ -40,8 +40,7 @@ effect:
   text: Verwaltungen stellen Informationen zu gesellschaftspolitischen Themen besser aufbereitet zur Verfügung und fördern damit Transparenz und Rechenschaftspflicht.
 - title: gesellschaftliche Wirkung
   claim: >
-      Digitale Fähigkeiten ermöglichen es, selbstbewusst mit Daten und Technologien umzugehen. Durch den mündigen und reflektierten Umgang mit Daten und Technologien werden öffentliche Debatten zu sozialen Anliegen informierter und
-      faktenbasiert geführt. Digitale Fähigkeiten stärken die Mitsprache und Teilhabe der Gesellschaft an politischen Entscheidungen und damit die politischen Partizipation insgesamt.
+      Digitale Fähigkeiten ermöglichen es, selbstbewusst mit Daten und Technologien umzugehen. Durch den mündigen und reflektierten Umgang mit Daten und Technologien werden öffentliche Debatten informierter und faktenbasiert geführt. Digitale Fähigkeiten stärken die Mitsprache und Teilhabe der Gesellschaft an politischen Entscheidungen und damit die politischen Partizipation insgesamt.
 resources: >
 
   Das Projekt begann im August 2016 und läuft seitdem durchgehend.
@@ -129,9 +128,9 @@ outlook:  >
 
 # Vermittlung von Datenkompetenzen
 
-Daten sind eine weitestgehend ungenutzte Ressource in zivilgesellschaftlichen Organisationen. Nur wenige Organisationen verfügen über die fundierte digitale Expertise und über die Tools, um aussagekräftige Erkenntnisse aus Daten zu ziehen und ihre Anliegen mit Beweisen zu belegen. Ohne den Zugang zu digitalen Fähigkeiten bleibt zudem einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert – dies hindert soziale Innovation und die Wahrnehmung von Menschenrechten.
+Daten sind eine weitestgehend ungenutzte Ressource in zivilgesellschaftlichen Organisationen. Nur wenige Organisationen verfügen über die fundierte digitale Expertise und über die Tools, um aussagekräftige Erkenntnisse aus Daten zu ziehen und ihre Anliegen mit Beweisen zu belegen. Ohne den Zugang zu digitalen Fähigkeiten bleibt zudem einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert – dies behindert nicht zuletzt auch die Wahrnehmung von Menschenrechten.
 
-Die Schnelligkeit der technischen Veränderungen stellt zivilgesellschaftliche Akteure vor neue Herausforderungen. Viele verlieren den Anschluss an aktuelle öffentliche Debatten im Themenfeld der Digitalisierung; soziale Themen sind im digitalen Raum unterrepräsentiert. Dies liegt wiederum daran, dass viele neue Konzepte und Begrifflichkeiten von technik-affineren Unternehmen geprägt werden. Angebote zur Förderung digitaler Kompetenzen im zivilgesellschaftlichen Bereich gibt es nur wenige. Um genau diese langfristig auch bei den zivilgesellschaftlichen Organisationen auszubauen, bedarf es Formaten, die die Bedürfnisse und Diversität der gemeinnützigen Akteure in Deutschland berücksichtigen.
+Die Schnelligkeit der technischen Veränderungen stellt zivilgesellschaftliche Akteure vor neue Herausforderungen. Viele verlieren den Anschluss an aktuelle öffentliche Debatten im Themenfeld der Digitalisierung; zivilgesellschaftliche Themen sind im digitalen Raum unterrepräsentiert. Dies liegt wiederum daran, dass viele neue Konzepte und Begrifflichkeiten von technik-affineren Unternehmen geprägt werden. Angebote zur Förderung digitaler Kompetenzen im zivilgesellschaftlichen Bereich gibt es nur wenige. Um genau diese langfristig auch bei den zivilgesellschaftlichen Organisationen auszubauen, bedarf es Formaten, die die Bedürfnisse und Diversität der gemeinnützigen Akteure in Deutschland berücksichtigen.
 
 Die Datenschule ist ein Bildungsangebot zur Förderung von digitalen Kompetenzen im gemeinnützigen Bereich.
 
