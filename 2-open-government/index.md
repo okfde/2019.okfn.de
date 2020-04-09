@@ -2,7 +2,7 @@
 layout: page
 chapter: 2
 title: Open Government
-permalink: /opengovernment/
+permalink: /open-government/
 visual:
     img: /assets/images/opengovernment/opengov.png
     alt: Illustration Offenes Regierungshandeln
