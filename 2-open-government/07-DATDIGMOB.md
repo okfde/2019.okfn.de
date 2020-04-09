@@ -2,21 +2,22 @@
 layout: page
 chapter: 2.7
 title: DatDigMob
-website: https://farmsubsidy.org/
-permalink: /open-government/farmsubsidy/
+website: 
+permalink: /open-government/datdigmob/
 visual:
     img: /assets/images/opengovernment/datdigmob.png
-    alt: Logo Farm Subsidy
+    alt: Kreisdiagramm Datengovernance Digitalmobilität
 ---
 
 
-Datengovernance für Datenmobilität: Rahmenbedingungen für Daten-, Privatheitsschutz, Datensicherheit und Datenhandel - DatDigMob
+Datengovernance für Datenmobilität: 
+Rahmenbedingungen für Daten-, Privatheitsschutz, Datensicherheit und Datenhandel
 
 ### Hintergrund
 
-Datengovernance in der Digitalmobilität analysiert übergreifend die Schwerpunkte in der aktuellen Forschung und Diskussion als Teil einer derzeit entstehenden umfassenden Digitalordnung. Die erforderlichen EU-harmonischen politischen, rechtlichen, ökonomischen und sozialen Rahmenbedingungen müssen erarbeitet werden. Speziell gilt dies für Lokationsdaten/ Architektur, Datenökonomie/ Geschäftsmodelle, Datensignalisierung / Mischverkehr, automatisches und autonomes Fahren/ Datenverantwortung.
+Datengovernance in der Digitalmobilität analysiert übergreifend die Schwerpunkte in der aktuellen Forschung und Diskussion als Teil einer derzeit entstehenden umfassenden Digitalordnung. Die erforderlichen EU-harmonischen politischen, rechtlichen, ökonomischen und sozialen Rahmenbedingungen müssen erarbeitet werden. Speziell gilt dies für die Bereiche Lokationsdaten, Datenarchitektur, Signalsteuerung durch Daten, automatisches und autonomes Fahren, die Datenverantwortung sowie Datenökonomie und die Geschäftsmodelle.
 
-Übergeordnetes Ziel ist eine sichere, nachhaltige und vertrauenswürdige Infrastruktur für die Mobilität von Personen und Gütern. Aus der Expertise der Projektpartner sowie den Experten (Beiträge, Berichte, Interviews) entsteht ein Diskursbericht zur Projektkonferenz. Mit Empfehlungen werden die konsensuellen bzw. konsensträchtigen Standpunkte der Stakeholder untereinander sowie mit der Zivilgesellschaft und den wissenschaftlichen Experten dargestellt (Leitbild: Privacy on design). Mit Feststellungen werden noch offene Fragen mit Hinweisen auf Lösungsansätze verdeutlicht.
+Übergeordnetes Ziel ist eine sichere, nachhaltige und vertrauenswürdige Infrastruktur für die Mobilität von Personen und Gütern. Mit Expertise der Projektpartner sowie der Expert\*innen (Beiträge, Berichte, Interviews) entsteht ein Diskursbericht zur Projektkonferenz. Es werden hier einerseits die konsensuellen bzw. konsensträchtigen Standpunkte der Stakeholder untereinander sowie mit der Zivilgesellschaft und den wissenschaftlichen Expert\*innen dargestellt (Leitbild: Privacy on Design), andererseits werden hierzu auch Empfehlungen ausgesprochen. Ach noch offene Fragen werden deutlich gemacht und Hinweise zu Lösungsansätzen gegeben.
 
 ### Rückblick & Leistungen 2019
 
@@ -24,12 +25,13 @@ Datengovernance in der Digitalmobilität analysiert übergreifend die Schwerpunk
 
 ### Ausblick
 
-* Bericht
+* Das Projekt wird im januar 2020 abgeschlossen mit dem abschließenden Bericht.
 
 ### Ressourcen
 
 * Laufzeit: ganzjährig
 * Budget: 41.000,00€
+* Finanzierung: Zu 100% durch das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) und einen Eigenanteil
 * Betreung: Walter Palmetshofer
 
 ### Website

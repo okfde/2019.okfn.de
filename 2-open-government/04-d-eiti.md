@@ -39,4 +39,3 @@ Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 20
 ### Website
 
 [https://www.d-eiti.de/](https://www.d-eiti.de/)
-
