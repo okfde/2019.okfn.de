@@ -50,4 +50,4 @@ Digitale Mündigkeit beschreibt hierbei die Fähigkeit, konstruktiv, kritisch un
 
 
 
-# Im Folgenden werden die Projekte der OKF DE vorgestellt, die dem Bereich Offene und politische Bildung zuzuordnen sind.
+# Im Folgenden werden Projekte der OKF DE vorgestellt, die dem Bereich Offene und politische Bildung zuzuordnen sind.

@@ -60,4 +60,4 @@ Darüber hinaus wurde in der Schweiz die Gründung eines neuen Mitglieds der Pro
 
 <br>
 
-# Im Folgenden werden die Projekte der OKF DE vorgestellt, die dem Bereich Civic und Public Interest Tech zuzuordnen sind.
+# Im Folgenden werden Projekte der OKF DE vorgestellt, die dem Bereich Civic und Public Interest Tech zuzuordnen sind.

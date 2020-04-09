@@ -41,4 +41,4 @@ An die im Jahr 2017 eingesetzte neue Bundesregierung haben wir folgende Forderun
 * Wir brauchen mehr personelle Ressourcen in Behörden, um die Digitalisierung der Verwaltung voranzubringen und eine offene Kultur gegenüber Entwicklerinnen und Entwicklern zu etablieren. Dabei können eigene Innovations-Einheiten (siehe [USA](https://18f.gsa.gov/) und [GB](https://gds.blog.gov.uk/)) in der Verwaltung helfen, die innerhalb der Verwaltung wirken. Davon profitieren nicht nur Bürger\*innen, sondern auch die Verwaltung selbst. Offene Daten, Schnittstellen und eine einfache Nutzung von digitalen Dienstleistungen steigern die Effizienz und fördern Nahbarkeit und Vertrauen in die Verwaltung.
 
 
-# Im Folgenden werden die thematischen Bereiche unserer Arbeit sowie die zugehörigen Projekte vorgestellt.
+# Im Folgenden werden die thematischen Bereiche unserer Arbeit sowie eine Auswahl an zugehörigen Projekten vorgestellt.

@@ -58,4 +58,4 @@ Aber nicht nur die Zivilgesellschaft kann vom einfacheren Zugang zu politischen 
 
 * [Jetzt mitmachen: Topf Secret!](https://okfn.de/blog/2019/01/topf-secret/)
 
-# Im Folgenden werden die Projekte der OKF DE vorgestellt, die dem Bereich Open Government zuzuordnen sind.
+# Im Folgenden werden Projekte der OKF DE vorgestellt, die dem Bereich Open Government zuzuordnen sind.
