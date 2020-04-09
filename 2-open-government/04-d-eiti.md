@@ -3,7 +3,7 @@ layout: page
 chapter: 2.4
 title: D-EITI
 website: https://www.d-eiti.de/
-permalink: /open-government/d-eiti/
+permalink: /opengovernment/d-eiti/
 visual:
     img: /assets/images/opengovernment/eiti.png
     alt: Eine Beschreibung des Textes

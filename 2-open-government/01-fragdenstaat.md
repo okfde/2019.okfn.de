@@ -3,7 +3,7 @@ layout: page
 chapter: 2.1
 title: FragDenStaat
 website: https://fragdenstaat.de
-permalink: /open-government/fragdenstaat/
+permalink: /opengovernment/fragdenstaat/
 visual:
     img: /assets/images/opengovernment/fragdenstaat.png
     alt: Illustration
