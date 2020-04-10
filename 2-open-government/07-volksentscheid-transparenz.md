@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.5
+chapter: 2.7
 title: Volksentscheid Transparenz
 website: https://volksentscheid-transparenz.de/
 permalink: /open-government/volksentscheid-transparenz/

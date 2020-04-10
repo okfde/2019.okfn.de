@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.7
+chapter: 2.3
 title: DatDigMob
 website: 
 permalink: /open-government/datdigmob/

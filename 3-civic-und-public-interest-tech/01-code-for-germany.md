@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 3.2
+chapter: 3.1
 title: Code for Germany
 website: https://codefor.de
 permalink: /civic-und-public-interest-tech/code-for-germany/

@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 4.2
+chapter: 4.1
 title: Demokratielabore
 website: https://demokratielabore.de/
 permalink: /offene-und-politische-bildung/demokratielabore/

@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 4.1
+chapter: 4.2
 title: Jugend hackt
 website: https://jugendhackt.org/
 permalink: /offene-und-politische-bildung/jugendhackt/

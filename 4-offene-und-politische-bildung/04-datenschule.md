@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 4.3
+chapter: 4.4
 title: Datenschule
 website: https://datenschule.de/
 permalink: /offene-und-politische-bildung/datenschule/
