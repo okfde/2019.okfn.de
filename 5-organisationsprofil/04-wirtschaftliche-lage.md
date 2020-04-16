@@ -2,7 +2,7 @@
 layout: page
 chapter: 5.4
 title: Wirtschaftliche Lage des Vereins
-permalink: /organisation/wirtschafltiche-lage/
+permalink: /organisation/wirtschaftliche-lage/
 ---
 
 
