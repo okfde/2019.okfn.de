@@ -35,6 +35,6 @@ Unsere Mitarbeiter\*innen sind bei der Ausübung ihrer Arbeit keinen unmittelbar
 
 ### Interne Revision
 
-Das Geschäftsjahr 2019 wird erneut einer externen Wirtschaftsprüfung unterzogen. Es werden zudem jährlich Kassenprüfungen, regelmäßig Projektprüfungen und Prüfungen durch Verwaltungsbehörden (Sozialversicherungen, Finanzämter) durchgeführt. Auf die Einhaltung ethische Grundsätze, auch bei der Finanzadministration, achtet eine interne Ethikbeauftragte. 
+Das Geschäftsjahr 2019 wird erneut einer externen Wirtschaftsprüfung unterzogen. Es werden zudem jährlich Kassenprüfungen, regelmäßig Projektprüfungen und Prüfungen durch Verwaltungsbehörden (Sozialversicherungen, Finanzämter) durchgeführt. Auf die Einhaltung ethischer Grundsätze, auch bei der Finanzadministration, achtet eine interne Ethikbeauftragte. 
 
-Die Risikolage des Vereins kann für das Jahr 2020 als entspannt beurteilt werden. Es sind keine außergewöhnlichen oder unkontrollierten finanzintensiven und sonstigen risikoreichen Vorfälle bekannt. Bestandsgefährdende Risiken, insbesondere mit Auswirkungen auf die Liquidität des Vereins, sind für die folgenden 12 Monate nicht zu erkennen. 
+Die Risikolage des Vereins kann für das Jahr 2020 als grundsätzlich eher entspannt beurteilt werden. Es sind keine außergewöhnlichen oder unkontrollierten finanzintensiven und sonstigen risikoreichen Vorfälle bekannt. Die Corona-Pandemie könnte mittel- bis langfristige Auswirkungen auf die Liquidität des Vereins haben, die zum jetzigen Zeitpunkt noch nicht abzuschätzen sind. 
