@@ -5,7 +5,6 @@ title: Prognose-, Chancen- und Risikobericht
 permalink: /organisation/prognose-chancen-und-risikobericht/
 ---
 
-\*
 
 ### Prognosebericht
 
