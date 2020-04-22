@@ -62,12 +62,12 @@ resources: >
 
   **Budget** <br>
 
-  Im Jahr 2019 betrug das Gesamtbudget 216.351,73 €, davon 142.862,21 € Personalmittel, 8.177,40 € Sachkosten, 64.207,12€ für Widersprüche und Klagen sowie 1.105,00 € für Fortbildungen. Die Projektarbeit war über Einzelspenden und verschiedene Förderungen zu 100% finanziert. <br><br>
+  Im Jahr 2019 betrugen die Gesamteinnahmen 387.962,76 €. 66% der Ausgaben waren Personalmittel, 29,7% wurden für Widersprüche und Klagen aufgewendet, 3,7% für Sachkosten und 0,05% für Fortbildungen. Ein Teil der Einnahmen wurde als Absicherung für laufende Klagen mit ins Jahr 2020 genommen. FragdenStaat war über Einzelspenden, verschiedene Förderungen sowie über weitere Finanzierungen durch die OKF DE zu 100% finanziert. <br><br>
 
 
   **Personal** <br>
 
-  1 Projektleitung (75%): Arne Semsrott | 1 Entwickler (100%): Stefan Wehrmeyer | 1 Studentische Hilfskraft (50%): Lea Pfau | 1 Projektmanagerin (90%): Judith Doleschal<br><br>
+  1 Projektleitung (65-90%): Arne Semsrott | 1 Entwickler (100%): Stefan Wehrmeyer | 1 Studentische Hilfskraft (50%): Lea Pfau | 1 Projektmanagerin (90%): Judith Doleschal<br><br>
 
   **ehrenamtliche Arbeit** <br>
 

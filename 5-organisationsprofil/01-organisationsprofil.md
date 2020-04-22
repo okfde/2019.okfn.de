@@ -90,14 +90,14 @@ Fett gedruckte Person sind Mitglieder des Vorstands
 * Arne Semsrott 
 * Bela Seeger 
 * Christian Heise 
-* Claudia Schwegmann 
+* Claudia Schwegmann (bis 8.10.2019) 
 * **Daniel Dietrich, Beisitzer** 
 * Daniel Mietchen 
 * Edgar Zanella Alvarenga 
 * Eileen Wagner
 * Fiona Krakenbürger 
 * Friedrich Lindenberg 
-* Gregor Gilka, neues Mitglied seit 13.06.2019 
+* Gregor Gilka (seit 13.06.2019) 
 * Hauke Gierow 
 * Helene Hahn 
 * **Jana Wichmann, Beisitzerin**
@@ -116,13 +116,13 @@ Fett gedruckte Person sind Mitglieder des Vorstands
 * Michael Hörz 
 * Michael Peters 
 * Moritz Neujeffski 
-* Nadine Evers, Geschäftsführerin bis 15.06.2019, neues Mitglied seit 13.06.2019 
+* Nadine Evers (seit 13.06.2019; Geschäftsführerin bis 15.06.2019) 
 * Paula Grünwald 
 * Rufus Pollock 
-* Sonja Fischbauer, neues Mitglied seit 13.06.2019 
+* Sonja Fischbauer (seit 13.06.2019) 
 * Sören Auer 
-* Stefan Wehrmeyer 
 * Stefan Kaufmann 
+* Stefan Wehrmeyer 
 * Timo Lundelius 
 * Walter Palmetshofer
 
@@ -138,13 +138,13 @@ Fett gedruckte Person sind Mitglieder des Vorstands
 
 ### Interessenskonflikte
 
-Der Vorstand und einige hauptamtliche Teammitglieder sind auch Vereinsmitglieder und damit stimmberechtigt in der Mitgliederversammlung als Aufsichtsorgan der OKF DE. Der Vorstand ist ehrenamtlich tätig und erhält keine Bezüge weder Gehälter, Aufwandsentschädigungen noch Sachbezüge. Kein Vorstandsmitglied arbeitet vertraglich in einem OKF-Projekt mit und bezieht daraus Gehalt.
+Einige (derzeit acht) hauptamtliche Teammitglieder sind auch Vereinsmitglieder und damit stimmberechtigt in der Mitgliederversammlung als Aufsichtsorgan der OKF DE. Ihr Anteil macht jedoch einen geringfügen Anteil der Mitgliederschaft aus. Ebenfalls Vereinsmitglieder und daher stimmberechtigt ist der Vorstand. Er ist ehrenamtlich tätig und erhält keine Bezüge – weder Gehälter oder Aufwandsentschädigungen noch Sachbezüge. Kein Vorstandsmitglied arbeitet vertraglich in einem OKF-Projekt mit und bezieht daraus Gehalt.
 
 Für das Geschäftsjahr 2019 gab es keine finanziellen, persönlichen oder rechtlichen Abhängigkeitsverhältnisse zwischen den Mitgliedern der OKF DE und anderen an der Finanzierung der OKF beteiligten Organisationen. Es bestanden auch keine Verwandtschaftsverhältnisse innerhalb der Organisation. 
 
 ### Internes Kontrollsystem
 
-Das interne Kontrollsystem besteht aus einem projektgesteuerten 4-Augen Prinzip im operativen Geschäft, der extern beauftragten Buchführung /Jahresabschlusserstellung sowie der internen Kassenprüfung. Im Rahmen der Projekttätigkeit sind die fachliche und kaufmännische Projektleitung separiert, so dass dort ein 4-Augen-Prinzip vorherrscht. Darüber hinaus wird die Buchhaltung von einer externen Steuerkanzlei ausgeführt, welche vereinsschädigende oder gemeinnützigkeitsschädliche Handlungen direkt an die Geschäftsführung melden würde. Damit ebenfalls die Mitglieder ihre Informationen erhalten sowie eine wirksame Kontrolle durch die Mitgliederversammlung stattfinden kann, werden jährlich zwei Kassenprüfer\*innen bestimmt.  Satzungsänderung vom 11.11.2017 dürfen die Kassenprüfer\*innen nicht aus Vorstand und Belegschaft kommen, um mögliche Interessenskonflikte zu vermeiden. 2019 wurde die Kassenprüfung durch die Mitglieder Mark Brough und Timo Lundelius durchgeführt. 
+Das interne kaufmännische Kontrollsystem besteht aus einem projektgesteuerten 4-Augen-Prinzip im operativen Geschäft, einer personellen Trennung von Freigabe und Durchführung von Zahlungen sowie der internen Kassenprüfung. Darüber hinaus werden Buchhaltung und Jahresabschluss von einer externen Steuerkanzlei ausgeführt, welche eine weitere Kontrollinstanz für das Alltagsgeschäft bildet und vereinsschädigende oder gemeinnützigkeitsschädliche Handlungen direkt an die Geschäftsführung melden würde. Damit ebenfalls die Mitglieder ihre Informationen erhalten sowie eine wirksame Kontrolle durch die Mitgliederversammlung stattfinden kann, werden in zweijährigem Turnus je 2 Kassenprüfer\*innen bestimmt. Laut Satzungsänderung vom 11.11.2017 dürfen die Kassenprüfer\*innen nicht aus Vorstand und Belegschaft gestellt werden, um mögliche Interessenskonflikte zu vermeiden. Für das Geschäftsjahr 2019 wurde die Kassenprüfung gemäß Turnus erneut durch die Mitglieder Mark Brough und Timo Lundelius durchgeführt. 
 
 ## Eigentümerstruktur, Mitgliedschaften und verbundene Organisationen
 
@@ -152,7 +152,7 @@ Das interne Kontrollsystem besteht aus einem projektgesteuerten 4-Augen Prinzip 
 An unserem Verein halten weder private noch juristische Personen Anteile. Dies ist auch nicht möglich.
 
 **Mitgliedschaften anderer Organisationen**<br>
-Es besteht eine Mitgliedschaft beim Bundesverband Deutscher Stiftungen e.V.
+Es besteht eine Mitgliedschaft beim Bundesverband Deutscher Stiftungen e. V.
 
 **Verbundene Organisationen**<br>
 Wir sind mit keinen Organisationen juristisch verbunden und halten auch keine Anteile an anderen Organisationen.
@@ -165,13 +165,13 @@ Wir sind mit keinen Organisationen juristisch verbunden und halten auch keine An
 * Reisen finden in aller Regel mit öffentlichen Verkehrsmitteln statt (2. Klasse).
 * Inlandsflüge buchen wir nur in Ausnahmesituationen; Auslandsreisen sind Ausnahmen.
 * Wir haben keine Dienstwagen.
-* Wir stehen hinter den Forderungen der Bits&Bäume-Konferenz zur Nachhaltigkeit.
+* Wir stehen hinter den [Forderungen der Bits&Bäume-Konferenz](https://bits-und-baeume.org/forderungen/info/de) zur Nachhaltigkeit.
 
 **Zum Sozialprofil gehören die folgenden Punkte:**
 * flexible Arbeitszeiten
 * freie Einteilung von Heimarbeitstagen
-* Tiere am Arbeitsplatz sind erlaubt.
+* Tiere am Arbeitsplatz sind unter Rücksprache mit dem Team erlaubt.
 * Weiterbildungsmaßnahmen innerhalb der Arbeitszeit werden unterstützt und teilweise finanziert.
 * Das gesamte Team wird mindestens monatlich über die wichtigsten Entwicklungen von Vorstand, Geschäftsführung und Team intern informiert, um stets einen Gesamtüberblick zu haben.
-* Alle Mitarbeiter*innen, die der Geschäftsführung nicht direkt unterstehen, haben mehrmals im Jahr Gruppenmeetings mit der Geschäftsführerung.
-* Die Geschäftsführerin hat eine »Open-Door-Policy« für alle Mitarbeiter*innen.
+* Alle Mitarbeiter\*innen, die der Geschäftsführung nicht direkt unterstehen, haben mehrmals im Jahr Gruppenmeetings mit der Geschäftsführerung.
+* Die Geschäftsführerin hat eine Open-Door-Policy für alle Mitarbeiter\*innen.

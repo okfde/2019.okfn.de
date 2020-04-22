@@ -13,3 +13,6 @@ Alle Informationen zu Buchführung, Rechnungslegung, Vermögensrechnung sowie Ei
 
 <br>
 
+## Finanzielle Situation und Planung
+
+Im Jahr 2019 ...

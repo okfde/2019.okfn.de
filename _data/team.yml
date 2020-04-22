@@ -13,6 +13,20 @@
   twitter: avwgo
   website:
 
+- name: Alex Taralle
+  img: unknown
+  staff: 0
+  board: 0
+  advisory: 0
+  board_alumni: 1
+  position_en: 
+  position: Praktikant* Volksentscheid Transparenz
+  bio: "Alex war von Juli bis Oktober Praktikant* für den Volksentscheid Transparenz und hat bei organisatorischen Aufgaben, Presse- und Öffentlichkeitsarbeit unterstützt sowie der Koordination der ehrenamtlichen Sammler*innen."
+  bio_en: ""
+  mail: 
+  twitter: 
+  website:
+
 - name: Arne Semsrott
   img: arnesemsrott
   staff: 1
@@ -34,7 +48,7 @@
   advisory: 0
   position: Projektleitung Turing-Bus
   position_en: Project lead Turing-Bus
-  bio: "Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter der Bildungsprojekte „DatenmachenSchule“ und „Turing-Bus“. Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalter*innen werden."
+  bio: "Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter des Bildungsprojekts „Turing-Bus“. Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalter*innen werden."
   bio_en: "Bela works at the Open Knowledge Foundation Germany as project lead of the educational projects \"DatenmachenSchule\" and \"Turing-Bus\". As a sociologist of technology he is interested in social transformation processes in the fields of Open Knowledge, Open Source, Open Hardware and Open Education, in which civil society actors become active co-creators."
   mail: bela.seeger@okfn.de
   twitter: bela_data
@@ -48,7 +62,7 @@
   board_alumni: 1
   position: Design Jugend hackt
   position_en: Design Jugend hackt
-  bio: "Doris ist Kommunikationsdesignerin und unterstützt das Team „Jugend hackt“. Mit Spezialisierung auf Markenentwicklung hat sie bereits für globale Unternehmen gearbeitet und bringt neben Ideen und Inspiration auch jede Menge Erfahrung mit. Sie interessiert sich für nachhaltiges Design und dafür, wie die fortschreitende Digitalisierung die Gesellschaft verändert. Dabei verliert sie nie den Blick fürs wesentliche: Ein starkes Konzept sowie der effiziente Transport von Inhalten stehen bei ihr an oberster Stelle."
+  bio: "Doris ist Kommunikationsdesignerin und unterstützt das Team „Jugend hackt“. Mit Spezialisierung auf Markenentwicklung hat sie bereits für globale Unternehmen gearbeitet und bringt neben Ideen und Inspiration auch jede Menge Erfahrung mit. Sie interessiert sich für nachhaltiges Design und dafür, wie die fortschreitende Digitalisierung die Gesellschaft verändert. Dabei verliert sie nie den Blick fürs Wesentliche: Ein starkes Konzept sowie der effiziente Transport von Inhalten stehen bei ihr an oberster Stelle."
   bio_en: "Doris is a communication designer and supports the »Jugend hackt« team. Specializing in brand development, she has already worked for global companies and brings a wealth of experience in addition to ideas and inspiration. She is interested in sustainable design and how advancing digitalization is changing society. At the same time, she never loses sight of the essential: A strong concept and the efficient transport of content are her top priorities."
   mail: doris.jantoljak@okfn.de
   twitter:
@@ -61,7 +75,7 @@
   advisory: 0
   position: Organisationsentwicklung
   position_en: Team & Organizational Development
-  bio: "Elisa teilt sich derzeit mit Juliane die kommissarische Geschäftsführung und übernimmt die Teamkoordination und Organisationsentwicklung. Seit 2016 ist Elisa bei der OKF, hat an den Digital Refugee Labs von Code for Germany gearbeitet und leitete danach den Prototype Fund. Studiert hat sie Prähistorische Archäologie, war aber immer schon in IT-Projekte im kulturellen Bereich involviert und internationale archäologische Projekte und technische Communities unterstützt und wissenschaftlich begleitet."
+  bio: "Elisa unterstützt Juliane bei der kommissarischen Geschäftsführung, wobei sie die Teamkoordination und Organisationsentwicklung übernimmt. Seit 2016 ist Elisa bei der OKF, hat an den Digital Refugee Labs von Code for Germany gearbeitet und leitete danach den Prototype Fund. Studiert hat sie Prähistorische Archäologie, war aber immer schon in IT-Projekte im kulturellen Bereich involviert und internationale archäologische Projekte und technische Communities unterstützt und wissenschaftlich begleitet."
   bio_en: "Elisa is currently responsible for team coordination and organisational development. Elisa has been with OKF since 2016. She worked on the Digital Refugee Labs of Code for Germany and led the Prototype Fund. Elisa has studied prehistoric archaeology, but has always been involved in IT projects in the cultural field, supported and scientifically accompanied international archaeological projects and technical communities."
   mail: elisa.lindinger@okfn.de
   twitter: elizab0t
@@ -76,7 +90,7 @@
   advisory: 0
   position: Entwicklung OParl
   position_en: Developer OParl
-  bio: "Ernesto betreut und entwickelt Politik bei Uns mit der Schnittstelle OParl und damit das weite Thema kommunale Transparenz und Ratsinformationssysteme. Außerdem arbeitet er mit Mobilitätsdaten / regenerativer Energie und betreut die Blogfarm der Open Knowledge Foundation. Er ist selbstständiger Berater und Entwickler."
+  bio: "Ernesto betreut und entwickelt Politik bei Uns mit der Schnittstelle OParl und damit das weite Thema kommunale Transparenz und Ratsinformationssysteme. Außerdem arbeitet er mit Mobilitätsdaten / regenerativer Energie und betreut die Blogfarm der Open Knowledge Foundation. Er ist selbstständiger Berater und Entwickler und arbeitet für die OKF größtenteils ehrenamtlich."
   bio_en: "Ernesto supervises and develops the projects Politik bei Uns and OParl and therefore the topic local transparency and local government information systems. Additionally, he works with mobility data / renewable energy sources and administrates the OKF-DE blogfarm. He works as a self-employed consultant and developer."
   mail: "ernesto.ruge@okfn.de"
   twitter: the_infinity
@@ -129,7 +143,7 @@
   advisory: 0
   position: Bundesfreiwilligendienstleistender Jugend hackt
   position_en: Bundesfreiwilligendienstleistender Jugend hackt
-  bio: "Jakob ist bis Mitte des Jahres 2020 der Bundesfreiwilligendienstleistende der OKF. Er ist Teil des Jugend hackt-Eventteams und kümmert sich dort unter anderem um die Verwaltung der Teilnehmenden. In seiner Freizeit fährt er gerne mit dem Fahrrad durch die Gegend, macht Sachen mit Computern oder Unsinn."
+  bio: "Jakob ist seit September 2019 der Bundesfreiwilligendienstleistende der OKF. Er ist Teil des Jugend hackt-Eventteams und kümmert sich dort unter anderem um die Verwaltung der Teilnehmenden. In seiner Freizeit fährt er gerne mit dem Fahrrad durch die Gegend, macht Sachen mit Computern oder Unsinn."
   bio_en: "Jakob is the OKF's current participant in the federal voluntary program. Together with his colleagues he organizes the Jugend hackt-Events and helps managing the participants. He likes riding his bike and doing stuff with computers."
   mail: jakob.schiek@okfn.de
   twitter: glitter1horn
@@ -142,7 +156,7 @@
   advisory: 0
   position: Projektmanagement Datenschule
   position_en: Project management Datenschule
-  bio: "Jasmin hat Soziologie und Germanistik in Kiel und Potsdam studiert und arbeitet seit 2016 bei der OKF im Bereich Kommunikation. Zuvor hat sie einige Praktika in Zeitungs- und Fernsehredaktionen absolviert und war ehrenamtlich für Umwelt-NGOs in der Presse- und Öffentlichkeitsarbeit tätig. Der verantwortungsvolle Umgang mit Daten ist ein zentrales Anliegen für sie. Jasmin ist derzeit in Elternzeit."
+  bio: "Jasmin hat Soziologie und Germanistik in Kiel und Potsdam studiert und arbeitet seit 2016 bei der OKF im Bereich Kommunikation. Zuvor hat sie einige Praktika in Zeitungs- und Fernsehredaktionen absolviert und war ehrenamtlich für Umwelt-NGOs in der Presse- und Öffentlichkeitsarbeit tätig. Der verantwortungsvolle Umgang mit Daten ist ein zentrales Anliegen für sie. Jasmin ist seit Jahresende in Elternzeit."
   bio_en: "Jasmin studied sociology at Potsdam University and supports the project \"Datenschule\" since 2016. The handling of data in a responsible way is a main concern for her. Jasmin is currently on parental leave."
   mail: jasmin.helm@okfn.de
   twitter:
@@ -168,12 +182,26 @@
   advisory: 0
   position: Referentin der Geschäftsführung
   position_en: Management assistance
-  bio: "Juliane unterstützt die OKF als Referentin der Geschäftsführung und hat 2019 die OKF kommissarisch geleitet. Als praktische Kulturwissenschaftlerin hat sie vorher Literatur- und Musikfestivals u. a. im Museumsquartier in Wien und am Haus der Kulturen der Welt in Berlin koordiniert. Sie spricht, schleift und setzt gerne Texte – am liebsten mit !Cyber!context – und arbeitet ehrenamtlich an Projekten des Netzwerks der BücherFrauen oder des FIfF, war außerdem Teil des Orgateams von Bits&Bäume, der Konferenz für Digitalisierung und Nachhaltigkeit. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
+  bio: "Juliane leitet seit Frühjahr 2019 die OKF kommissarisch. Zuvor unterstützte die OKF als Referentin der Geschäftsführung und in Projekten wie 2030Watch oder Demokratielabore. Sie spricht, schleift und setzt gerne Texte – am liebsten mit !Cyber!context – und arbeitet ehrenamtlich an Projekten des Netzwerks der BücherFrauen oder des FIfF, war außerdem 2018 Teil des Orgateams von Bits&Bäume, der Konferenz für Digitalisierung und Nachhaltigkeit, deren Netzwerk sie weiterhin mitbetreut. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
   bio_en: "Juliane works for the OKF as assistance to the management and took over the management temporarily in 2019. She is also part of the Bits&Bäume team, the movement for digitalization and sustainability."
   mail: juliane.krueger@okfn.de
   twitter:
   website:
   github: yuelika
+
+- name: Juliane 'Juka' Wessalowski
+  img: juka
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Verschwoerhaus & Jugend hackt Ulm
+  position_en: 
+  bio: "Juka hält die Open Data Flagge für die OKF in Ulm hoch, veranstaltet Jugend hackt Ulm und mehr Programm rund um Digitale Mündigkeit im Verschwörhaus. Sie ist Medieninformatikerin auf dem Papier und Künstlerin im Herzen und hinterfragt gerne alles."
+  bio_en: ""
+  mail: juliane.wessalowski@okfn.de
+  twitter: https://twitter.com/gruenzeug
+  website: https://verschwoerhaus.de/
+  github: https://github.com/gruenzeug
 
 - name: Katharina Meyer
   img: katharinameyer
@@ -245,7 +273,6 @@
   website:
   github: lydiaboe
 
-
 - name: Paula Grünwald (geb. Glaser)
   img: paulaglaser
   staff: 0
@@ -254,7 +281,7 @@
   board_alumni: 1
   position: "Projektleitung Jugend hackt"
   position_en: "Project management Jugend hackt"
-  bio: "Paula war von 2015 bis 2020 bei der OKF DE.  Sie hat Jugend hackt zunächst als Programmmanagerin und später als Programmleiterin von einem Event in Berlin zu einem länderübergreifenden Netzwerk mit aufgebaut. Daneben hat sie als Projektmitarbeiterin einige Zeit bei den Demokratielaboren mitgewirkt."
+  bio: "Paula ist seit 2015 bei der OKF DE.  Sie hat Jugend hackt als Programmmanagerin und inzwischen als Programmleiterin von einem Event in Berlin zu einem länderübergreifenden Netzwerk mit aufgebaut. Daneben hat sie als Projektmitarbeiterin einige Zeit bei den Demokratielaboren mitgewirkt."
   bio_en: 'Paula has been working for the OKF from 2915 to 2020. She started out as program manager for Jugend hackt, later as one of the program leads and helped developing the programm from an one time event in Berlin to a multi national network. She also supported the "Demokratielabe" as a project manager for some time.'
   mail: paula.gruenwald@okfn.de
   twitter: rinhia
@@ -366,7 +393,7 @@
   board_alumni: 1
   position: Design
   position_en: Design
-  bio: "Nadine ist Informations- und Interfacedesignerin und war von 2017 bis 2020 bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
+  bio: "Nadine ist Informations- und Interfacedesignerin und seit 2017 als Designerin bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
   bio_en: "Nadine is an information and interface designer and has been working for OKF from 2017 to 2020.  Previously she worked for several years in a web agency and for the non-profit association Liquid Democracy. In projects with Transparency International, OCCRP, the Mercator Foundation or the City of Berlin, she worked on supporting social change with digital technologies and media."
   mail: "nadine.stammen@okfn.de"
   twitter: stadine
@@ -392,9 +419,23 @@
   advisory: 0
   position: Projektmanagement Jugend hackt
   position_en: Project management Jugend hackt
-  bio: "Saadya arbeitet seit Januar 2017 bei der OKF und ist aktuell als Projektmanagerin bei Jugend hackt."
+  bio: "Saadya arbeitet seit Januar 2017 bei der OKF und ist aktuell als Projektmanagerin bei Jugend hackt. Zuvor war sie u. a. Teil der Projektteams der Demokratielabore und 2030Watch."
   bio_en: "Saadya has been working for the Open Knowledge Foundation since January 2017 and is a projekt manager at the Jugend hackt."
   mail: saadya.windauer@okfn.de
+  twitter:
+  website:
+
+- name: Sebastian Schröder
+  img: sebastianschroeder
+  staff: 0
+  board: 0
+  advisory: 0
+  board_alumni: 1
+  position: Bundesfreiwilliger bei Demokratielabore, Jugend hackt und FragDenStaat
+  position_en: Design
+  bio: "Sebastian Schröder hat schon mehrmals bei „Jugend hackt“ teilgenommen und hat von 2018 bis 2019 seinen Bundesfreiwilligendienst in der OKF geleistet. Dabei hat er das Team der „Demokratielabore“ und „Jugend hackt“ bei der Organisation z. B. von Events unterstützt, viele Anfragen für „FragdenStaat“ gestellt und die verschiedenen weiteren Projekte der Open Knowledge Foundation kennengelernt."
+  bio_en: ""
+  mail:
   twitter:
   website:
 
@@ -454,6 +495,20 @@
   mail: tomas.novy@jugendhackt.org 
   twitter: https://twitter.com/_TomNovy_
   github: https://github.com/Verschwoercode 
+
+- name: Torben Reichert 
+  img: unknown
+  staff: 0
+  board: 0
+  advisory: 0
+  board_alumni: 1
+  position: Entwickler Jugend hackt
+  position_en: 
+  bio: "Torben war von 2018 bis Frühjahr 2019 als Entwickler für Jugend hackt tätig."
+  bio_en: ""
+  mail: 
+  twitter: 
+  website: 
 
 - name: Walter Palmetshofer
   img: walterpalmetshofer

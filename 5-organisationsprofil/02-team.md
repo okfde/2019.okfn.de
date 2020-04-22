@@ -5,6 +5,6 @@ title: Team
 permalink: /organisation/team/
 visual:
     img: /assets/images/einleitung/team.png
-    alt: Eine Beschreibung des Textes
+    alt: Teamfotos
 team: true
 ---
