@@ -17,7 +17,7 @@ Ein weiterer wichtiger Aspekt hierbei ist die politische Bildung: Offene Bildung
 Digitale Mündigkeit beschreibt hierbei die Fähigkeit, konstruktiv, kritisch und souverän mit digitalen Räumen umzugehen, um sich zivilgesellschaftlich und politisch in diesen engagieren zu können. Nur so können wir unsere zunehmend digitalisierte Gesellschaft hinterfragen und mitgestalten. Fähigkeiten im Umgang mit digitalen Technologien (_Digital Literacy_), z. B. um online bürgerliche Rechte und Pflichten wahrzunehmen, sind hierbei kein Selbstzweck, sondern Mittel für gesellschaftliche Teilhabe. Vielmehr geht es um ein Verständnis dafür, wie notwendig es ist, sich am gesellschaftlichen und politischen Leben in digitalen Räumen zu beteiligen, um zivilgesellschaftliche Interessen zu wahren und die Gesellschaft mitzugestalten.
 <br>
 
-# Unsere Highlights aus dem letzen Jahr zum Nachlesen (chronologisch):
+# Unsere Highlights aus dem letzten Jahr zum Nachlesen (chronologisch):
 		
 
 * [Das Jugend hackt Jahr 2019 im Rückblick](https://jugendhackt.org/blog/das-jugend-hackt-jahr-2019-im-rueckblick/)

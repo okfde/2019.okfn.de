@@ -29,7 +29,7 @@ Im Jahr 2019 hat der Prototype Fund mit den Förderschwerpunkten Künstliche Int
 
 Darüber hinaus wurde in der Schweiz die Gründung eines neuen Mitglieds der Prototype-Fund-Familie vorbereitet. Auch der Ausblick ins Jahr 2020 verspricht viel Gutes: Mit Teamverstärkung und einem Podcast wird der Prototype Fund weiterhin mit voller Kraft daran arbeiten, Public Interest Tech im Diskurs zu verankern und einer breiteren Zielgruppe bekannt zu machen. Auch Code For Germany hat Verstärkung bekommen und wird mit einem Relaunch der Website und einem Schwerpunkt auf Nachhaltigkeit ins neue Jahr starten.
 
-# Unsere Highlights aus dem letzen Jahr zum Nachlesen (chronologisch):
+# Unsere Highlights aus dem letzten Jahr zum Nachlesen (chronologisch):
 
 * [Zahlen, bitte! Die Runde 7 des Prototype Fund am Rechenschieber visualisiert](https://prototypefund.de/zahlen-bitte-runde-7/)
 

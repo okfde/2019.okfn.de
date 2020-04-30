@@ -15,52 +15,42 @@ visual:
 <table width="500">
   <tr>
     <th>Jahr</th>
-    <th>Mitarbeiter*innen</th>
-    <th>davon hauptamtlich</th>
+    <th>hauptamtliche Mitarbeiter*innen</th>
   </tr>
   <tr>
     <td>2011</td>
-    <td>0</td>
     <td>0</td>
   </tr>
   <tr>
     <td>2012</td>
     <td>5</td>
-    <td>5</td>
   </tr>
   <tr>
     <td>2013</td>
-    <td>8</td>
     <td>8</td>
   </tr>
   <tr>
     <td>2014</td>
     <td>10</td>
-    <td>10</td>
   </tr>
   <tr>
     <td>2015</td>
-    <td>22</td>
     <td>22</td>
   </tr>
   <tr>
     <td>2016</td>
     <td>24</td>
-    <td>24</td>
   </tr>
   <tr>
     <td>2017</td>
-    <td>39</td>
     <td>39</td>
   </tr>
   <tr>
     <td>2018</td>
     <td>36</td>
-    <td>36</td>
   </tr>
   <tr>
     <td>2019</td>
-    <td>32</td>
     <td>32</td>
   </tr>
 </table>
@@ -144,7 +134,7 @@ Für das Geschäftsjahr 2019 gab es keine finanziellen, persönlichen oder recht
 
 ### Internes Kontrollsystem
 
-Das interne kaufmännische Kontrollsystem besteht aus einem projektgesteuerten 4-Augen-Prinzip im operativen Geschäft, einer personellen Trennung von Freigabe und Durchführung von Zahlungen sowie der internen Kassenprüfung. Darüber hinaus werden Buchhaltung und Jahresabschluss von einer externen Steuerkanzlei ausgeführt, welche eine weitere Kontrollinstanz für das Alltagsgeschäft bildet und vereinsschädigende oder gemeinnützigkeitsschädliche Handlungen direkt an die Geschäftsführung melden würde. Damit ebenfalls die Mitglieder ihre Informationen erhalten sowie eine wirksame Kontrolle durch die Mitgliederversammlung stattfinden kann, werden in zweijährigem Turnus je 2 Kassenprüfer\*innen bestimmt. Laut Satzungsänderung vom 11.11.2017 dürfen die Kassenprüfer\*innen nicht aus Vorstand und Belegschaft gestellt werden, um mögliche Interessenskonflikte zu vermeiden. Für das Geschäftsjahr 2019 wurde die Kassenprüfung gemäß Turnus erneut durch die Mitglieder Mark Brough und Timo Lundelius durchgeführt. 
+Das interne kaufmännische Kontrollsystem besteht aus einem projektgesteuerten 4-Augen-Prinzip im operativen Geschäft, einer personellen Trennung von Freigabe und Durchführung von Zahlungen sowie der internen Kassenprüfung. Darüber hinaus werden Buchhaltung und Jahresabschluss von einer externen Steuerkanzlei ausgeführt, welche eine weitere Kontrollinstanz für das Alltagsgeschäft bildet und vereinsschädigende oder gemeinnützigkeitsschädliche Handlungen direkt an die Geschäftsführung melden würde. Damit ebenfalls die Mitglieder ihre Informationen erhalten sowie eine wirksame Kontrolle durch die Mitgliederversammlung stattfinden kann, werden in jährlich je 2 Kassenprüfer\*innen bestimmt. Laut Satzungsänderung vom 11.11.2017 dürfen die Kassenprüfer\*innen nicht aus Vorstand und Belegschaft gestellt werden, um mögliche Interessenskonflikte zu vermeiden. Für das Geschäftsjahr 2019 wurde die Kassenprüfung gemäß Turnus erneut durch die Mitglieder Mark Brough und Timo Lundelius durchgeführt. 
 
 ## Eigentümerstruktur, Mitgliedschaften und verbundene Organisationen
 

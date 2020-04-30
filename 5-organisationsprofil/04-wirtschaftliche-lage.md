@@ -5,7 +5,7 @@ title: Wirtschaftliche Lage des Vereins
 permalink: /organisation/wirtschaftliche-lage/
 ---
 
-Die OKF DE verzeichnet seit ihrer Gründung 2011 eine positive wirtschaftliche Entwicklung und steigerte ihre Einnahmen kontinuierlich von Jahr zu Jahr. Die institutionellen Einnahmen machen weiterhin den größten Anteil aus. Spenden, insbesondere durch Privatpersonen, sind nicht nur kontinuierlich angewachsen, sondern verzeichneten 2019 einen großen Wachstumsschub. Mittels Projektförderungen werden etwa 80-85% der Gesamtaufwendungen gedeckt, so dass die wachsenden Einnahmen aus Spenden unserem Kernauftrag zugeführt werden können. Die Rücklagen des Eigenkapitals konnten 2019 planmäßig auf ca. 500.000 € gesteigert werden, so dass die laufenden Kosten für ca. 3 Monate abgedeckt sind.
+Die OKF DE verzeichnet seit ihrer Gründung 2011 eine positive wirtschaftliche Entwicklung und steigerte ihre Einnahmen kontinuierlich von Jahr zu Jahr. Die institutionellen Einnahmen machen weiterhin den größten Anteil aus. Spenden, insbesondere durch Privatpersonen, sind nicht nur kontinuierlich angewachsen, sondern verzeichneten 2019 einen großen Wachstumsschub. Mittels Projektförderungen werden etwa 80-85% der Gesamtaufwendungen gedeckt, sodass die wachsenden Einnahmen aus Spenden unserem Kernauftrag zugeführt werden können. Die Rücklagen des Eigenkapitals konnten 2019 planmäßig auf ca. 500.000 € gesteigert werden, so dass die laufenden Kosten für ca. 3 Monate abgedeckt sind.
 
 
 #### Institutionelle Zuwendungen
