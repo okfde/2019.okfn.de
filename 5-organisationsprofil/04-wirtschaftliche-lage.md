@@ -10,7 +10,7 @@ Die OKF DE verzeichnet seit ihrer Gründung 2011 eine positive wirtschaftliche E
 
 #### Institutionelle Zuwendungen
 
-Die OKF DE erreichte 2019 mit  1.850.000 € institutioneller Zuschüsse wieder ein sehr hohes Niveau  (VJ 2.050.000 €). Größter Zuschussgeber war das Bundesministerium für Bildung und Forschung (BMBF) für das Projekt _Prototype Fund_ mit 495.000 € bzw. einem Anteil von ca. 27%. Weitere signifikante Geldgeber waren die SKala-Initiative mit 319.000 € bzw. einem Anteil von ca. 17% für das Projekt _Jugend hackt_ und für unsere Organisationsentwicklung, gefolgt vom Luminate-Programm der Omidyar Group für unsere Policy Arbeit mit 220.000 € bzw. einem Anteil von ca. 12%. In der Analyse nach Zuschussgeber\*innen haben die deutschen öffentlichen Förderinstitutionen nach Abschuss der großen Projekte _Demokratielabore_ und _edulabs_ etwas an Bedeutung verloren; EU-Projekte führt die OKF DE aktuell nicht durch.
+Die OKF DE erreichte 2019 mit  1.844.000 € institutioneller Zuschüsse wieder ein sehr hohes Niveau  (VJ 2.054.000 €). Größter Zuschussgeber war das Bundesministerium für Bildung und Forschung (BMBF) für das Projekt _Prototype Fund_ mit 495.000 € bzw. einem Anteil von ca. 27%. Weitere signifikante Geldgeber waren die SKala-Initiative mit 319.000 € bzw. einem Anteil von ca. 17% für das Projekt _Jugend hackt_ und für unsere Organisationsentwicklung, gefolgt vom Luminate-Programm der Omidyar Group für unsere Policy Arbeit mit 220.000 € bzw. einem Anteil von ca. 12%. In der Analyse nach Zuschussgeber\*innen haben die deutschen öffentlichen Förderinstitutionen nach Abschuss der großen Projekte _Demokratielabore_ und _edulabs_ etwas an Bedeutung verloren; EU-Projekte führt die OKF DE aktuell nicht durch.
 
 #### Spenden
 
@@ -18,7 +18,7 @@ Die Zuwendungen aus Spenden belaufen sich auf 366.000 €. Ein großer Anteil di
 
 #### Ertragslage
 
-Die OKF DE erzielt 2019 Gesamterträge in Höhe von 2,423 Mio. €. Damit konnte das hohe Niveau des Vorjahres (2,498 Mio. €) gehalten werden. Der Gesamtaufwand beträgt 2,252 Mio. € (VJ 2,385 Mio. €). Der Gesamtaufwand untergliedert sich in Personalkosten in Höhe von 1,402 Mio. € (VJ 1,469 Mio. €), in Sachkosten in Höhe von 850 T€ (VJ 916 T€) sowie Steuern in Höhe von 30 T€ (Vorjahr 9 T€). Insgesamt ergibt sich ein operativer Überschuss vor Rücklagenveränderung in Höhe von 171 T€. 
+Die OKF DE erzielt 2019 Gesamterträge in Höhe von 2,423 Mio. €. Damit konnte das hohe Niveau des Vorjahres (2,498 Mio. €) gehalten werden. Der Gesamtaufwand beträgt 2,252 Mio. € (VJ 2,385 Mio. €). Der Gesamtaufwand untergliedert sich in Personalkosten in Höhe von 1,414 Mio. € (VJ 1,469 Mio. €), in Sachkosten in Höhe von 850 T€ (VJ 916 T€) sowie Steuern in Höhe von 30 T€ (Vorjahr 9 T€). Insgesamt ergibt sich ein operativer Überschuss vor Rücklagenveränderung in Höhe von 171 T€. 
 
 #### Vermögenslage
 
