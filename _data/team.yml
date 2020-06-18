@@ -19,8 +19,8 @@
   board: 0
   advisory: 0
   board_alumni: 1
-  position_en: 
   position: Praktikant* Volksentscheid Transparenz
+  position_en: 
   bio: "Alex war von Juli bis Oktober Praktikant* für den Volksentscheid Transparenz und hat bei organisatorischen Aufgaben, Presse- und Öffentlichkeitsarbeit unterstützt sowie der Koordination der ehrenamtlichen Sammler*innen."
   bio_en: ""
   mail: 
@@ -54,6 +54,19 @@
   twitter: bela_data
   website: https://github.com/seegerseeger/
 
+- name: Cin Pietschmann
+  img: unknown
+  staff: 1
+  board: 0
+  advisory: 0
+  position:  Studentische Mitarbeiterin Jugend hackt für Mentor*innen-Management und Diversitätsmaßnahmen 
+  position_en: Student assistant Jugend hackt 
+  bio: "Cin ist bei Jugend hackt im Rahmen der Städteevents für das Ehrenamtsmanagement zuständig und kümmert sich dabei um die Helfer*innen und Mentor*innen."
+  bio_en:
+  mail: 
+  twitter: 
+  website: 
+
 - name: Doris Jantoljak
   img: dorisjantoljak
   staff: 0
@@ -62,8 +75,8 @@
   board_alumni: 1
   position: Design Jugend hackt
   position_en: Design Jugend hackt
-  bio: "Doris ist Kommunikationsdesignerin und unterstützt das Team „Jugend hackt“. Mit Spezialisierung auf Markenentwicklung hat sie bereits für globale Unternehmen gearbeitet und bringt neben Ideen und Inspiration auch jede Menge Erfahrung mit. Sie interessiert sich für nachhaltiges Design und dafür, wie die fortschreitende Digitalisierung die Gesellschaft verändert. Dabei verliert sie nie den Blick fürs Wesentliche: Ein starkes Konzept sowie der effiziente Transport von Inhalten stehen bei ihr an oberster Stelle."
-  bio_en: "Doris is a communication designer and supports the »Jugend hackt« team. Specializing in brand development, she has already worked for global companies and brings a wealth of experience in addition to ideas and inspiration. She is interested in sustainable design and how advancing digitalization is changing society. At the same time, she never loses sight of the essential: A strong concept and the efficient transport of content are her top priorities."
+  bio: "Doris ist Kommunikationsdesignerin und unterstützt das Team von Jugend hackt. Mit Spezialisierung auf Markenentwicklung hat sie bereits für globale Unternehmen gearbeitet und bringt neben Ideen und Inspiration auch jede Menge Erfahrung mit. Sie interessiert sich für nachhaltiges Design und dafür, wie die fortschreitende Digitalisierung die Gesellschaft verändert. Dabei verliert sie nie den Blick fürs Wesentliche: Ein starkes Konzept sowie der effiziente Transport von Inhalten stehen bei ihr an oberster Stelle."
+  bio_en: "Doris is a communication designer and supports the Jugend hackt team. Specializing in brand development, she has already worked for global companies and brings a wealth of experience in addition to ideas and inspiration. She is interested in sustainable design and how advancing digitalization is changing society. At the same time, she never loses sight of the essential: A strong concept and the efficient transport of content are her top priorities."
   mail: doris.jantoljak@okfn.de
   twitter:
   website: https://jantoljak.de/
@@ -286,20 +299,6 @@
   mail: paula.gruenwald@okfn.de
   twitter: rinhia
 
-- name: Matthias Löwe
-  img: matthiasloewe
-  staff: 0
-  board: 0
-  advisory: 0
-  board_alumni: 1
-  position: Projektmanagement Demokratielabore
-  position_en: Project management Demokratielabore
-  bio: "Mat tüftelt seit 2017 an verrückten Workshopformaten der FamilienLabore und der Demokratielabore. Als Interaktionsdesigner setzt er sich generell für einen künstlerischen und kreativen Umgang mit Spielen und Spielmechaniken ein. In Form von Workshops, Talks und Festivals engagiert er sich darüber hinaus in der Initiative Creative Gaming, veranstaltet Spielkultur-Events wie temporäre Escape-Games, XBox-Rock Battles, GameJams und Nacherzähl-Wettbewerbe mit dem Gamestorm-Team, präsentiert und moderiert eine Machinima-Kinoshow und co-organisiert mit A MAZE. Veranstaltungen wie das europäische Indiegames Festival. Nebenbei koordiniert Mat und das Team des Code Week Awards weiterhin die Aktivitäten der deutschen Code Week."
-  bio_en: "Mat is working on crazy workshops for the FamilyLabs and the DemocracyLabs since 2017. As an interaction designer, he is researching playful interaction and gives workshops around the world. He is also engaged in workshops, talks and festivals of the Initiative Creative Gaming to establish an artistic and creative use of games by kids, stages gamejams and game-culture events like temporary escape games, XBox-Rock Battles or retell contests with the Gamestorm-team, shows game movies at a Machinima cinema and co-organizes A MAZE. events like the European indiegamefestival. In addition, Mat is coordinating the activities of the German Code Week together with the old Code Week Award team."
-  mail: "matthias.loewe@okfn.de"
-  twitter: sp4c31nv4d3r
-  website: http://matthiasloewe.eu
-
 - name: Markus Neuschäfer
   title: Dr.
   img: markusneuschaefer
@@ -315,6 +314,20 @@
   twitter: mneuschaefer
   website:
   github:
+
+- name: Matthias Löwe
+  img: matthiasloewe
+  staff: 0
+  board: 0
+  advisory: 0
+  board_alumni: 1
+  position: Projektmanagement Demokratielabore
+  position_en: Project management Demokratielabore
+  bio: "Mat tüftelt seit 2017 an verrückten Workshopformaten der FamilienLabore und der Demokratielabore. Als Interaktionsdesigner setzt er sich generell für einen künstlerischen und kreativen Umgang mit Spielen und Spielmechaniken ein. In Form von Workshops, Talks und Festivals engagiert er sich darüber hinaus in der Initiative Creative Gaming, veranstaltet Spielkultur-Events wie temporäre Escape-Games, XBox-Rock Battles, GameJams und Nacherzähl-Wettbewerbe mit dem Gamestorm-Team, präsentiert und moderiert eine Machinima-Kinoshow und co-organisiert mit A MAZE. Veranstaltungen wie das europäische Indiegames Festival. Nebenbei koordiniert Mat und das Team des Code Week Awards weiterhin die Aktivitäten der deutschen Code Week."
+  bio_en: "Mat is working on crazy workshops for the FamilyLabs and the DemocracyLabs since 2017. As an interaction designer, he is researching playful interaction and gives workshops around the world. He is also engaged in workshops, talks and festivals of the Initiative Creative Gaming to establish an artistic and creative use of games by kids, stages gamejams and game-culture events like temporary escape games, XBox-Rock Battles or retell contests with the Gamestorm-team, shows game movies at a Machinima cinema and co-organizes A MAZE. events like the European indiegamefestival. In addition, Mat is coordinating the activities of the German Code Week together with the old Code Week Award team."
+  mail: "matthias.loewe@okfn.de"
+  twitter: sp4c31nv4d3r
+  website: http://matthiasloewe.eu
 
 - name: Marie Gutbub
   img: marie_g
