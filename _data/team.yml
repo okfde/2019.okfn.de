@@ -286,19 +286,6 @@
   website:
   github: lydiaboe
 
-- name: Paula Grünwald (geb. Glaser)
-  img: paulaglaser
-  staff: 0
-  board: 0
-  advisory: 0
-  board_alumni: 1
-  position: "Projektleitung Jugend hackt"
-  position_en: "Project management Jugend hackt"
-  bio: "Paula ist seit 2015 bei der OKF DE.  Sie hat Jugend hackt als Programmmanagerin und inzwischen als Programmleiterin von einem Event in Berlin zu einem länderübergreifenden Netzwerk mit aufgebaut. Daneben hat sie als Projektmitarbeiterin einige Zeit bei den Demokratielaboren mitgewirkt."
-  bio_en: 'Paula has been working for the OKF from 2915 to 2020. She started out as program manager for Jugend hackt, later as one of the program leads and helped developing the programm from an one time event in Berlin to a multi national network. She also supported the "Demokratielabe" as a project manager for some time.'
-  mail: paula.gruenwald@okfn.de
-  twitter: rinhia
-
 - name: Markus Neuschäfer
   title: Dr.
   img: markusneuschaefer
@@ -411,6 +398,19 @@
   mail: "nadine.stammen@okfn.de"
   twitter: stadine
   website: https://nadinestammen.de
+
+- name: Paula Grünwald (geb. Glaser)
+  img: paulaglaser
+  staff: 0
+  board: 0
+  advisory: 0
+  board_alumni: 1
+  position: "Projektleitung Jugend hackt"
+  position_en: "Project management Jugend hackt"
+  bio: "Paula ist seit 2015 bei der OKF DE.  Sie hat Jugend hackt als Programmmanagerin und inzwischen als Programmleiterin von einem Event in Berlin zu einem länderübergreifenden Netzwerk mit aufgebaut. Daneben hat sie als Projektmitarbeiterin einige Zeit bei den Demokratielaboren mitgewirkt."
+  bio_en: 'Paula has been working for the OKF from 2915 to 2020. She started out as program manager for Jugend hackt, later as one of the program leads and helped developing the programm from an one time event in Berlin to a multi national network. She also supported the "Demokratielabe" as a project manager for some time.'
+  mail: paula.gruenwald@okfn.de
+  twitter: rinhia
 
 - name: Philip Steffan
   img: philipsteffan
