@@ -42,9 +42,7 @@ chapter:
     - label: Ausblick
       key: outlook
 
-matomo:
-   url: //traffic.okfn.de/
-   id: 51
+matomo: no
 
 
 # Build settings
